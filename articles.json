@@ -1,5 +1,23 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "US commander says mental health a 'priority' on USS Lincoln",
+    "published": "Sun, 16 Aug 2026 20:14:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "navy",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T20:55:09.814507+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
     "published": "Sun, 16 Aug 2026 19:03:04 GMT",
