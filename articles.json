@@ -1,5 +1,26 @@
 [
   {
+    "source": "BBC World",
+    "title": "Trump says US will scale back military drills with South Korea",
+    "published": "Sun, 16 Aug 2026 21:27:42 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "South Korea",
+      "Iran"
+    ],
+    "keywords": [
+      "military",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T21:43:31.048249+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "US commander says mental health a 'priority' on USS Lincoln",
     "published": "Sun, 16 Aug 2026 20:14:37 GMT",
