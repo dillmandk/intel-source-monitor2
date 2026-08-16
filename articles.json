@@ -1,0 +1,552 @@
+[
+  {
+    "source": "BBC World",
+    "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+    "published": "Sun, 16 Aug 2026 19:03:04 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "strike",
+      "strikes"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-16T19:43:04.273579+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+    "published": "Sun, 16 Aug 2026 19:00:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.273695+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+    "published": "Sun, 16 Aug 2026 09:27:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.273753+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+    "published": "Sat, 15 Aug 2026 20:21:14 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [
+      "military",
+      "soldiers",
+      "strike",
+      "strikes"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-16T19:43:04.273835+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Australian state to launch gun buyback after Bondi Beach attack",
+    "published": "Sat, 15 Aug 2026 21:41:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.273865+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "BBC seeks to subpoena family members in Panorama lawsuit",
+    "published": "Sun, 16 Aug 2026 00:11:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.273911+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "South Korea proposes talks to officially end war with North",
+    "published": "Sat, 15 Aug 2026 14:40:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "South Korea"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.273939+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "France's top court blocks social media ban for under-15s",
+    "published": "Fri, 14 Aug 2026 16:35:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.273972+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
+    "published": "Fri, 14 Aug 2026 23:16:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.274021+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "BBC visits smouldering Kyiv market after Russian strikes",
+    "published": "Sun, 16 Aug 2026 12:18:09 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-16T19:43:04.274132+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump asks US Supreme Court to allow ballroom work to continue",
+    "published": "Fri, 14 Aug 2026 19:05:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.414545+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Watch: Trump tells reporters why he switched planes",
+    "published": "Wed, 12 Aug 2026 13:13:40 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cp30p4ze3gxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Turkey",
+      "NATO"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.414790+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+    "published": "Wed, 12 Aug 2026 00:14:42 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.414847+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Decoys to hide presidents are common - but elaborate Trump ruse was different level",
+    "published": "Tue, 11 Aug 2026 20:39:42 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.414879+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Fact-checking Trump's claims as he rolls back some recommended vaccines",
+    "published": "Tue, 11 Aug 2026 23:16:38 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9q9dzp97l4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.414911+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+    "published": "Thu, 13 Aug 2026 04:55:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.683112+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
+    "published": "Thu, 13 Aug 2026 15:50:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.683213+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Family of Irish plane crash victim awarded $29m in damages",
+    "published": "Thu, 13 Aug 2026 19:08:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.683273+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+    "published": "Thu, 13 Aug 2026 03:28:56 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.683308+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+    "published": "Tue, 11 Aug 2026 16:19:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine",
+      "North Korea"
+    ],
+    "keywords": [
+      "missile",
+      "missiles",
+      "strike",
+      "strikes"
+    ],
+    "score": 90,
+    "priority": "HIGH",
+    "collected_at": "2026-08-16T19:43:04.683354+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Former judge removed by Orbán elected Hungarian president",
+    "published": "Tue, 11 Aug 2026 18:34:39 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.683400+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+    "published": "Wed, 12 Aug 2026 11:28:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "soldiers"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.683433+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+    "published": "Mon, 10 Aug 2026 14:34:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "attack",
+      "attacks",
+      "strike",
+      "invasion"
+    ],
+    "score": 100,
+    "priority": "HIGH",
+    "collected_at": "2026-08-16T19:43:04.683467+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Hundreds arrested over French wildfires, but who is to blame?",
+    "published": "Sat, 08 Aug 2026 23:59:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.683499+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "German airport drone-bomb: Could Russia be involved?",
+    "published": "Fri, 07 Aug 2026 08:48:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "drone",
+      "drones"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-16T19:43:04.683531+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+    "published": "Thu, 06 Aug 2026 05:00:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike",
+      "strikes"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-08-16T19:43:04.683562+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Influx of migrants to Ceuta gives Spain diplomatic headache",
+    "published": "Fri, 31 Jul 2026 19:17:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr7k49p7enjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "diplomatic"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.683637+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+    "published": "Thu, 23 Jul 2026 06:15:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "drones",
+      "war",
+      "attack",
+      "attacks"
+    ],
+    "score": 95,
+    "priority": "HIGH",
+    "collected_at": "2026-08-16T19:43:04.683681+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+    "published": "Mon, 20 Jul 2026 00:19:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "soldiers"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.683719+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+    "published": "Sat, 08 Aug 2026 15:59:37 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.683823+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Australian army whistleblower released on parole after more than two years in jail",
+    "published": "Thu, 13 Aug 2026 02:23:39 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Afghanistan",
+      "Australia"
+    ],
+    "keywords": [
+      "military",
+      "army"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-16T19:43:04.966370+00:00"
+  }
+]
