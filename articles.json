@@ -1,6 +1,26 @@
 [
   {
     "source": "BBC World",
+    "title": "Ukrainian strikes kill six in Russia, acting governor says",
+    "published": "Mon, 17 Aug 2026 07:41:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-17T08:04:54.731791+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
     "published": "Mon, 17 Aug 2026 04:50:56 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
