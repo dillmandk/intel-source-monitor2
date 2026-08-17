@@ -1,5 +1,41 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala",
+    "published": "Mon, 17 Aug 2026 15:35:47 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-17T17:01:48.750412+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Russia's prominent anti-war politician jailed for 11 years",
+    "published": "Mon, 17 Aug 2026 16:17:34 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "army",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-08-17T17:01:48.882564+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
     "published": "Mon, 17 Aug 2026 15:33:42 GMT",
