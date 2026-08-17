@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+    "published": "Mon, 17 Aug 2026 14:36:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-17T14:58:53.314682+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Top Zambian opposition figures arrested days after presidential vote",
     "published": "Mon, 17 Aug 2026 09:01:06 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
