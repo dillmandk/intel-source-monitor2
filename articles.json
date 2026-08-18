@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "US announces new sanctions on top ICC figures",
+    "published": "Tue, 18 Aug 2026 17:40:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-08-18T18:03:14.736027+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Brazil's President Lula hails oil discovery near Amazon river",
     "published": "Tue, 18 Aug 2026 13:13:54 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
