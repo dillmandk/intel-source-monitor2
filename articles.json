@@ -1,5 +1,46 @@
 [
   {
+    "source": "BBC World",
+    "title": "Russia warns UK over supplying drones to Ukraine",
+    "published": "Tue, 18 Aug 2026 01:16:41 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "keywords": [
+      "drone",
+      "drones",
+      "war"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-18T03:12:18.992843+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "BBC breaks down Trump's latest shift on North and South Korea",
+    "published": "Mon, 17 Aug 2026 23:42:38 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "South Korea"
+    ],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-08-18T03:12:18.992888+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "'He's a real hero' - Trump meets teen lifeguard after dramatic rescue",
     "published": "Mon, 17 Aug 2026 20:07:13 GMT",
