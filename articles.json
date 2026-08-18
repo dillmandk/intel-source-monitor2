@@ -1,6 +1,24 @@
 [
   {
     "source": "BBC World",
+    "title": "China censors public mourning as it holds former premier's funeral",
+    "published": "Tue, 18 Aug 2026 07:17:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-18T08:04:27.346891+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Inside secret police warehouse as Germany targets small boats gangs",
     "published": "Tue, 18 Aug 2026 05:02:58 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
