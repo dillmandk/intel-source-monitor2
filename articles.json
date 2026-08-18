@@ -1,5 +1,24 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "Kanye West announces tour dates in Russia",
+    "published": "Tue, 18 Aug 2026 09:55:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cd9w4v1nx93o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "invasion"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-08-18T11:00:47.261275+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Indian student leader ends hunger strike after 16 days",
     "published": "Tue, 18 Aug 2026 07:27:32 GMT",
