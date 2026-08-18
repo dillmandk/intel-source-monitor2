@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+    "published": "Tue, 18 Aug 2026 20:48:09 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-18T21:49:05.834831+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Judge swapped in Trump's defamation case against BBC",
     "published": "Tue, 18 Aug 2026 19:52:32 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
