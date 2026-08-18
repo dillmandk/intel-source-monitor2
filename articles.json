@@ -1,6 +1,38 @@
 [
   {
     "source": "BBC World",
+    "title": "Inside secret police warehouse as Germany targets small boats gangs",
+    "published": "Tue, 18 Aug 2026 05:02:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-18T06:02:34.922936+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "What it's like to be on a warship like the USS Abraham Lincoln",
+    "published": "Tue, 18 Aug 2026 05:07:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-18T06:02:34.923281+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russia warns UK over supplying drones to Ukraine",
     "published": "Tue, 18 Aug 2026 01:16:41 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
