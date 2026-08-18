@@ -1,6 +1,38 @@
 [
   {
     "source": "BBC World",
+    "title": "Indian student leader ends hunger strike after 16 days",
+    "published": "Tue, 18 Aug 2026 07:27:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [
+      "strike"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-18T09:54:04.613822+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Zambia's president wins second term with 60% of the vote",
+    "published": "Tue, 18 Aug 2026 07:46:55 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-18T09:54:04.613859+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "China censors public mourning as it holds former premier's funeral",
     "published": "Tue, 18 Aug 2026 07:17:07 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
