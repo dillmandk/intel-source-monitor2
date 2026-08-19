@@ -1,6 +1,45 @@
 [
   {
     "source": "BBC World",
+    "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
+    "published": "Wed, 19 Aug 2026 09:48:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political",
+      "cyber"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "cyber attack"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-19T11:00:04.809531+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Why has Russia threatened the UK and what happens next?",
+    "published": "Tue, 18 Aug 2026 21:45:17 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cvgwygqv5dqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-19T11:00:04.809695+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
     "published": "Wed, 19 Aug 2026 08:25:03 GMT",
     "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
