@@ -1,6 +1,45 @@
 [
   {
     "source": "BBC World",
+    "title": "South Korea shortens war games with US, citing Washington request",
+    "published": "Wed, 19 Aug 2026 03:39:41 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "North Korea",
+      "South Korea"
+    ],
+    "keywords": [
+      "military",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-08-19T05:05:23.952930+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
+    "published": "Wed, 19 Aug 2026 03:12:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "terrorism"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "hostage"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-08-19T05:05:23.953007+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Sacked Ukrainian defence minister calls for presidential election",
     "published": "Wed, 19 Aug 2026 01:31:15 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
