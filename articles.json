@@ -1,6 +1,56 @@
 [
   {
     "source": "BBC World",
+    "title": "Who is Natalie Harp, Trump's right-hand woman?",
+    "published": "Wed, 19 Aug 2026 19:02:41 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-19T20:00:27.126302+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+    "published": "Wed, 19 Aug 2026 17:46:01 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-19T20:00:27.126382+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Watch: Trump leads tour of White House helipad construction site",
+    "published": "Wed, 19 Aug 2026 18:30:15 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c4g61p4n1z4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-19T20:00:27.192526+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
     "published": "Wed, 19 Aug 2026 15:38:38 GMT",
     "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
