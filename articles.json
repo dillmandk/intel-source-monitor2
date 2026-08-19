@@ -1,6 +1,56 @@
 [
   {
     "source": "BBC World",
+    "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
+    "published": "Wed, 19 Aug 2026 15:38:38 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-19T17:58:10.094322+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+    "published": "Wed, 19 Aug 2026 17:47:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-19T17:58:10.246421+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump nominates aide Heidi Overton to lead US Food and Drug Administration",
+    "published": "Wed, 19 Aug 2026 16:55:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckg3j6xzxk2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "tank"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-08-19T17:58:10.246483+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
     "published": "Wed, 19 Aug 2026 13:53:51 GMT",
     "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
