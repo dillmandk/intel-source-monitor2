@@ -1,6 +1,29 @@
 [
   {
     "source": "BBC World",
+    "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+    "published": "Wed, 19 Aug 2026 00:48:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Syria"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike",
+      "strikes",
+      "airstrike"
+    ],
+    "score": 100,
+    "priority": "HIGH",
+    "collected_at": "2026-08-19T08:04:50.613796+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "South Korea shortens war games with US, citing Washington request",
     "published": "Wed, 19 Aug 2026 03:39:41 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
