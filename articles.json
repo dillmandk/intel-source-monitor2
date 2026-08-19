@@ -1,6 +1,53 @@
 [
   {
     "source": "BBC World",
+    "title": "Sacked Ukrainian defence minister calls for presidential election",
+    "published": "Wed, 19 Aug 2026 01:31:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-19T03:15:04.573549+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+    "published": "Wed, 19 Aug 2026 02:41:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-19T03:15:04.573605+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+    "published": "Wed, 19 Aug 2026 03:00:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "combat"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-08-19T03:15:04.573661+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
     "published": "Tue, 18 Aug 2026 20:48:09 GMT",
     "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
