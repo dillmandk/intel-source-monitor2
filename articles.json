@@ -1,6 +1,24 @@
 [
   {
     "source": "BBC World",
+    "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+    "published": "Thu, 20 Aug 2026 19:19:20 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-08-20T19:44:33.098557+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
     "published": "Thu, 20 Aug 2026 13:04:15 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
