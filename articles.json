@@ -1,5 +1,37 @@
 [
   {
+    "source": "BBC World",
+    "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+    "published": "Thu, 20 Aug 2026 23:16:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-08-20T23:58:52.773199+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Why Nigeria's one-time political giant may face extinction",
+    "published": "Thu, 20 Aug 2026 23:21:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-20T23:58:52.773510+00:00"
+  },
+  {
     "source": "BBC Asia",
     "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
     "published": "Thu, 20 Aug 2026 22:01:26 GMT",
