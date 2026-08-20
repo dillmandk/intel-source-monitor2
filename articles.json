@@ -1,5 +1,39 @@
 [
   {
+    "source": "BBC World",
+    "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+    "published": "Thu, 20 Aug 2026 13:04:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-08-20T14:20:50.220418+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Assad officer extradited to Syria on war crimes charges for first time",
+    "published": "Thu, 20 Aug 2026 12:38:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Syria"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-20T14:20:50.220452+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "What is postpartum psychosis and why is it central in the Lindsay Clancy trial?",
     "published": "Wed, 19 Aug 2026 21:42:42 GMT",
