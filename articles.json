@@ -1,6 +1,30 @@
 [
   {
     "source": "BBC World",
+    "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+    "published": "Thu, 20 Aug 2026 04:46:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "missile",
+      "war",
+      "attack",
+      "strike",
+      "strikes"
+    ],
+    "score": 100,
+    "priority": "HIGH",
+    "collected_at": "2026-08-20T05:06:46.153059+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
     "published": "Thu, 20 Aug 2026 02:16:49 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
