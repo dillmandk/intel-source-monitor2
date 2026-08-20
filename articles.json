@@ -1,6 +1,27 @@
 [
   {
     "source": "BBC World",
+    "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+    "published": "Thu, 20 Aug 2026 05:01:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "soldiers",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-08-20T06:04:13.419915+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
     "published": "Thu, 20 Aug 2026 04:46:32 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
