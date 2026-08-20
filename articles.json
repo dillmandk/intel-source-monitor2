@@ -1,5 +1,42 @@
 [
   {
+    "source": "BBC World",
+    "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+    "published": "Thu, 20 Aug 2026 02:16:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "military",
+      "diplomatic"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-20T03:13:54.469947+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Former Liberian vice president charged in drug-trafficking probe",
+    "published": "Thu, 20 Aug 2026 03:09:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-20T03:13:54.469991+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "US long-term borrowing costs ease after government steps in",
     "published": "Wed, 19 Aug 2026 19:26:06 GMT",
