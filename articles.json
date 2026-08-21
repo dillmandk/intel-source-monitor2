@@ -1,6 +1,24 @@
 [
   {
     "source": "BBC World",
+    "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+    "published": "Fri, 21 Aug 2026 11:31:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-21T12:03:10.097294+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
     "published": "Fri, 21 Aug 2026 09:53:47 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
