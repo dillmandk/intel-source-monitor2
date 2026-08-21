@@ -1,5 +1,67 @@
 [
   {
+    "source": "BBC World",
+    "title": "Several injured after sword attack at Swedish school",
+    "published": "Fri, 21 Aug 2026 15:42:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-08-21T15:56:55.805184+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+    "published": "Fri, 21 Aug 2026 13:44:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-21T15:56:55.805216+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Tornadoes touch down in New York and Delaware",
+    "published": "Fri, 21 Aug 2026 14:35:50 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-21T15:56:55.805566+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
+    "published": "Fri, 21 Aug 2026 15:34:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-21T15:56:56.114881+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Warning signs flash on US economy as debt spirals",
     "published": "Fri, 21 Aug 2026 08:38:18 GMT",
