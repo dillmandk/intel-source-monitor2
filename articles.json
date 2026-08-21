@@ -1,6 +1,44 @@
 [
   {
     "source": "BBC World",
+    "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
+    "published": "Fri, 21 Aug 2026 16:20:55 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "drone",
+      "strike",
+      "strikes"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-21T17:16:07.323021+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+    "published": "Fri, 21 Aug 2026 16:26:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "weapon",
+      "weapons"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-08-21T17:16:07.683226+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Several injured after sword attack at Swedish school",
     "published": "Fri, 21 Aug 2026 15:42:47 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
