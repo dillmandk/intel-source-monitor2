@@ -1,6 +1,23 @@
 [
   {
     "source": "BBC World",
+    "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+    "published": "Fri, 21 Aug 2026 09:53:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "air force"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-08-21T09:56:35.805559+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
     "published": "Fri, 21 Aug 2026 05:00:57 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
