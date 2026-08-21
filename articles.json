@@ -1,6 +1,63 @@
 [
   {
     "source": "BBC World",
+    "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+    "published": "Fri, 21 Aug 2026 18:51:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "strike"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-21T19:09:13.187946+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+    "published": "Fri, 21 Aug 2026 15:58:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories",
+      "Australia"
+    ],
+    "keywords": [
+      "strike"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-21T19:09:13.187994+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Two injured in stabbing attack at Canada Sikh temple",
+    "published": "Fri, 21 Aug 2026 18:27:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-08-21T19:09:13.188020+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
     "published": "Fri, 21 Aug 2026 16:20:55 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
