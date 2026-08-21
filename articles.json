@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "US sanctions more Cuban companies and officials",
+    "published": "Fri, 21 Aug 2026 02:06:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-08-21T03:32:31.830727+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "How much could Trump's 'economic D-Day' hurt Iran?",
     "published": "Thu, 20 Aug 2026 23:16:45 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
