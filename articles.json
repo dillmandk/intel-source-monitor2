@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "US military newspaper editor voices censorship fears after being fired",
+    "published": "Sat, 22 Aug 2026 16:57:19 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-08-22T17:50:38.603082+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
     "published": "Sat, 22 Aug 2026 16:45:02 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
