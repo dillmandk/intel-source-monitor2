@@ -1,5 +1,21 @@
 [
   {
+    "source": "BBC World",
+    "title": "Fourteen killed in strike on Myanmar monastery",
+    "published": "Sat, 22 Aug 2026 13:48:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "strike"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-22T14:46:25.846356+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Mother suffering 'command hallucination' when she killed children, court hears",
     "published": "Sat, 22 Aug 2026 03:43:26 GMT",
