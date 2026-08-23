@@ -1,6 +1,25 @@
 [
   {
     "source": "BBC World",
+    "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+    "published": "Sun, 23 Aug 2026 10:22:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "attack",
+      "attacks"
+    ],
+    "score": 45,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-23T10:56:09.991222+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
     "published": "Sun, 23 Aug 2026 08:47:47 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
