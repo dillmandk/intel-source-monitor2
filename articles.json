@@ -1,6 +1,44 @@
 [
   {
     "source": "BBC World",
+    "title": "Syria says Israeli strike near Damascus violation of international law",
+    "published": "Sat, 22 Aug 2026 21:42:42 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Syria",
+      "Turkey"
+    ],
+    "keywords": [
+      "military",
+      "strike"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-08-23T03:30:17.278186+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Swedish sword attack victim was 17-year-old girl, police say",
+    "published": "Sun, 23 Aug 2026 01:34:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-08-23T03:30:17.278255+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US military newspaper editor voices censorship fears after being fired",
     "published": "Sat, 22 Aug 2026 16:57:19 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
