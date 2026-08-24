@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC US & Canada",
+    "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+    "published": "Mon, 24 Aug 2026 21:20:48 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-24T22:01:42.452572+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
     "title": "Watch: Doug Ford's blunt warning to Trump over Canada tariffs",
     "published": "Mon, 24 Aug 2026 19:45:59 GMT",
     "link": "https://www.bbc.co.uk/news/videos/cx2zgr4272zo?at_medium=RSS&at_campaign=rss",
