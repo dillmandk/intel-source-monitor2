@@ -1,6 +1,38 @@
 [
   {
     "source": "BBC World",
+    "title": "'Half my business will be gone' - Firms in Canada and US fear trade war",
+    "published": "Mon, 24 Aug 2026 09:47:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-24T10:24:05.158629+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
+    "published": "Mon, 24 Aug 2026 10:05:22 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-24T10:24:05.158689+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
     "published": "Sun, 23 Aug 2026 23:07:10 GMT",
     "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
