@@ -1,5 +1,38 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "Watch: Doug Ford's blunt warning to Trump over Canada tariffs",
+    "published": "Mon, 24 Aug 2026 19:45:59 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cx2zgr4272zo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-24T21:03:57.067568+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "'Absolutely ridiculous': Canadians react to new tariff tensions with the US",
+    "published": "Mon, 24 Aug 2026 20:20:11 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c20973ylx94o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-24T21:03:57.067866+00:00"
+  },
+  {
     "source": "BBC Europe",
     "title": "Dutch broadcaster Avrotros pulls out of  2027 Eurovision Song Contest",
     "published": "Mon, 24 Aug 2026 10:54:22 GMT",
