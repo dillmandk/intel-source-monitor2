@@ -1,6 +1,47 @@
 [
   {
     "source": "BBC World",
+    "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+    "published": "Sun, 23 Aug 2026 23:07:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "keywords": [
+      "drone",
+      "drones",
+      "war"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-24T03:33:06.624595+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Australian shark attack victim grateful for 'second chance at life'",
+    "published": "Mon, 24 Aug 2026 00:34:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "war",
+      "attack"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-08-24T03:33:06.624776+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Guinea rubbish landfill collapse kills 30",
     "published": "Sun, 23 Aug 2026 18:17:37 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
