@@ -1,6 +1,73 @@
 [
   {
     "source": "BBC World",
+    "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+    "published": "Mon, 24 Aug 2026 10:40:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war",
+      "strike",
+      "strikes"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-24T11:51:13.550778+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+    "published": "Mon, 24 Aug 2026 10:39:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "offensive"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-08-24T11:51:13.550832+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Access to Zambian courts prevented as election petition deadline looms",
+    "published": "Mon, 24 Aug 2026 11:17:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-24T11:51:13.550899+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "What do locals think of IndyCar in Washington DC?",
+    "published": "Mon, 24 Aug 2026 04:51:49 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-24T11:51:13.551252+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "'Half my business will be gone' - Firms in Canada and US fear trade war",
     "published": "Mon, 24 Aug 2026 09:47:22 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
