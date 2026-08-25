@@ -1,6 +1,45 @@
 [
   {
     "source": "BBC World",
+    "title": "Lockerbie bombing trial postponed days before it was due to start",
+    "published": "Tue, 25 Aug 2026 06:59:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "bombing"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-08-25T07:33:10.204982+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+    "published": "Tue, 25 Aug 2026 04:06:34 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "keywords": [
+      "missile",
+      "drone",
+      "attack",
+      "attacks"
+    ],
+    "score": 80,
+    "priority": "HIGH",
+    "collected_at": "2026-08-25T07:33:10.205020+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US removes Syria from list of state sponsors of terrorism",
     "published": "Tue, 25 Aug 2026 00:17:25 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
