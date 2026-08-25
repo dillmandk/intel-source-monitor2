@@ -1,5 +1,25 @@
 [
   {
+    "source": "BBC World",
+    "title": "US removes Syria from list of state sponsors of terrorism",
+    "published": "Tue, 25 Aug 2026 00:17:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political",
+      "terrorism"
+    ],
+    "locations": [
+      "Syria"
+    ],
+    "keywords": [
+      "terrorism",
+      "militant"
+    ],
+    "score": 50,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-25T03:16:30.247827+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
     "published": "Mon, 24 Aug 2026 21:20:48 GMT",
