@@ -1,5 +1,49 @@
 [
   {
+    "source": "BBC World",
+    "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+    "published": "Tue, 25 Aug 2026 17:54:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-25T19:46:33.413633+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
+    "published": "Tue, 25 Aug 2026 16:40:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-25T19:46:33.413800+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
+    "published": "Tue, 25 Aug 2026 19:11:40 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-25T19:46:33.590793+00:00"
+  },
+  {
     "source": "BBC Europe",
     "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
     "published": "Tue, 25 Aug 2026 17:12:21 GMT",
