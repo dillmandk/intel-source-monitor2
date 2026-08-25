@@ -1,6 +1,27 @@
 [
   {
     "source": "BBC World",
+    "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+    "published": "Tue, 25 Aug 2026 10:56:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "China",
+      "Iran"
+    ],
+    "keywords": [
+      "war",
+      "sanctions"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-08-25T11:02:38.521478+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Lockerbie bombing trial postponed days before it was due to start",
     "published": "Tue, 25 Aug 2026 06:59:03 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
