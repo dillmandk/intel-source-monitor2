@@ -1,5 +1,25 @@
 [
   {
+    "source": "BBC Europe",
+    "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+    "published": "Tue, 25 Aug 2026 23:50:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-08-26T08:03:19.734273+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
     "published": "Tue, 25 Aug 2026 17:54:03 GMT",
