@@ -1,6 +1,60 @@
 [
   {
     "source": "BBC World",
+    "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+    "published": "Wed, 26 Aug 2026 12:32:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Pakistan"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-26T14:27:54.557967+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+    "published": "Wed, 26 Aug 2026 12:17:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "China",
+      "Taiwan"
+    ],
+    "keywords": [
+      "diplomatic"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-08-26T14:27:54.558161+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
+    "published": "Wed, 26 Aug 2026 13:49:55 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "soldiers"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-08-26T14:27:54.558199+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
     "published": "Wed, 26 Aug 2026 08:17:45 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
