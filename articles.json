@@ -1,6 +1,238 @@
 [
   {
     "source": "BBC World",
+    "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+    "published": "Fri, 28 Aug 2026 19:05:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "NATO"
+    ],
+    "keywords": [
+      "military",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-08-28T21:53:29.078541+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Berlin is being blackmailed by hackers, mayor says",
+    "published": "Fri, 28 Aug 2026 21:29:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "cyber"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "hacker",
+      "hackers"
+    ],
+    "score": 45,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-28T21:53:29.078602+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Violence breaks out in Ceuta as migrant crisis continues",
+    "published": "Fri, 28 Aug 2026 16:30:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-08-28T21:53:29.078655+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "US plans to cut off military aid to key Middle East ally, BBC told",
+    "published": "Fri, 28 Aug 2026 19:45:39 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Iran",
+      "Iraq"
+    ],
+    "keywords": [
+      "military",
+      "attack",
+      "attacks"
+    ],
+    "score": 45,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-28T21:53:29.078694+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Two-year curfew lifted in Sudan's capital",
+    "published": "Fri, 28 Aug 2026 14:18:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-08-28T21:53:29.078723+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Dutch court sentences man to life over Rwanda genocide",
+    "published": "Fri, 28 Aug 2026 12:15:46 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-28T21:53:29.078769+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+    "published": "Fri, 28 Aug 2026 03:41:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-08-28T21:53:29.078807+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+    "published": "Fri, 28 Aug 2026 15:15:26 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-28T21:53:29.078836+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+    "published": "Fri, 28 Aug 2026 21:17:54 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-28T21:53:29.078939+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
+    "published": "Fri, 28 Aug 2026 14:06:13 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-08-28T21:53:29.078967+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Nepal army rescues survivors from hydropower tunnel",
+    "published": "Fri, 28 Aug 2026 08:33:14 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cddv0rldqqlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "army"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-08-28T21:53:29.079026+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Six months into the Iran war: What has Trump accomplished?",
+    "published": "Fri, 28 Aug 2026 06:34:48 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cr7dnemgd03o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-28T21:53:29.133013+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "'High risk' of lake breaching and causing second flood, warns China",
+    "published": "Fri, 28 Aug 2026 10:50:34 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-28T21:53:29.231612+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
     "published": "Thu, 27 Aug 2026 17:05:22 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
