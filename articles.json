@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Former Ecuadorian president imprisoned for corruption",
+    "published": "Sat, 29 Aug 2026 19:44:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-29T19:51:46.313116+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Deadly strike on Kyiv warehouse prompts evacuations",
     "published": "Sat, 29 Aug 2026 13:55:55 GMT",
     "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
