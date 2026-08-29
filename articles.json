@@ -1,6 +1,24 @@
 [
   {
     "source": "BBC World",
+    "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
+    "published": "Sat, 29 Aug 2026 09:38:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "strike",
+      "strikes"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-29T09:51:44.674679+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
     "published": "Sat, 29 Aug 2026 07:11:04 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
