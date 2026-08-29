@@ -1,6 +1,25 @@
 [
   {
     "source": "BBC World",
+    "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+    "published": "Sat, 29 Aug 2026 01:14:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war",
+      "attack"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-08-29T01:21:47.460996+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Close race as Iceland votes on whether to restart talks on joining EU",
     "published": "Sat, 29 Aug 2026 00:56:19 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
