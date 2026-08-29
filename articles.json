@@ -1,6 +1,25 @@
 [
   {
     "source": "BBC World",
+    "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+    "published": "Sat, 29 Aug 2026 13:55:55 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "war",
+      "strike"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-29T14:08:30.697469+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
     "published": "Sat, 29 Aug 2026 09:38:07 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
