@@ -1,6 +1,28 @@
 [
   {
     "source": "BBC World",
+    "title": "Russia says it helped to repel Niger attempted coup",
+    "published": "Sun, 30 Aug 2026 16:33:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "military",
+      "soldiers",
+      "war",
+      "attack"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-30T16:41:34.857990+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Iceland votes against restarting talks on joining EU",
     "published": "Sun, 30 Aug 2026 09:49:05 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
