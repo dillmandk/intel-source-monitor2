@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC World",
+    "title": "Iceland votes against restarting talks on joining EU",
+    "published": "Sun, 30 Aug 2026 09:49:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-08-30T09:58:17.416850+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Former Ecuadorian president imprisoned for corruption",
     "published": "Sat, 29 Aug 2026 19:44:54 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
