@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+    "published": "Sun, 30 Aug 2026 16:48:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-30T16:58:38.120003+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russia says it helped to repel Niger attempted coup",
     "published": "Sun, 30 Aug 2026 16:33:17 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
