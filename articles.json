@@ -1,5 +1,25 @@
 [
   {
+    "source": "BBC World",
+    "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+    "published": "Sun, 30 Aug 2026 21:15:42 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "attack",
+      "strike",
+      "strikes"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-30T21:28:36.003466+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "\"A giant leap forward\": Nasa launches powerful new space telescope to explore mysteries of the Universe",
     "published": "Sun, 30 Aug 2026 15:28:08 GMT",
