@@ -1,5 +1,39 @@
 [
   {
+    "source": "BBC Asia",
+    "title": "Why is this teenager fighting fires dressed as Superman?",
+    "published": "Mon, 31 Aug 2026 01:07:06 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cp84ql8lld9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "fighting"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-08-31T05:11:44.967119+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "'Like fighting a dinosaur': Sydney woman recalls how she punched shark during attack",
+    "published": "Mon, 31 Aug 2026 00:44:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3v4px7yv6xo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war",
+      "attack",
+      "fighting"
+    ],
+    "score": 50,
+    "priority": "MEDIUM",
+    "collected_at": "2026-08-31T05:11:44.967151+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
     "published": "Sun, 30 Aug 2026 21:15:42 GMT",
