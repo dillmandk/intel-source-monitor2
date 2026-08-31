@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
+    "published": "Mon, 31 Aug 2026 10:54:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "strike"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-08-31T11:12:00.359381+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "How the US-Canada trade war is being felt on both sides of the border",
     "published": "Mon, 31 Aug 2026 00:05:22 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
