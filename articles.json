@@ -1,6 +1,26 @@
 [
   {
     "source": "BBC World",
+    "title": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
+    "published": "Tue, 01 Sep 2026 11:55:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine",
+      "India"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-01T12:06:56.750139+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Israeli fire kills three in Gaza City during reported raid, medics say",
     "published": "Tue, 01 Sep 2026 10:40:55 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
