@@ -1,6 +1,44 @@
 [
   {
     "source": "BBC World",
+    "title": "Germany says Russia behind Leipzig airport drone attack",
+    "published": "Tue, 01 Sep 2026 16:13:48 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "attack"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-01T16:14:16.114025+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally",
+    "published": "Tue, 01 Sep 2026 15:51:40 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-01T16:14:16.114114+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
     "published": "Tue, 01 Sep 2026 11:55:51 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
