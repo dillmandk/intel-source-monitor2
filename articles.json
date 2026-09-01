@@ -1,5 +1,26 @@
 [
   {
+    "source": "BBC Europe",
+    "title": "Russian strike hits rail workers in new deadly attacks on Kyiv",
+    "published": "Tue, 01 Sep 2026 06:48:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-01T07:16:19.692952+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Zambia's president to be sworn in for second term while opponent detained",
     "published": "Tue, 01 Sep 2026 06:43:06 GMT",
