@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "US army secretary resigns after months of tension",
+    "published": "Tue, 01 Sep 2026 01:01:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "army"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-01T01:30:14.320750+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
     "published": "Mon, 31 Aug 2026 20:36:48 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
