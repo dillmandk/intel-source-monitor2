@@ -1,6 +1,29 @@
 [
   {
     "source": "BBC World",
+    "title": "Israeli fire kills three in Gaza City during reported raid, medics say",
+    "published": "Tue, 01 Sep 2026 10:40:55 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "military",
+      "artillery",
+      "strike",
+      "strikes"
+    ],
+    "score": 70,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-01T10:52:27.624259+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Teen girl charged with murder over recording of San Diego mosque attack",
     "published": "Tue, 01 Sep 2026 10:26:50 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss",
