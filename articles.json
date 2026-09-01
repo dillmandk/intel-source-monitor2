@@ -1,5 +1,23 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "How a small island in Canada appeared, vanished, and was found again",
+    "published": "Tue, 01 Sep 2026 17:36:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "United Kingdom"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-01T21:33:28.671346+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "US launches more strikes on Iran as state media reports explosions",
     "published": "Tue, 01 Sep 2026 17:54:01 GMT",
