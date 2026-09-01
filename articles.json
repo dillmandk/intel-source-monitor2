@@ -1,6 +1,26 @@
 [
   {
     "source": "BBC World",
+    "title": "US launches more strikes on Iran as state media reports explosions",
+    "published": "Tue, 01 Sep 2026 17:54:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "United States",
+      "Iran"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-01T18:59:05.013249+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Germany says Russia behind Leipzig airport drone attack",
     "published": "Tue, 01 Sep 2026 16:13:48 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
