@@ -1,6 +1,26 @@
 [
   {
     "source": "BBC World",
+    "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+    "published": "Wed, 02 Sep 2026 17:33:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "tank",
+      "attack"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-09-02T17:49:01.333308+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "What we know about reported strike on Iran wedding celebrations",
     "published": "Wed, 02 Sep 2026 10:33:47 GMT",
     "link": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
