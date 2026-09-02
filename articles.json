@@ -1,6 +1,23 @@
 [
   {
     "source": "BBC World",
+    "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+    "published": "Wed, 02 Sep 2026 11:47:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "United Kingdom"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-02T12:22:33.669265+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Guinea-Bissau referendum approves new constitution that expands president's powers",
     "published": "Wed, 02 Sep 2026 07:48:39 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss",
