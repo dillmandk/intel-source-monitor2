@@ -1,6 +1,43 @@
 [
   {
     "source": "BBC World",
+    "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+    "published": "Wed, 02 Sep 2026 13:04:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "NATO"
+    ],
+    "keywords": [
+      "drone",
+      "attack"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-02T13:25:57.469920+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Pub's 'beloved' manager stabbed to death in Germany",
+    "published": "Wed, 02 Sep 2026 12:51:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckgw8e8p0ngo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-02T13:25:57.858333+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
     "published": "Wed, 02 Sep 2026 11:47:11 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
