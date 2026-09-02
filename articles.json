@@ -1,6 +1,24 @@
 [
   {
     "source": "BBC World",
+    "title": "Israel expanding presence in Lebanon, officials say, as BBC visits occupied areas",
+    "published": "Wed, 02 Sep 2026 05:03:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [
+      "troops"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-02T05:38:11.786520+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
     "published": "Wed, 02 Sep 2026 04:23:23 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
