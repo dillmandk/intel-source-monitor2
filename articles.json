@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Why do US troops have history with this Thai city?",
+    "published": "Wed, 02 Sep 2026 07:18:39 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "troops"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-02T07:24:57.642180+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Israel expanding presence in Lebanon, officials say, as BBC visits occupied areas",
     "published": "Wed, 02 Sep 2026 05:03:09 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
