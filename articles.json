@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC US & Canada",
+    "title": "Pennsylvania officer charged in death of student who knocked at wrong door",
+    "published": "Wed, 02 Sep 2026 01:52:48 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/clyk3351mj5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-02T02:24:59.242006+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
     "title": "How a small island in Canada appeared, vanished, and was found again",
     "published": "Tue, 01 Sep 2026 17:36:44 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo?at_medium=RSS&at_campaign=rss",
