@@ -1,5 +1,28 @@
 [
   {
+    "source": "BBC World",
+    "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+    "published": "Wed, 02 Sep 2026 04:23:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine",
+      "China"
+    ],
+    "keywords": [
+      "drone",
+      "attack",
+      "attacks"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-02T04:58:25.519535+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Pennsylvania officer charged in death of student who knocked at wrong door",
     "published": "Wed, 02 Sep 2026 01:52:48 GMT",
