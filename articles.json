@@ -1,5 +1,42 @@
 [
   {
+    "source": "BBC World",
+    "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
+    "published": "Thu, 03 Sep 2026 16:16:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-03T23:40:54.661851+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "US investigating if missile hit Iran wedding, Vance says",
+    "published": "Thu, 03 Sep 2026 22:19:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "missile"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-09-03T23:40:54.661903+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Watch: Defence calls for one juror to be dismissed in Lindsay Clancy case",
     "published": "Thu, 03 Sep 2026 19:52:59 GMT",
