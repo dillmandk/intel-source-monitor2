@@ -1,5 +1,26 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "Watch: JD Vance 'extremely sceptical' over alleged strike on Iranian wedding",
+    "published": "Thu, 03 Sep 2026 18:33:25 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cr4vn247550o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "missile",
+      "war",
+      "strike"
+    ],
+    "score": 65,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-03T18:55:20.630834+00:00"
+  },
+  {
     "source": "BBC Europe",
     "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
     "published": "Thu, 03 Sep 2026 16:01:39 GMT",
