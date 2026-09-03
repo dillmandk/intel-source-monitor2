@@ -1,5 +1,37 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "Trump $1 coin makes him first living president on US currency in a century",
+    "published": "Thu, 03 Sep 2026 01:56:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-03T02:20:20.780392+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Why Nepal floods should worry India",
+    "published": "Thu, 03 Sep 2026 00:58:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-03T02:20:20.988813+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
     "published": "Wed, 02 Sep 2026 21:34:27 GMT",
