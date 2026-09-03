@@ -1,6 +1,28 @@
 [
   {
     "source": "BBC World",
+    "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+    "published": "Thu, 03 Sep 2026 09:53:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "military",
+      "troops",
+      "attack"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-03T13:44:33.414370+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
     "published": "Thu, 03 Sep 2026 13:07:02 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
