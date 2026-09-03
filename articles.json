@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "UN warns of 'supersized' El Nino as countries prepare for impact",
+    "published": "Thu, 03 Sep 2026 06:01:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-03T06:08:42.207109+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Shopping to bar-hopping: USS Abraham Lincoln sailors unwind in Thailand after 250-day voyage",
     "published": "Thu, 03 Sep 2026 05:17:04 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
