@@ -1,6 +1,38 @@
 [
   {
     "source": "BBC US & Canada",
+    "title": "Trump's response is key as Argentina's Falklands demands get louder",
+    "published": "Fri, 04 Sep 2026 20:34:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "United Kingdom"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-04T20:48:50.002005+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Examining US official's claim that data centres 'don't use water'",
+    "published": "Fri, 04 Sep 2026 20:06:56 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/ced7yj7564zo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-04T20:48:50.002046+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
     "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
     "published": "Fri, 04 Sep 2026 17:23:13 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
