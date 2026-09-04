@@ -1,6 +1,25 @@
 [
   {
     "source": "BBC World",
+    "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+    "published": "Fri, 04 Sep 2026 12:39:05 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "soldiers"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-04T12:53:58.776085+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "UK support for Falkland Islands 'unwavering', No 10 says",
     "published": "Fri, 04 Sep 2026 11:29:22 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
