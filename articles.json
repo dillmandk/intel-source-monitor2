@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Tate brothers charged with further trafficking and sex crimes in Romania",
+    "published": "Sat, 05 Sep 2026 02:29:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "fighting"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-05T02:33:59.119815+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
     "published": "Fri, 04 Sep 2026 23:07:23 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
