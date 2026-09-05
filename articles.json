@@ -1,6 +1,26 @@
 [
   {
     "source": "BBC World",
+    "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
+    "published": "Sat, 05 Sep 2026 04:03:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "military",
+      "fighting"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-09-05T04:18:43.161238+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "At least two dead in blast at Bolivia military barracks",
     "published": "Sat, 05 Sep 2026 02:59:40 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
