@@ -1,6 +1,31 @@
 [
   {
     "source": "BBC World",
+    "title": "US hits 3 Iranian oil tankers after saying its warships were targeted",
+    "published": "Sat, 05 Sep 2026 14:37:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "navy",
+      "missile",
+      "missiles",
+      "tank",
+      "war",
+      "attack",
+      "attacks"
+    ],
+    "score": 100,
+    "priority": "HIGH",
+    "collected_at": "2026-09-05T14:39:59.984537+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump signs order to remove endangered species protection for grey wolves",
     "published": "Sat, 05 Sep 2026 09:12:48 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
