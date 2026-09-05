@@ -1,6 +1,40 @@
 [
   {
     "source": "BBC World",
+    "title": "At least two dead in blast at Bolivia military barracks",
+    "published": "Sat, 05 Sep 2026 02:59:40 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-09-05T03:23:42.575176+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "How much can Canada fight back in its trade war with the US?",
+    "published": "Sat, 05 Sep 2026 02:13:21 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-05T03:23:42.575335+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Tate brothers charged with further trafficking and sex crimes in Romania",
     "published": "Sat, 05 Sep 2026 02:29:21 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
