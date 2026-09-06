@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
+    "published": "Sun, 06 Sep 2026 06:04:51 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-06T06:23:03.020348+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US envoys in Moscow ahead of Ukraine talks",
     "published": "Sat, 05 Sep 2026 16:57:15 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
