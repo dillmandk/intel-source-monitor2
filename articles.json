@@ -1,6 +1,25 @@
 [
   {
     "source": "BBC World",
+    "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+    "published": "Sun, 06 Sep 2026 20:52:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "fighting"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-06T21:03:06.853540+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Germany's far-right AfD celebrate projected win in state election",
     "published": "Sun, 06 Sep 2026 18:32:53 GMT",
     "link": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
