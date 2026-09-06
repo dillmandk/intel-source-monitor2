@@ -1,6 +1,25 @@
 [
   {
     "source": "BBC World",
+    "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+    "published": "Sun, 06 Sep 2026 13:16:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "invasion"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-09-06T13:34:17.230184+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
     "published": "Sun, 06 Sep 2026 06:04:51 GMT",
     "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
