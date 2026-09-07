@@ -1,5 +1,26 @@
 [
   {
+    "source": "BBC Europe",
+    "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+    "published": "Mon, 07 Sep 2026 07:03:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike",
+      "strikes"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-09-07T09:27:31.377875+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "New videos of man in 9/11 lawsuit reveal extremist links",
     "published": "Mon, 07 Sep 2026 05:31:06 GMT",
