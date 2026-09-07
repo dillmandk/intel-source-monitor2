@@ -1,6 +1,27 @@
 [
   {
     "source": "BBC World",
+    "title": "Israeli strikes in southern Lebanese village kill 11, state media say",
+    "published": "Mon, 07 Sep 2026 07:25:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike",
+      "strikes"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-09-07T07:28:37.310186+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
     "published": "Mon, 07 Sep 2026 06:32:06 GMT",
     "link": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
