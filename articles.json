@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
+    "published": "Mon, 07 Sep 2026 06:32:06 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "terrorism"
+    ],
+    "locations": [],
+    "keywords": [
+      "extremist"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-07T06:49:43.367505+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
     "published": "Mon, 07 Sep 2026 00:01:32 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
