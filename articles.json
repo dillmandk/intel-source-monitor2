@@ -1,6 +1,25 @@
 [
   {
     "source": "BBC World",
+    "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+    "published": "Mon, 07 Sep 2026 21:12:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-07T21:19:27.851597+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
     "published": "Mon, 07 Sep 2026 14:50:50 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
