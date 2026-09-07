@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+    "published": "Mon, 07 Sep 2026 05:31:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "terrorism"
+    ],
+    "locations": [],
+    "keywords": [
+      "extremist"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-07T07:47:33.912061+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Israeli strikes in southern Lebanese village kill 11, state media say",
     "published": "Mon, 07 Sep 2026 07:25:06 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
