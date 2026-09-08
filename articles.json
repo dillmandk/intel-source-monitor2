@@ -1,5 +1,22 @@
 [
   {
+    "source": "BBC World",
+    "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+    "published": "Tue, 08 Sep 2026 01:50:55 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-08T04:35:56.817162+00:00"
+  },
+  {
     "source": "BBC Asia",
     "title": "North Korea and Russia open first road bridge linking both countries",
     "published": "Tue, 08 Sep 2026 03:53:27 GMT",
