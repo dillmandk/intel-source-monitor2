@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC World",
+    "title": "Argentina targets oil company operating in Falklands",
+    "published": "Tue, 08 Sep 2026 11:09:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-08T11:38:39.819442+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "At least two people dead after Russian strikes on Kyiv",
     "published": "Tue, 08 Sep 2026 10:23:01 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
