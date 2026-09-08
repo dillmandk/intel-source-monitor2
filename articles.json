@@ -1,6 +1,40 @@
 [
   {
     "source": "BBC World",
+    "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+    "published": "Tue, 08 Sep 2026 23:11:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-08T23:33:00.318276+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+    "published": "Tue, 08 Sep 2026 23:11:41 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-09-08T23:33:00.318575+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
     "published": "Tue, 08 Sep 2026 17:48:37 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
