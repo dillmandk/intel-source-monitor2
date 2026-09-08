@@ -1,6 +1,24 @@
 [
   {
     "source": "BBC World",
+    "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+    "published": "Tue, 08 Sep 2026 04:39:14 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-08T06:48:50.349829+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "UK government expected to announce restrictions on trade with West Bank settlements",
     "published": "Tue, 08 Sep 2026 01:50:55 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
