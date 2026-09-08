@@ -1,5 +1,25 @@
 [
   {
+    "source": "BBC Asia",
+    "title": "North Korea and Russia open first road bridge linking both countries",
+    "published": "Tue, 08 Sep 2026 03:53:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine",
+      "North Korea"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-08T04:17:20.728811+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
     "published": "Mon, 07 Sep 2026 23:29:12 GMT",
