@@ -1,5 +1,22 @@
 [
   {
+    "source": "BBC Europe",
+    "title": "German police arrest suspected power grid saboteur after manhunt",
+    "published": "Tue, 08 Sep 2026 15:57:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-08T16:02:24.957901+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
     "published": "Tue, 08 Sep 2026 15:06:56 GMT",
