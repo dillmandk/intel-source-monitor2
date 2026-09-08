@@ -1,5 +1,25 @@
 [
   {
+    "source": "BBC World",
+    "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+    "published": "Tue, 08 Sep 2026 17:48:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories",
+      "United Kingdom"
+    ],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-08T17:58:37.733917+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Trump shares misleading video of King and fainting worker",
     "published": "Tue, 08 Sep 2026 16:31:16 GMT",
