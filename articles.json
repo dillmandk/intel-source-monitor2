@@ -1,6 +1,41 @@
 [
   {
     "source": "BBC World",
+    "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
+    "published": "Tue, 08 Sep 2026 15:06:56 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c62m8247yleo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-08T15:28:22.153855+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+    "published": "Tue, 08 Sep 2026 15:03:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-08T15:28:22.154011+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
     "published": "Tue, 08 Sep 2026 13:58:32 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
