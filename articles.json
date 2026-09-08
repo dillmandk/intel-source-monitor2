@@ -1,6 +1,28 @@
 [
   {
     "source": "BBC World",
+    "title": "At least two people dead after Russian strikes on Kyiv",
+    "published": "Tue, 08 Sep 2026 10:23:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "strike",
+      "strikes"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-08T10:59:39.595770+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Highest paid world leader to get salary increase of $1 million",
     "published": "Tue, 08 Sep 2026 09:20:05 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
