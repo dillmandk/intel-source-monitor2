@@ -1,6 +1,26 @@
 [
   {
     "source": "BBC World",
+    "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
+    "published": "Wed, 09 Sep 2026 10:59:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-09T11:38:30.645505+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
     "published": "Wed, 09 Sep 2026 06:42:01 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
