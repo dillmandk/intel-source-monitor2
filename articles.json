@@ -1,6 +1,38 @@
 [
   {
     "source": "BBC World",
+    "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
+    "published": "Wed, 09 Sep 2026 06:42:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-09T08:44:54.564979+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Mamdani, Jon Stewart reveal new 9/11 documents",
+    "published": "Tue, 08 Sep 2026 16:46:34 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c93vd7rvre3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war",
+      "attack",
+      "attacks"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-09T08:44:54.796477+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "South Park creators rename show 'South America' in apparent dig at Trump",
     "published": "Wed, 09 Sep 2026 05:39:16 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
