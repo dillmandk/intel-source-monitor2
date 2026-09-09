@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+    "published": "Wed, 09 Sep 2026 15:01:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-09T15:45:51.050880+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Colombia's new president loosens gun control rules",
     "published": "Wed, 09 Sep 2026 11:01:41 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
