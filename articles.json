@@ -1,5 +1,24 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+    "published": "Wed, 09 Sep 2026 21:21:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-09T21:50:07.434181+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
     "published": "Wed, 09 Sep 2026 21:23:45 GMT",
