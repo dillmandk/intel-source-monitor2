@@ -1,6 +1,24 @@
 [
   {
     "source": "BBC World",
+    "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+    "published": "Wed, 09 Sep 2026 11:24:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-09T11:53:55.282836+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
     "published": "Wed, 09 Sep 2026 10:59:18 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
