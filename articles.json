@@ -1,6 +1,28 @@
 [
   {
     "source": "BBC World",
+    "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+    "published": "Wed, 09 Sep 2026 04:26:38 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "United States",
+      "Iran"
+    ],
+    "keywords": [
+      "tank",
+      "strike",
+      "strikes"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-09T05:51:30.726542+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US slaps import ban on Canadian alcohol and other goods",
     "published": "Tue, 08 Sep 2026 23:42:35 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
