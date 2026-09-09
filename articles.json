@@ -1,5 +1,25 @@
 [
   {
+    "source": "BBC World",
+    "title": "Iran referred to UN Security Council for nuclear non-compliance",
+    "published": "Wed, 09 Sep 2026 20:22:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran",
+      "Israel"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-09T20:43:21.825423+00:00"
+  },
+  {
     "source": "BBC Europe",
     "title": "Passenger killed after train hits truck at Poland level crossing",
     "published": "Wed, 09 Sep 2026 16:13:11 GMT",
