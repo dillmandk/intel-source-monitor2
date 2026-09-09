@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+    "published": "Wed, 09 Sep 2026 21:23:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-09T21:33:23.527508+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Iran referred to UN Security Council for nuclear non-compliance",
     "published": "Wed, 09 Sep 2026 20:22:51 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
