@@ -1,5 +1,25 @@
 [
   {
+    "source": "BBC World",
+    "title": "Russia outpacing Ukraine's air defences with daily use of new jet-powered drones",
+    "published": "Thu, 10 Sep 2026 04:43:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "drones"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-10T05:15:58.216330+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Iran war won't end until after US midterm elections, says Trump",
     "published": "Wed, 09 Sep 2026 23:46:06 GMT",
