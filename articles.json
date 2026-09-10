@@ -1,5 +1,21 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "Watch: Is Trump's $5,000 election pledge legal?",
+    "published": "Thu, 10 Sep 2026 07:12:32 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-10T07:45:58.085564+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Four key takeaways from  Republican midterms convention",
     "published": "Thu, 10 Sep 2026 04:07:44 GMT",
