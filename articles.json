@@ -1,5 +1,24 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "Iran war won't end until after US midterm elections, says Trump",
+    "published": "Wed, 09 Sep 2026 23:46:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-10T03:53:00.213510+00:00"
+  },
+  {
     "source": "BBC Asia",
     "title": "Inside Thailand's school shooter drills following recent attacks",
     "published": "Wed, 09 Sep 2026 22:32:07 GMT",
