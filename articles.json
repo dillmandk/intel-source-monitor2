@@ -1,5 +1,41 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "A Canadian town's famous warm welcome doesn't extend to US ambassador on 9/11 anniversary",
+    "published": "Thu, 10 Sep 2026 01:39:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm27vpe7z7lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-10T16:16:56.156163+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Drone display recreates the Twin Towers over New York City",
+    "published": "Thu, 10 Sep 2026 14:19:26 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "drone",
+      "drones",
+      "attack",
+      "attacks"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-09-10T16:16:56.156233+00:00"
+  },
+  {
     "source": "BBC Asia",
     "title": "Presidential pardon for controversial Sri Lankan monk overturned",
     "published": "Thu, 10 Sep 2026 12:13:41 GMT",
