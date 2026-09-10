@@ -1,5 +1,23 @@
 [
   {
+    "source": "BBC Europe",
+    "title": "Russian drone incursion delays Zelensky flight",
+    "published": "Thu, 10 Sep 2026 11:15:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c86x49e379vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "drone"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-10T11:37:58.468594+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "'Significant casualties' after fire on cargo ship in eastern China",
     "published": "Thu, 10 Sep 2026 09:45:08 GMT",
