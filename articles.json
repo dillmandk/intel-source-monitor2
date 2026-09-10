@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC US & Canada",
+    "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+    "published": "Thu, 10 Sep 2026 16:31:30 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-10T16:51:34.516979+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
     "title": "A Canadian town's famous warm welcome doesn't extend to US ambassador on 9/11 anniversary",
     "published": "Thu, 10 Sep 2026 01:39:15 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cm27vpe7z7lo?at_medium=RSS&at_campaign=rss",
