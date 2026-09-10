@@ -1,5 +1,24 @@
 [
   {
+    "source": "BBC World",
+    "title": "How a community living under demolition orders from Israel view UK sanctions",
+    "published": "Wed, 09 Sep 2026 22:17:22 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-10T09:45:02.451674+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Watch: Is Trump's $5,000 election pledge legal?",
     "published": "Thu, 10 Sep 2026 07:12:32 GMT",
