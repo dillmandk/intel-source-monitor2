@@ -1,5 +1,41 @@
 [
   {
+    "source": "BBC World",
+    "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+    "published": "Fri, 11 Sep 2026 08:15:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "weapon",
+      "weapons",
+      "war"
+    ],
+    "score": 50,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-11T08:59:33.450373+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+    "published": "Fri, 11 Sep 2026 05:53:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-11T08:59:33.450688+00:00"
+  },
+  {
     "source": "BBC Europe",
     "title": "From JFK to Biden, Trump joins well-trodden path to the Emerald Isle",
     "published": "Thu, 10 Sep 2026 23:01:55 GMT",
