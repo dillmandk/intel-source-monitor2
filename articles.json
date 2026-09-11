@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Has Trump won over voters with his midterm convention?",
+    "published": "Fri, 11 Sep 2026 06:16:54 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-11T07:59:07.255572+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
     "published": "Thu, 10 Sep 2026 22:36:02 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
