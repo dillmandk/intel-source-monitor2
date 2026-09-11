@@ -1,5 +1,44 @@
 [
   {
+    "source": "BBC World",
+    "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+    "published": "Fri, 11 Sep 2026 19:44:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "military",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-09-11T20:03:05.198553+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "CIA warned of threat of 'explosive airplane' years before 9/11, documents show",
+    "published": "Fri, 11 Sep 2026 19:53:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c17j94ew1lno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political",
+      "terrorism"
+    ],
+    "locations": [],
+    "keywords": [
+      "war",
+      "extremist"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-11T20:03:05.452608+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
     "published": "Fri, 11 Sep 2026 18:13:54 GMT",
