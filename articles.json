@@ -1,5 +1,26 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "In 9/11 remarks, Trump links war with Iran",
+    "published": "Fri, 11 Sep 2026 15:19:39 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c5yjkj438eeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "military",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-09-11T17:15:16.696411+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
     "published": "Fri, 11 Sep 2026 16:00:59 GMT",
