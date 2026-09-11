@@ -1,6 +1,25 @@
 [
   {
     "source": "BBC US & Canada",
+    "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+    "published": "Fri, 11 Sep 2026 18:13:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-11T18:58:44.393399+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
     "title": "Gen Zs recall first learning of 'deeply harrowing, terrifying' 9/11",
     "published": "Fri, 11 Sep 2026 17:21:00 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cgmrzzkjywlo?at_medium=RSS&at_campaign=rss",
