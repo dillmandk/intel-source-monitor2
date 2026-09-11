@@ -1,5 +1,41 @@
 [
   {
+    "source": "BBC World",
+    "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+    "published": "Thu, 10 Sep 2026 22:36:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "strike"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-11T05:51:17.872978+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Watch: Three times Trump has promised money to Americans",
+    "published": "Thu, 10 Sep 2026 22:53:00 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cgk5nn338peo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-11T05:51:18.027134+00:00"
+  },
+  {
     "source": "BBC Europe",
     "title": "2030 Winter Olympics boss departs amid turmoil",
     "published": "Thu, 10 Sep 2026 18:50:11 GMT",
