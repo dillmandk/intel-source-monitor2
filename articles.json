@@ -1,6 +1,28 @@
 [
   {
     "source": "BBC World",
+    "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+    "published": "Sat, 12 Sep 2026 04:43:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Iran",
+      "Iraq"
+    ],
+    "keywords": [
+      "military",
+      "drone",
+      "attack"
+    ],
+    "score": 45,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-12T05:14:59.530532+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
     "published": "Fri, 11 Sep 2026 19:44:58 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
