@@ -1,6 +1,25 @@
 [
   {
     "source": "BBC World",
+    "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+    "published": "Sat, 12 Sep 2026 05:55:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "invasion"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-09-12T06:28:21.608159+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
     "published": "Sat, 12 Sep 2026 04:43:10 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
