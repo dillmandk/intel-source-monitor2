@@ -1,6 +1,25 @@
 [
   {
     "source": "BBC World",
+    "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
+    "published": "Sun, 13 Sep 2026 16:05:41 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-13T16:19:12.779656+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump doubles down on united Ireland comments on day two of visit",
     "published": "Sun, 13 Sep 2026 14:00:09 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
