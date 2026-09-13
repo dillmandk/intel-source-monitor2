@@ -1,6 +1,23 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+    "published": "Sun, 13 Sep 2026 16:29:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-13T16:35:40.452212+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
     "published": "Sun, 13 Sep 2026 16:05:41 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
