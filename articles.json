@@ -1,5 +1,24 @@
 [
   {
+    "source": "BBC World",
+    "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+    "published": "Sat, 12 Sep 2026 23:51:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "offensive"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-09-13T07:58:47.867273+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Afghan woman deported from US in first use of secretive 'alien terrorist' court",
     "published": "Sat, 12 Sep 2026 21:19:11 GMT",
