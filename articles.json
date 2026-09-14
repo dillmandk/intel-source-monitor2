@@ -1,5 +1,26 @@
 [
   {
+    "source": "BBC World",
+    "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+    "published": "Mon, 14 Sep 2026 01:12:20 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "strike"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-14T05:43:47.667156+00:00"
+  },
+  {
     "source": "BBC Asia",
     "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
     "published": "Sun, 13 Sep 2026 23:16:33 GMT",
