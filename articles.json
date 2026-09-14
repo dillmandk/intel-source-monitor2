@@ -1,5 +1,45 @@
 [
   {
+    "source": "BBC Asia",
+    "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
+    "published": "Sun, 13 Sep 2026 23:16:33 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine",
+      "North Korea"
+    ],
+    "keywords": [
+      "soldiers",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-09-14T02:21:47.253150+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
+    "published": "Sun, 13 Sep 2026 22:07:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-14T02:21:47.253227+00:00"
+  },
+  {
     "source": "BBC Europe",
     "title": "Left-wing bloc leads Swedish vote after far-right lose support, exit polls say",
     "published": "Sun, 13 Sep 2026 19:48:42 GMT",
