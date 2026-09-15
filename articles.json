@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "‘Great’ or ‘alarming’ - Should AI be reined in?",
+    "published": "Mon, 14 Sep 2026 21:58:41 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-15T07:29:19.496503+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Superstars and broken records: 2026 Emmy highlights",
     "published": "Tue, 15 Sep 2026 05:14:24 GMT",
     "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
