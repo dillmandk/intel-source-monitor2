@@ -1,5 +1,27 @@
 [
   {
+    "source": "BBC World",
+    "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+    "published": "Tue, 15 Sep 2026 13:05:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "missile",
+      "drone",
+      "tank",
+      "attack"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-09-15T13:26:28.324217+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Home Alone and Schitt's Creek stars pay tribute to late Catherine O'Hara",
     "published": "Tue, 15 Sep 2026 12:00:35 GMT",
