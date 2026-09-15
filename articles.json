@@ -1,5 +1,70 @@
 [
   {
+    "source": "BBC World",
+    "title": "South African president vows justice as more women's bodies found near Johannesburg",
+    "published": "Tue, 15 Sep 2026 18:01:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-15T22:03:28.696752+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Why is Donald Trump so opposed to regulating AI?",
+    "published": "Tue, 15 Sep 2026 20:35:00 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmvgyp7n98zvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-15T22:03:28.810447+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Watch: What does the munitions shortage mean for the US?",
+    "published": "Tue, 15 Sep 2026 20:25:24 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmx2zw7dn1epo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-15T22:03:28.810554+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Watch: Sanders calls for US and China to work together in banning AI superintelligence",
+    "published": "Tue, 15 Sep 2026 18:32:40 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c9e8erg0vk64o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "China",
+      "NATO"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-15T22:03:28.810795+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Judge rejects bid to put Trump's name on Kennedy Center building",
     "published": "Tue, 15 Sep 2026 17:53:21 GMT",
