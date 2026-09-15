@@ -1,5 +1,26 @@
 [
   {
+    "source": "BBC World",
+    "title": "Denmark says Russian warship fired flares at military helicopter",
+    "published": "Tue, 15 Sep 2026 10:12:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "military",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-09-15T10:28:05.087917+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "In pictures: Stars on red carpet at Emmy Awards in LA",
     "published": "Tue, 15 Sep 2026 02:56:19 GMT",
