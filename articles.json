@@ -1,5 +1,25 @@
 [
   {
+    "source": "BBC World",
+    "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
+    "published": "Tue, 15 Sep 2026 17:35:02 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "weapon",
+      "weapons",
+      "war",
+      "offensive"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-09-15T17:50:27.421933+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
     "published": "Tue, 15 Sep 2026 16:40:43 GMT",
