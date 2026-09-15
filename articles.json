@@ -1,5 +1,77 @@
 [
   {
+    "source": "BBC World",
+    "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+    "published": "Tue, 15 Sep 2026 03:16:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-15T03:37:43.708741+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Nato jets down drone that entered Lithuanian airspace",
+    "published": "Tue, 15 Sep 2026 02:22:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Russia",
+      "NATO"
+    ],
+    "keywords": [
+      "drone"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-15T03:37:43.708787+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "US confirms for first time it has deployed space weapons",
+    "published": "Tue, 15 Sep 2026 01:52:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "air force",
+      "weapon",
+      "weapons"
+    ],
+    "score": 45,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-15T03:37:43.708809+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
+    "published": "Mon, 14 Sep 2026 18:26:20 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "army"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-15T03:37:43.708878+00:00"
+  },
+  {
     "source": "BBC Asia",
     "title": "China tightens travel restrictions for citizens",
     "published": "Tue, 15 Sep 2026 02:38:23 GMT",
