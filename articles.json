@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC World",
+    "title": "US interest rates raised for first time in three years",
+    "published": "Wed, 16 Sep 2026 22:16:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-16T23:52:58.443438+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump chief of staff Susie Wiles announces she's cancer-free",
     "published": "Wed, 16 Sep 2026 19:12:48 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
