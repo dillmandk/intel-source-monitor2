@@ -1,5 +1,88 @@
 [
   {
+    "source": "BBC World",
+    "title": "EU chief opens door for Canada to become 'associate member'",
+    "published": "Wed, 16 Sep 2026 09:34:50 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-16T09:51:29.506407+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "At least 20 killed after war-damaged Gaza building collapses",
+    "published": "Wed, 16 Sep 2026 09:45:19 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-16T09:51:29.506481+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+    "published": "Wed, 16 Sep 2026 08:36:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "drone"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-16T09:51:29.506574+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Why Trump is all-in on AI despite the warnings",
+    "published": "Wed, 16 Sep 2026 08:41:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-16T09:51:29.567049+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Turkey arrests dozens in crackdown on LGBTQ+ activists",
+    "published": "Tue, 15 Sep 2026 22:26:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7ky12g14jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Turkey"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-16T09:51:29.616013+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Maduro ally pleads guilty in $195m money laundering case in US court",
     "published": "Tue, 15 Sep 2026 23:33:19 GMT",
