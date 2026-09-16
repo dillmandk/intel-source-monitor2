@@ -1,6 +1,41 @@
 [
   {
     "source": "BBC World",
+    "title": "Photos show widespread damage at US sites from Iranian attacks",
+    "published": "Wed, 16 Sep 2026 16:33:56 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "air force",
+      "attack",
+      "attacks"
+    ],
+    "score": 50,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-16T18:29:28.903982+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Eight German state premiers back Merz amid speculation over future",
+    "published": "Wed, 16 Sep 2026 14:50:26 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-16T18:29:28.904061+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
     "published": "Wed, 16 Sep 2026 11:50:09 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
