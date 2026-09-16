@@ -1,6 +1,41 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump chief of staff Susie Wiles announces she's cancer-free",
+    "published": "Wed, 16 Sep 2026 19:12:48 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-16T21:40:01.154631+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
+    "published": "Wed, 16 Sep 2026 21:24:24 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "military",
+      "strike",
+      "strikes"
+    ],
+    "score": 50,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-16T21:40:01.154889+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Photos show widespread damage at US sites from Iranian attacks",
     "published": "Wed, 16 Sep 2026 16:33:56 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
