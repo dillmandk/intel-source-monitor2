@@ -1,6 +1,38 @@
 [
   {
     "source": "BBC World",
+    "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+    "published": "Wed, 16 Sep 2026 23:41:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-17T04:36:14.585154+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "More than 1,000 children killed in Bangladesh measles outbreak",
+    "published": "Thu, 17 Sep 2026 03:55:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6kgw1983ky9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-17T04:36:14.727438+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US interest rates raised for first time in three years",
     "published": "Wed, 16 Sep 2026 22:16:51 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
