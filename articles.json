@@ -1,6 +1,104 @@
 [
   {
     "source": "BBC World",
+    "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+    "published": "Thu, 17 Sep 2026 08:22:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-17T09:39:47.675008+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
+    "published": "Thu, 17 Sep 2026 05:00:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-17T09:39:47.675103+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
+    "published": "Thu, 17 Sep 2026 05:05:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm986j81ky55o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-17T09:39:47.675168+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Why Trump's hand-picked Fed chair defied him by raising interest rates",
+    "published": "Thu, 17 Sep 2026 00:38:50 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-17T09:39:47.746239+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "US blocks Palestinian leader from UN meeting in New York for second year in row",
+    "published": "Thu, 17 Sep 2026 09:06:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq783jlrr282o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-17T09:39:47.746287+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "No fire alarms or sprinklers at Pakistan hospital ward where 14 babies died, report finds",
+    "published": "Wed, 16 Sep 2026 22:03:41 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwkgxjl7l91xo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Pakistan"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-17T09:39:48.143282+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Snapchat open to putting time limits on teens, boss tells BBC",
     "published": "Wed, 16 Sep 2026 23:41:57 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
