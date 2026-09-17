@@ -1,6 +1,25 @@
 [
   {
     "source": "BBC World",
+    "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+    "published": "Thu, 17 Sep 2026 21:41:19 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-17T21:42:29.425956+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Canada welcomes EU proposal to become 'associate member'",
     "published": "Thu, 17 Sep 2026 12:27:18 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
