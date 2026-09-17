@@ -1,6 +1,72 @@
 [
   {
     "source": "BBC World",
+    "title": "Canada welcomes EU proposal to become 'associate member'",
+    "published": "Thu, 17 Sep 2026 12:27:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-17T18:30:07.183192+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+    "published": "Thu, 17 Sep 2026 15:07:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war",
+      "strike",
+      "strikes"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-17T18:30:07.183262+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
+    "published": "Thu, 17 Sep 2026 16:59:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-17T18:30:07.183787+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Princess Anne opens history centre at German war cemetery in UK",
+    "published": "Thu, 17 Sep 2026 17:12:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2zd47njdgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-17T18:30:07.498019+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Swedish PM Kristersson resigns after election loss",
     "published": "Thu, 17 Sep 2026 12:41:05 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
