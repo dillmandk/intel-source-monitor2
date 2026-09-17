@@ -1,6 +1,34 @@
 [
   {
     "source": "BBC World",
+    "title": "Swedish PM Kristersson resigns after election loss",
+    "published": "Thu, 17 Sep 2026 12:41:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-17T14:28:01.269458+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Klopp wants to 'reclaim' flag amid German elections",
+    "published": "Thu, 17 Sep 2026 13:02:40 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-17T14:28:01.269529+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
     "published": "Thu, 17 Sep 2026 08:22:12 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
