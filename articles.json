@@ -1,5 +1,39 @@
 [
   {
+    "source": "BBC World",
+    "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+    "published": "Fri, 18 Sep 2026 01:31:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-18T11:54:04.016497+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Swimmer killed in shark attack off Australian west coast",
+    "published": "Fri, 18 Sep 2026 07:30:31 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmvgyjl8055qo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-18T11:54:04.653345+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Judge orders Trump to give 30 days' notice before any 'demolition' at Kennedy Center",
     "published": "Fri, 18 Sep 2026 00:40:07 GMT",
