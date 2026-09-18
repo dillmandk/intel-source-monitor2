@@ -1,6 +1,80 @@
 [
   {
     "source": "BBC World",
+    "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+    "published": "Fri, 18 Sep 2026 15:14:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-18T16:15:01.816539+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "At least 17 killed after vehicle loaded with explosives rams Pakistan mosque",
+    "published": "Fri, 18 Sep 2026 15:08:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Pakistan"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-18T16:15:01.816647+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Why an American football game played the Canadian national anthem",
+    "published": "Fri, 18 Sep 2026 15:14:40 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj5ydk2y0gg2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-18T16:15:01.866149+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Watch: Sixth batch of UFO files includes orbs from 1952",
+    "published": "Fri, 18 Sep 2026 14:52:29 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cm4glen7dpx9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "navy",
+      "air force"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-09-18T16:15:01.866202+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
     "published": "Fri, 18 Sep 2026 01:31:43 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
