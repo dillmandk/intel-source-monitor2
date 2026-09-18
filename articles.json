@@ -1,6 +1,52 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump says he is banning CNN and Politico from White House",
+    "published": "Fri, 18 Sep 2026 21:34:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-18T21:39:57.528288+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+    "published": "Fri, 18 Sep 2026 17:57:30 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-18T21:39:57.528469+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
+    "published": "Fri, 18 Sep 2026 20:35:03 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-18T21:39:57.760068+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
     "published": "Fri, 18 Sep 2026 17:15:02 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
