@@ -1,5 +1,37 @@
 [
   {
+    "source": "BBC World",
+    "title": "Not all AI workers think the tech could kill everyone",
+    "published": "Sat, 19 Sep 2026 23:01:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-19T23:39:22.478135+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+    "published": "Sat, 19 Sep 2026 23:01:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-19T23:39:22.478169+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
     "published": "Sat, 19 Sep 2026 21:01:56 GMT",
