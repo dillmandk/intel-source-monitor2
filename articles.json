@@ -1,6 +1,43 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump signs sweeping Russia sanctions bill",
+    "published": "Fri, 18 Sep 2026 22:05:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine",
+      "NATO"
+    ],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-19T06:39:05.600796+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+    "published": "Sat, 19 Sep 2026 04:20:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-19T06:39:05.600900+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
     "published": "Fri, 18 Sep 2026 23:03:38 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
