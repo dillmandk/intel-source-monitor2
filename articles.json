@@ -1,6 +1,24 @@
 [
   {
     "source": "BBC World",
+    "title": "Deadly shark attack prompts rare kill order in Western Australia",
+    "published": "Sat, 19 Sep 2026 09:19:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-19T11:35:28.079983+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump signs sweeping Russia sanctions bill",
     "published": "Fri, 18 Sep 2026 22:05:47 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
