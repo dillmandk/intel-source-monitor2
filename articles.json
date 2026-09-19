@@ -1,6 +1,43 @@
 [
   {
     "source": "BBC World",
+    "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+    "published": "Fri, 18 Sep 2026 23:03:38 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "missile",
+      "war",
+      "attack",
+      "attacks"
+    ],
+    "score": 80,
+    "priority": "HIGH",
+    "collected_at": "2026-09-19T01:37:07.560529+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+    "published": "Sat, 19 Sep 2026 00:03:53 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-19T01:37:07.560663+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump says he is banning CNN and Politico from White House",
     "published": "Fri, 18 Sep 2026 21:34:51 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
