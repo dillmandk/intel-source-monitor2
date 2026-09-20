@@ -1,6 +1,23 @@
 [
   {
     "source": "BBC World",
+    "title": "Cultural treasures are being destroyed by war, and people want justice",
+    "published": "Sat, 19 Sep 2026 23:18:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war",
+      "fighting"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-20T01:42:11.515610+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Not all AI workers think the tech could kill everyone",
     "published": "Sat, 19 Sep 2026 23:01:57 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
