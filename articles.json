@@ -1,6 +1,27 @@
 [
   {
     "source": "BBC World",
+    "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+    "published": "Sun, 20 Sep 2026 06:37:46 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "attack"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-20T07:06:33.972934+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Cultural treasures are being destroyed by war, and people want justice",
     "published": "Sat, 19 Sep 2026 23:18:18 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
