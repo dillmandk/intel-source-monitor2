@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+    "published": "Sun, 20 Sep 2026 13:50:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-20T16:25:43.750461+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "German elections under way which could decide fate of Chancellor Merz",
     "published": "Sun, 20 Sep 2026 07:57:32 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
