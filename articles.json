@@ -1,6 +1,39 @@
 [
   {
     "source": "BBC World",
+    "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
+    "published": "Mon, 21 Sep 2026 20:21:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-21T22:51:11.425281+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Man guilty of attempted murder for shooting three men of Palestinian descent in Vermont",
+    "published": "Mon, 21 Sep 2026 19:25:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm9dw32nw853o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-21T22:51:11.699033+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
     "published": "Mon, 21 Sep 2026 14:14:16 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
