@@ -1,6 +1,86 @@
 [
   {
     "source": "BBC World",
+    "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+    "published": "Mon, 21 Sep 2026 14:14:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-21T19:40:48.139782+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+    "published": "Mon, 21 Sep 2026 14:06:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-21T19:40:48.139891+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "London Fashion Week 2026: The five trends we'll see in spring",
+    "published": "Mon, 21 Sep 2026 16:23:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-21T19:40:48.140237+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: Timelapse shows typhoon barrelling towards Japan",
+    "published": "Mon, 21 Sep 2026 16:52:12 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cm0j3224p6j8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-21T19:40:48.140346+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
+    "published": "Mon, 21 Sep 2026 18:42:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-21T19:40:48.299127+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
     "published": "Mon, 21 Sep 2026 13:34:20 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
