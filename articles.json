@@ -1,5 +1,37 @@
 [
   {
+    "source": "BBC World",
+    "title": "'No surprises' as results emerge in Russian parliamentary election",
+    "published": "Mon, 21 Sep 2026 06:58:30 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cjp30pq0rx6ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-21T07:16:07.274650+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Workers came across human remains – and unearthed a mass grave of 572 people",
+    "published": "Sun, 20 Sep 2026 22:28:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm1j4kl80z56o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-21T07:16:07.867854+00:00"
+  },
+  {
     "source": "BBC Asia",
     "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
     "published": "Mon, 21 Sep 2026 00:34:53 GMT",
