@@ -1,6 +1,24 @@
 [
   {
     "source": "BBC World",
+    "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+    "published": "Tue, 22 Sep 2026 14:03:20 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks",
+      "bombing"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-22T16:57:20.584180+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
     "published": "Tue, 22 Sep 2026 08:17:15 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
