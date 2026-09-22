@@ -1,6 +1,72 @@
 [
   {
     "source": "BBC World",
+    "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+    "published": "Tue, 22 Sep 2026 01:04:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-22T06:47:01.852193+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+    "published": "Tue, 22 Sep 2026 05:16:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "fighting"
+    ],
+    "score": 50,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-22T06:47:01.852284+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Infantino says he is open to talks over Fifa reform",
+    "published": "Mon, 21 Sep 2026 19:50:57 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-22T06:47:01.852395+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Sydney policeman says he acted in self-defence in double murder trial",
+    "published": "Tue, 22 Sep 2026 04:06:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c69v93v0klxeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-22T06:47:02.216729+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
     "published": "Mon, 21 Sep 2026 20:21:18 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
