@@ -1,6 +1,57 @@
 [
   {
     "source": "BBC World",
+    "title": "US to build two military bases in Greenland under new deal with Denmark",
+    "published": "Tue, 22 Sep 2026 18:43:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-22T20:06:48.573973+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+    "published": "Tue, 22 Sep 2026 19:06:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-22T20:06:48.574064+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump tells UN he has 'big decision' on whether to 'annihilate' Iran or make peace deal",
+    "published": "Tue, 22 Sep 2026 18:48:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-22T20:06:48.774012+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
     "published": "Tue, 22 Sep 2026 14:03:20 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
