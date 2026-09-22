@@ -1,6 +1,66 @@
 [
   {
     "source": "BBC World",
+    "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+    "published": "Tue, 22 Sep 2026 06:03:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-22T22:56:35.932009+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "How Ceuta, football and Israel are shaping Morocco's election",
+    "published": "Tue, 22 Sep 2026 20:59:00 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-22T22:56:35.932080+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "American power, AI and a walkout - key moments from Trump's UN speech",
+    "published": "Tue, 22 Sep 2026 19:44:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6rm903e22lgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-22T22:56:36.172945+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump says he would back ban on diesel exports",
+    "published": "Tue, 22 Sep 2026 20:41:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-22T22:56:36.173023+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US to build two military bases in Greenland under new deal with Denmark",
     "published": "Tue, 22 Sep 2026 18:43:29 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
