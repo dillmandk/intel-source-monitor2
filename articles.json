@@ -1,6 +1,70 @@
 [
   {
     "source": "BBC World",
+    "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+    "published": "Tue, 22 Sep 2026 08:17:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-22T12:07:24.469799+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Eleven injured in shooting outside Turkish school",
+    "published": "Tue, 22 Sep 2026 10:42:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Turkey"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-22T12:07:24.469909+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
+    "published": "Tue, 22 Sep 2026 10:01:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks",
+      "bombing"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-22T12:07:24.469933+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "What is the White House press pool and why is it in a row with Trump?",
+    "published": "Tue, 22 Sep 2026 12:04:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-22T12:07:24.470134+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
     "published": "Tue, 22 Sep 2026 01:04:16 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
