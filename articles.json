@@ -1,6 +1,152 @@
 [
   {
     "source": "BBC World",
+    "title": "Iran's president tells Trump it will never 'bend the knee'",
+    "published": "Wed, 23 Sep 2026 15:58:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-23T17:05:32.474919+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Poland accuses Russian military helicopter of violating its airspace",
+    "published": "Wed, 23 Sep 2026 15:37:20 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Russia",
+      "NATO"
+    ],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-23T17:05:32.475027+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+    "published": "Wed, 23 Sep 2026 14:32:42 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-23T17:05:32.475079+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "South Sudan's president dissolves government ahead of country's first elections",
+    "published": "Wed, 23 Sep 2026 11:16:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-23T17:05:32.475140+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+    "published": "Wed, 23 Sep 2026 12:24:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-23T17:05:32.475167+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "OpenAI gives cyber defence tools to Ukraine",
+    "published": "Wed, 23 Sep 2026 12:01:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-23T17:05:32.475191+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+    "published": "Wed, 23 Sep 2026 16:42:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-23T17:05:32.688706+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Uproar in France over award-winning author accused of using AI",
+    "published": "Wed, 23 Sep 2026 15:28:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck7v4y45893go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-23T17:05:32.924692+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Netanyahu calls Macron's remarks on West Bank in UN speech 'grotesque'",
+    "published": "Wed, 23 Sep 2026 11:30:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck1l6yyg52qvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-23T17:05:32.924761+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Tigray forces seize main airport in northern Ethiopia from police, residents tell the BBC",
     "published": "Wed, 23 Sep 2026 11:42:52 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
