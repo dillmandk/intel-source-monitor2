@@ -1,6 +1,37 @@
 [
   {
     "source": "BBC World",
+    "title": "Tigray forces seize main airport in northern Ethiopia from police, residents tell the BBC",
+    "published": "Wed, 23 Sep 2026 11:42:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-23T12:09:58.905405+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
+    "published": "Wed, 23 Sep 2026 09:48:50 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-23T12:09:58.905563+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Watch: Key moments from Andy Burnham's first UN speech",
     "published": "Wed, 23 Sep 2026 01:25:47 GMT",
     "link": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
