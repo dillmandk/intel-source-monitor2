@@ -1,6 +1,61 @@
 [
   {
     "source": "BBC World",
+    "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+    "published": "Thu, 24 Sep 2026 14:08:38 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-24T17:20:52.229566+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+    "published": "Thu, 24 Sep 2026 15:37:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "soldiers",
+      "army",
+      "war",
+      "attack",
+      "attacks",
+      "fighting"
+    ],
+    "score": 100,
+    "priority": "HIGH",
+    "collected_at": "2026-09-24T17:20:52.229626+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Here's why Trump's been so keen on Xi's visit",
+    "published": "Thu, 24 Sep 2026 15:16:27 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-24T17:20:52.536755+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
     "published": "Thu, 24 Sep 2026 11:59:23 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
