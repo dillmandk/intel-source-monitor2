@@ -1,5 +1,55 @@
 [
   {
+    "source": "BBC World",
+    "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+    "published": "Thu, 24 Sep 2026 11:59:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-24T12:15:05.174348+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Judge temporarily overturns Trump's White House media ban",
+    "published": "Thu, 24 Sep 2026 10:29:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-24T12:15:05.174382+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Why India's Election Commission is in the eye of a storm - again",
+    "published": "Thu, 24 Sep 2026 08:26:19 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-24T12:15:05.174536+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Trump offers warm welcome as China's Xi arrives for US visit",
     "published": "Thu, 24 Sep 2026 03:52:21 GMT",
