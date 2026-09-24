@@ -1,6 +1,59 @@
 [
   {
     "source": "BBC World",
+    "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+    "published": "Thu, 24 Sep 2026 23:32:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [
+      "military",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-09-24T23:34:10.635858+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "A military threat from US? Canadians react to Carney's concerns",
+    "published": "Thu, 24 Sep 2026 22:04:12 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cjdx5747g7evo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-24T23:34:10.763323+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Yom Kippur shooting outside Canadian synagogue was 'hate-motivated', officials say",
+    "published": "Thu, 24 Sep 2026 22:03:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6804n1r100eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-24T23:34:10.763350+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
     "published": "Thu, 24 Sep 2026 19:02:36 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
