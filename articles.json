@@ -1,5 +1,41 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+    "published": "Thu, 24 Sep 2026 03:52:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-24T06:38:59.673827+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Eight US sailors assigned to USS Abraham Lincoln attempted suicide, Navy says",
+    "published": "Thu, 24 Sep 2026 00:43:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr3wj0px283xo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "NATO"
+    ],
+    "keywords": [
+      "navy"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-24T06:38:59.673899+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "A red carpet and military flyover - How Trump welcomed Xi",
     "published": "Wed, 23 Sep 2026 23:03:56 GMT",
