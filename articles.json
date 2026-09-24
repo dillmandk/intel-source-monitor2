@@ -1,6 +1,77 @@
 [
   {
     "source": "BBC World",
+    "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+    "published": "Thu, 24 Sep 2026 19:02:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Afghanistan",
+      "Pakistan"
+    ],
+    "keywords": [
+      "military",
+      "strike",
+      "strikes"
+    ],
+    "score": 50,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-24T20:41:51.711834+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Priest killed and four injured in knife attack at Polish abbey",
+    "published": "Thu, 24 Sep 2026 19:18:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-24T20:41:51.711872+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+    "published": "Thu, 24 Sep 2026 19:32:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-24T20:41:51.711900+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Mark Carney says he has considered possibility of US military action against Canada",
+    "published": "Thu, 24 Sep 2026 17:17:56 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6d79l2jd2pyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-24T20:41:51.803792+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
     "published": "Thu, 24 Sep 2026 14:08:38 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
