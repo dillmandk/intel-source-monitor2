@@ -1,6 +1,55 @@
 [
   {
     "source": "BBC World",
+    "title": "Pope warns against 'losing humanity' to AI machines",
+    "published": "Fri, 25 Sep 2026 12:44:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-25T12:58:31.820125+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+    "published": "Fri, 25 Sep 2026 12:34:31 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war",
+      "fighting"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-25T12:58:31.820157+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Watch: Protests and walkouts as Netanyahu addresses UN",
+    "published": "Fri, 25 Sep 2026 00:09:21 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmvgy95g0n3lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-25T12:58:32.069264+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
     "published": "Fri, 25 Sep 2026 06:40:18 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
