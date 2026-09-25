@@ -1,6 +1,54 @@
 [
   {
     "source": "BBC World",
+    "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+    "published": "Fri, 25 Sep 2026 06:40:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-25T07:33:47.487952+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Pomp and toasts: Day 2 of Trump and Xi in DC",
+    "published": "Fri, 25 Sep 2026 05:54:07 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-25T07:33:47.488454+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Why Trump gave Xi an ornate bald eagle statue at the state dinner",
+    "published": "Fri, 25 Sep 2026 03:00:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6lyqlx0kp0po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "diplomacy"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-25T07:33:48.171173+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
     "published": "Thu, 24 Sep 2026 23:41:10 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
