@@ -1,6 +1,63 @@
 [
   {
     "source": "BBC World",
+    "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+    "published": "Fri, 25 Sep 2026 20:47:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike",
+      "strikes"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-09-25T21:25:34.262001+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump's plans for massive arch move ahead",
+    "published": "Fri, 25 Sep 2026 18:27:46 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-25T21:25:34.262132+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
+    "published": "Fri, 25 Sep 2026 18:41:13 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-25T21:25:34.476598+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Special agents' blood and urine test results stolen in FBI hack",
     "published": "Fri, 25 Sep 2026 13:56:16 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
@@ -8455,62 +8512,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-16T19:43:04.683499+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "German airport drone-bomb: Could Russia be involved?",
-    "published": "Fri, 07 Aug 2026 08:48:16 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "drone",
-      "drones"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-16T19:43:04.683531+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-    "published": "Thu, 06 Aug 2026 05:00:54 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "attack",
-      "attacks",
-      "strike",
-      "strikes"
-    ],
-    "score": 75,
-    "priority": "HIGH",
-    "collected_at": "2026-08-16T19:43:04.683562+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Influx of migrants to Ceuta gives Spain diplomatic headache",
-    "published": "Fri, 31 Jul 2026 19:17:09 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr7k49p7enjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "diplomatic"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.683637+00:00"
   }
 ]
