@@ -1,6 +1,89 @@
 [
   {
     "source": "BBC World",
+    "title": "Special agents' blood and urine test results stolen in FBI hack",
+    "published": "Fri, 25 Sep 2026 13:56:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-25T17:54:21.543309+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+    "published": "Fri, 25 Sep 2026 17:32:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-25T17:54:21.543387+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Students strike across Germany in protest against military service",
+    "published": "Fri, 25 Sep 2026 15:36:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "strike"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-09-25T17:54:21.543416+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
+    "published": "Fri, 25 Sep 2026 15:29:48 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-25T17:54:21.543447+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
+    "published": "Fri, 25 Sep 2026 15:51:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-25T17:54:21.736372+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Pope warns against 'losing humanity' to AI machines",
     "published": "Fri, 25 Sep 2026 12:44:08 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
@@ -8429,84 +8512,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-08-16T19:43:04.683637+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-    "published": "Thu, 23 Jul 2026 06:15:35 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "drone",
-      "drones",
-      "war",
-      "attack",
-      "attacks"
-    ],
-    "score": 95,
-    "priority": "HIGH",
-    "collected_at": "2026-08-16T19:43:04.683681+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
-    "published": "Mon, 20 Jul 2026 00:19:12 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [
-      "soldiers"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.683719+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-    "published": "Sat, 08 Aug 2026 15:59:37 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.683823+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Australian army whistleblower released on parole after more than two years in jail",
-    "published": "Thu, 13 Aug 2026 02:23:39 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Afghanistan",
-      "Australia"
-    ],
-    "keywords": [
-      "military",
-      "army"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.966370+00:00"
   }
 ]
