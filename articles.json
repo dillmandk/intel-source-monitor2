@@ -1,6 +1,24 @@
 [
   {
     "source": "BBC World",
+    "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+    "published": "Thu, 24 Sep 2026 23:41:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-25T01:55:01.467716+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
     "published": "Thu, 24 Sep 2026 23:32:51 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
