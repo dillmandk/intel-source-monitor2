@@ -1,6 +1,25 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+    "published": "Sat, 26 Sep 2026 16:58:39 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-26T17:42:37.761795+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "White House bars CNN from travelling with Trump on Air Force One",
     "published": "Sat, 26 Sep 2026 05:09:09 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
@@ -8479,24 +8498,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-08-16T19:43:04.683273+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-    "published": "Thu, 13 Aug 2026 03:28:56 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.683308+00:00"
   }
 ]
