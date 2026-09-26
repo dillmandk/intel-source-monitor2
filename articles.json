@@ -1,6 +1,37 @@
 [
   {
     "source": "BBC World",
+    "title": "White House bars CNN from travelling with Trump on Air Force One",
+    "published": "Sat, 26 Sep 2026 05:09:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "air force"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-26T09:47:52.333846+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Brazil's Lula bans online gambling ahead of presidential election",
+    "published": "Sat, 26 Sep 2026 03:22:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-26T09:47:52.333899+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
     "published": "Fri, 25 Sep 2026 23:05:40 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
@@ -8467,44 +8498,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-08-16T19:43:04.683308+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-    "published": "Tue, 11 Aug 2026 16:19:44 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine",
-      "North Korea"
-    ],
-    "keywords": [
-      "missile",
-      "missiles",
-      "strike",
-      "strikes"
-    ],
-    "score": 90,
-    "priority": "HIGH",
-    "collected_at": "2026-08-16T19:43:04.683354+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Former judge removed by Orbán elected Hungarian president",
-    "published": "Tue, 11 Aug 2026 18:34:39 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.683400+00:00"
   }
 ]
