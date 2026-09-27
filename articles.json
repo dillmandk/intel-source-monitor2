@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC World",
+    "title": "Embattled Serbian president resigns, paving way for early elections",
+    "published": "Sun, 27 Sep 2026 20:04:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-27T20:14:27.593141+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Venezuela releases dozens of political prisoners as election calls grow",
     "published": "Sun, 27 Sep 2026 15:56:25 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
@@ -8478,23 +8492,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-16T19:43:04.414790+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-    "published": "Wed, 12 Aug 2026 00:14:42 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.414847+00:00"
   }
 ]
