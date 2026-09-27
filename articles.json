@@ -1,6 +1,36 @@
 [
   {
     "source": "BBC World",
+    "title": "Venezuela releases dozens of political prisoners as election calls grow",
+    "published": "Sun, 27 Sep 2026 15:56:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-27T17:17:27.456233+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Switzerland rejects stricter interpretation of its neutrality",
+    "published": "Sun, 27 Sep 2026 16:02:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-27T17:17:27.456300+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Two mass shootings in South Africa leave 27 dead",
     "published": "Sun, 27 Sep 2026 10:00:36 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
@@ -8466,36 +8496,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-08-16T19:43:04.414847+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Decoys to hide presidents are common - but elaborate Trump ruse was different level",
-    "published": "Tue, 11 Aug 2026 20:39:42 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.414879+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Fact-checking Trump's claims as he rolls back some recommended vaccines",
-    "published": "Tue, 11 Aug 2026 23:16:38 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9q9dzp97l4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.414911+00:00"
   }
 ]
