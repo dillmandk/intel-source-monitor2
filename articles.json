@@ -1,6 +1,23 @@
 [
   {
     "source": "BBC World",
+    "title": "Two mass shootings in South Africa leave 27 dead",
+    "published": "Sun, 27 Sep 2026 10:00:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-27T12:31:53.526270+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
     "published": "Sun, 27 Sep 2026 02:16:52 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
@@ -8480,23 +8497,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-16T19:43:04.414911+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-    "published": "Thu, 13 Aug 2026 04:55:58 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.683112+00:00"
   }
 ]
