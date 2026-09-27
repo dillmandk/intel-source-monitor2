@@ -1,6 +1,36 @@
 [
   {
     "source": "BBC World",
+    "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
+    "published": "Sun, 27 Sep 2026 02:16:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-27T06:47:03.447787+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+    "published": "Sat, 26 Sep 2026 23:04:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-27T06:47:03.447831+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
     "published": "Sat, 26 Sep 2026 16:58:39 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
@@ -8468,35 +8498,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-08-16T19:43:04.683112+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-    "published": "Thu, 13 Aug 2026 15:50:49 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.683213+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Family of Irish plane crash victim awarded $29m in damages",
-    "published": "Thu, 13 Aug 2026 19:08:49 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.683273+00:00"
   }
 ]
