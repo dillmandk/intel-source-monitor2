@@ -1,6 +1,42 @@
 [
   {
     "source": "BBC World",
+    "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+    "published": "Mon, 28 Sep 2026 14:57:31 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine",
+      "North Korea",
+      "South Korea"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-28T16:06:09.933274+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Taylor Swift breaks record for most MTV VMAs as Madonna also wins",
+    "published": "Mon, 28 Sep 2026 07:40:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8ly403p1rwpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-28T16:06:10.147537+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
     "published": "Mon, 28 Sep 2026 06:22:52 GMT",
     "link": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
@@ -8468,37 +8504,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-08-16T19:43:04.273865+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "BBC seeks to subpoena family members in Panorama lawsuit",
-    "published": "Sun, 16 Aug 2026 00:11:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.273911+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "South Korea proposes talks to officially end war with North",
-    "published": "Sat, 15 Aug 2026 14:40:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "South Korea"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.273939+00:00"
   }
 ]
