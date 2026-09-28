@@ -1,6 +1,41 @@
 [
   {
     "source": "BBC World",
+    "title": "Inside Yemen's front-line city as Houthis battle for control",
+    "published": "Sun, 27 Sep 2026 21:16:31 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "soldiers"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-28T01:41:17.306671+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Five arrested as counter-terror police investigate major incident near UK airbase used by US forces",
+    "published": "Sun, 27 Sep 2026 20:10:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "terrorism"
+    ],
+    "locations": [],
+    "keywords": [
+      "war",
+      "terrorist"
+    ],
+    "score": 45,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-28T01:41:17.565346+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
     "published": "Sun, 27 Sep 2026 21:00:06 GMT",
     "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
@@ -8461,38 +8496,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-16T19:43:04.274021+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "BBC visits smouldering Kyiv market after Russian strikes",
-    "published": "Sun, 16 Aug 2026 12:18:09 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "strike",
-      "strikes"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-16T19:43:04.274132+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Trump asks US Supreme Court to allow ballroom work to continue",
-    "published": "Fri, 14 Aug 2026 19:05:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.414545+00:00"
   }
 ]
