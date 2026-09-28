@@ -1,6 +1,93 @@
 [
   {
     "source": "BBC World",
+    "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+    "published": "Mon, 28 Sep 2026 17:26:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-28T21:59:03.535690+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "French PM warns against escalation of school protests after 164 arrested",
+    "published": "Mon, 28 Sep 2026 21:46:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-28T21:59:03.535726+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Stuck between superpowers: How Australia navigates the China-US rivalry",
+    "published": "Mon, 28 Sep 2026 18:37:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "China",
+      "Australia"
+    ],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-09-28T21:59:03.536080+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "People escape historic Kyiv building hit by Russian drone",
+    "published": "Mon, 28 Sep 2026 17:04:14 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "strike"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-28T21:59:03.536173+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
+    "published": "Mon, 28 Sep 2026 19:28:54 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "terrorism"
+    ],
+    "locations": [],
+    "keywords": [
+      "terrorist"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-09-28T21:59:03.896502+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
     "published": "Mon, 28 Sep 2026 14:57:31 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
@@ -8409,100 +8496,5 @@
     "score": 30,
     "priority": "LOW",
     "collected_at": "2026-08-16T20:55:09.814507+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-    "published": "Sun, 16 Aug 2026 19:03:04 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "attack",
-      "strike",
-      "strikes"
-    ],
-    "score": 55,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-16T19:43:04.273579+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Teen suspect in Virginia campus shooting found hiding in closet",
-    "published": "Sun, 16 Aug 2026 19:00:23 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.273695+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-    "published": "Sun, 16 Aug 2026 09:27:58 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.273753+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-    "published": "Sat, 15 Aug 2026 20:21:14 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Israel"
-    ],
-    "keywords": [
-      "military",
-      "soldiers",
-      "strike",
-      "strikes"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-16T19:43:04.273835+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Australian state to launch gun buyback after Bondi Beach attack",
-    "published": "Sat, 15 Aug 2026 21:41:43 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.273865+00:00"
   }
 ]
