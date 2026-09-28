@@ -1,6 +1,38 @@
 [
   {
     "source": "BBC World",
+    "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
+    "published": "Mon, 28 Sep 2026 06:22:52 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-28T07:45:47.001347+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+    "published": "Mon, 28 Sep 2026 01:16:18 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-28T07:45:47.001400+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Inside Yemen's front-line city as Houthis battle for control",
     "published": "Sun, 27 Sep 2026 21:16:31 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
@@ -8468,33 +8500,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-08-16T19:43:04.273939+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "France's top court blocks social media ban for under-15s",
-    "published": "Fri, 14 Aug 2026 16:35:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.273972+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-    "published": "Fri, 14 Aug 2026 23:16:43 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T19:43:04.274021+00:00"
   }
 ]
