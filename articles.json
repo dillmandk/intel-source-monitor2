@@ -1,6 +1,78 @@
 [
   {
     "source": "BBC World",
+    "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
+    "published": "Tue, 29 Sep 2026 12:39:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T14:22:46.379120+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+    "published": "Tue, 29 Sep 2026 13:15:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine",
+      "NATO"
+    ],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T14:22:46.379174+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
+    "published": "Tue, 29 Sep 2026 12:20:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T14:22:46.379251+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Are Trump's US government funded ads illegal?",
+    "published": "Tue, 29 Sep 2026 01:12:52 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T14:22:46.379628+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "OpenAI scraps rollout of new model over safety concerns",
     "published": "Tue, 29 Sep 2026 04:30:13 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
@@ -8418,69 +8490,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-17T20:58:42.628352+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "French PM heckled over wildfire response as blazes continue across Europe",
-    "published": "Mon, 17 Aug 2026 18:00:55 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-17T19:42:50.132882+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala",
-    "published": "Mon, 17 Aug 2026 15:35:47 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-17T17:01:48.750412+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Russia's prominent anti-war politician jailed for 11 years",
-    "published": "Mon, 17 Aug 2026 16:17:34 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "army",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-08-17T17:01:48.882564+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
-    "published": "Mon, 17 Aug 2026 15:33:42 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-17T15:55:43.738155+00:00"
   }
 ]
