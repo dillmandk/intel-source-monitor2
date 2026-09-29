@@ -1,6 +1,84 @@
 [
   {
     "source": "BBC World",
+    "title": "Dutch police arrest suspected member of group that claimed FBI hack",
+    "published": "Tue, 29 Sep 2026 15:40:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "cyber"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "cyber attack"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-29T19:35:25.226560+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "First female prime minister named in Morocco after winning elections",
+    "published": "Tue, 29 Sep 2026 17:14:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T19:35:25.226596+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed",
+    "published": "Tue, 29 Sep 2026 17:31:30 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T19:35:25.226643+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump rules out joint US-China venture to develop AI",
+    "published": "Tue, 29 Sep 2026 16:09:26 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T19:35:25.226777+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Man released on bail after 41 years on death row",
+    "published": "Tue, 29 Sep 2026 13:39:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwdr71xpj4gpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T19:35:25.460540+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
     "published": "Tue, 29 Sep 2026 12:39:18 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
@@ -8403,92 +8481,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-08-18T08:04:27.346891+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Inside secret police warehouse as Germany targets small boats gangs",
-    "published": "Tue, 18 Aug 2026 05:02:58 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-18T06:02:34.922936+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "What it's like to be on a warship like the USS Abraham Lincoln",
-    "published": "Tue, 18 Aug 2026 05:07:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-18T06:02:34.923281+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russia warns UK over supplying drones to Ukraine",
-    "published": "Tue, 18 Aug 2026 01:16:41 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine",
-      "United Kingdom"
-    ],
-    "keywords": [
-      "drone",
-      "drones",
-      "war"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-18T03:12:18.992843+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "BBC breaks down Trump's latest shift on North and South Korea",
-    "published": "Mon, 17 Aug 2026 23:42:38 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "South Korea"
-    ],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-08-18T03:12:18.992888+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "'He's a real hero' - Trump meets teen lifeguard after dramatic rescue",
-    "published": "Mon, 17 Aug 2026 20:07:13 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c4g35e9jgzko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-17T20:58:42.628352+00:00"
   }
 ]
