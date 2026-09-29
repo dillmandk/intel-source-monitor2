@@ -1,6 +1,98 @@
 [
   {
     "source": "BBC World",
+    "title": "OpenAI scraps rollout of new model over safety concerns",
+    "published": "Tue, 29 Sep 2026 04:30:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T07:40:35.612849+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+    "published": "Tue, 29 Sep 2026 03:50:40 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T07:40:35.612911+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+    "published": "Tue, 29 Sep 2026 04:10:33 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T07:40:35.612958+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Rights group accuses Vietnam of abducting Australian and Norwegian activists",
+    "published": "Tue, 29 Sep 2026 05:31:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmvgy2wwvzlqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "terrorism"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "terrorist"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T07:40:35.909246+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Infantino makes bigger cash pledge to Fifa members",
+    "published": "Mon, 28 Sep 2026 22:32:29 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T07:40:35.909351+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Migrants using longer, more dangerous routes across Channel",
+    "published": "Tue, 29 Sep 2026 00:42:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T07:40:35.909490+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
     "published": "Mon, 28 Sep 2026 17:26:21 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
@@ -8390,111 +8482,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-17T15:55:43.738155+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
-    "published": "Mon, 17 Aug 2026 14:36:44 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-17T14:58:53.314682+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Top Zambian opposition figures arrested days after presidential vote",
-    "published": "Mon, 17 Aug 2026 09:01:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-17T10:07:14.115325+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ukrainian strikes kill six in Russia, acting governor says",
-    "published": "Mon, 17 Aug 2026 07:41:24 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "strike",
-      "strikes"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-17T08:04:54.731791+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-    "published": "Mon, 17 Aug 2026 04:50:56 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-17T05:23:27.272618+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump says US will scale back military drills with South Korea",
-    "published": "Sun, 16 Aug 2026 21:27:42 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "South Korea",
-      "Iran"
-    ],
-    "keywords": [
-      "military",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T21:43:31.048249+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "US commander says mental health a 'priority' on USS Lincoln",
-    "published": "Sun, 16 Aug 2026 20:14:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "navy",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-08-16T20:55:09.814507+00:00"
   }
 ]
