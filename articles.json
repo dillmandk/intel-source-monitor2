@@ -1,6 +1,37 @@
 [
   {
     "source": "BBC World",
+    "title": "The journalist who became king in Uganda",
+    "published": "Tue, 29 Sep 2026 19:35:19 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cry4z9jw3wvlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T23:12:06.737223+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "How Lindsay Clancy's return to court after mistrial unfolded",
+    "published": "Tue, 29 Sep 2026 20:09:23 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c64gvn7v1401o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-29T23:12:06.807362+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Dutch police arrest suspected member of group that claimed FBI hack",
     "published": "Tue, 29 Sep 2026 15:40:10 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
@@ -8449,37 +8480,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-08-18T09:54:04.613822+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Zambia's president wins second term with 60% of the vote",
-    "published": "Tue, 18 Aug 2026 07:46:55 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-18T09:54:04.613859+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "China censors public mourning as it holds former premier's funeral",
-    "published": "Tue, 18 Aug 2026 07:17:07 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "China"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-18T08:04:27.346891+00:00"
   }
 ]
