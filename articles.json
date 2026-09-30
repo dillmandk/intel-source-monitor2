@@ -1,6 +1,121 @@
 [
   {
     "source": "BBC World",
+    "title": "Israel-bound flight diverted after fight between pilots",
+    "published": "Wed, 30 Sep 2026 07:51:26 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-30T08:43:38.865602+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+    "published": "Wed, 30 Sep 2026 05:02:50 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "military",
+      "attack",
+      "strike"
+    ],
+    "score": 45,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-30T08:43:38.865645+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
+    "published": "Wed, 30 Sep 2026 08:40:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-30T08:43:38.865699+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
+    "published": "Wed, 30 Sep 2026 04:21:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "China",
+      "South Korea"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-30T08:43:38.865753+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Somali pirates killed oil tanker crew before rescue, official tells BBC",
+    "published": "Wed, 30 Sep 2026 06:41:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "tank"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-30T08:43:38.865785+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
+    "published": "Wed, 30 Sep 2026 03:21:28 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-30T08:43:38.866070+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Move to rejoin EU among options for UK, says Burnham",
+    "published": "Wed, 30 Sep 2026 08:12:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-30T08:43:39.055452+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Chinese AI tool told researchers how to make bioweapons",
     "published": "Tue, 29 Sep 2026 23:15:29 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
@@ -8379,112 +8494,5 @@
     "score": 25,
     "priority": "LOW",
     "collected_at": "2026-08-19T05:05:23.953007+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Sacked Ukrainian defence minister calls for presidential election",
-    "published": "Wed, 19 Aug 2026 01:31:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "political"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-19T03:15:04.573549+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-    "published": "Wed, 19 Aug 2026 02:41:36 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-19T03:15:04.573605+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
-    "published": "Wed, 19 Aug 2026 03:00:35 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "combat"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-08-19T03:15:04.573661+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-    "published": "Tue, 18 Aug 2026 20:48:09 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-18T21:49:05.834831+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Judge swapped in Trump's defamation case against BBC",
-    "published": "Tue, 18 Aug 2026 19:52:32 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-18T20:46:52.976166+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US announces new sanctions on top ICC figures",
-    "published": "Tue, 18 Aug 2026 17:40:09 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-08-18T18:03:14.736027+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Brazil's President Lula hails oil discovery near Amazon river",
-    "published": "Tue, 18 Aug 2026 13:13:54 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-18T15:52:43.267859+00:00"
   }
 ]
