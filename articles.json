@@ -1,6 +1,72 @@
 [
   {
     "source": "BBC World",
+    "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+    "published": "Wed, 30 Sep 2026 14:53:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-30T15:24:03.219417+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+    "published": "Wed, 30 Sep 2026 11:36:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [
+      "Iraq"
+    ],
+    "keywords": [
+      "troops"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-09-30T15:24:03.219457+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Singapore launches matchmaking service for government workers",
+    "published": "Wed, 30 Sep 2026 09:42:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-30T15:24:03.219547+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Botswana condemned for slaughtering 23 elephants for independence celebrations",
+    "published": "Wed, 30 Sep 2026 12:06:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-09-30T15:24:03.219592+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Israel-bound flight diverted after fight between pilots",
     "published": "Wed, 30 Sep 2026 07:51:26 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
@@ -8418,81 +8484,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-19T11:00:04.809695+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
-    "published": "Wed, 19 Aug 2026 08:25:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-19T09:54:48.624530+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-    "published": "Wed, 19 Aug 2026 00:48:16 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "Syria"
-    ],
-    "keywords": [
-      "attack",
-      "attacks",
-      "strike",
-      "strikes",
-      "airstrike"
-    ],
-    "score": 100,
-    "priority": "HIGH",
-    "collected_at": "2026-08-19T08:04:50.613796+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "South Korea shortens war games with US, citing Washington request",
-    "published": "Wed, 19 Aug 2026 03:39:41 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "North Korea",
-      "South Korea"
-    ],
-    "keywords": [
-      "military",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-08-19T05:05:23.952930+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
-    "published": "Wed, 19 Aug 2026 03:12:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "terrorism"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "hostage"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-08-19T05:05:23.953007+00:00"
   }
 ]
