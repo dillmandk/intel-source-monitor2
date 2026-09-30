@@ -1,6 +1,49 @@
 [
   {
     "source": "BBC World",
+    "title": "Chinese AI tool told researchers how to make bioweapons",
+    "published": "Tue, 29 Sep 2026 23:15:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [
+      "weapon",
+      "weapons",
+      "war"
+    ],
+    "score": 50,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-30T02:11:58.242549+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+    "published": "Tue, 29 Sep 2026 23:33:34 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "missile",
+      "attack",
+      "attacks"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-09-30T02:11:58.243132+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "The journalist who became king in Uganda",
     "published": "Tue, 29 Sep 2026 19:35:19 GMT",
     "link": "https://www.bbc.co.uk/news/videos/cry4z9jw3wvlo?at_medium=RSS&at_campaign=rss",
@@ -8443,42 +8486,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-18T15:52:43.267859+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Kanye West announces tour dates in Russia",
-    "published": "Tue, 18 Aug 2026 09:55:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cd9w4v1nx93o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "invasion"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-08-18T11:00:47.261275+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Indian student leader ends hunger strike after 16 days",
-    "published": "Tue, 18 Aug 2026 07:27:32 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "India"
-    ],
-    "keywords": [
-      "strike"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-18T09:54:04.613822+00:00"
   }
 ]
