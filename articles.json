@@ -1,6 +1,99 @@
 [
   {
     "source": "BBC World",
+    "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+    "published": "Thu, 01 Oct 2026 11:25:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "army",
+      "drone",
+      "fighting"
+    ],
+    "score": 45,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-01T11:49:51.238783+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
+    "published": "Thu, 01 Oct 2026 11:00:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-01T11:49:51.238841+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+    "published": "Thu, 01 Oct 2026 08:39:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "India"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-01T11:49:51.844291+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Pakistan launches deadly air strikes on Afghanistan",
+    "published": "Thu, 01 Oct 2026 08:06:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw4grg92lmr5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "terrorism"
+    ],
+    "locations": [
+      "Afghanistan",
+      "Pakistan"
+    ],
+    "keywords": [
+      "strike",
+      "strikes",
+      "militant"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-01T11:49:51.844344+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
+    "published": "Wed, 30 Sep 2026 18:15:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "China",
+      "United Kingdom"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-01T11:49:51.844445+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
     "published": "Thu, 01 Oct 2026 03:43:06 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
@@ -8400,86 +8493,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-08-20T03:13:54.469947+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Former Liberian vice president charged in drug-trafficking probe",
-    "published": "Thu, 20 Aug 2026 03:09:24 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-20T03:13:54.469991+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "US long-term borrowing costs ease after government steps in",
-    "published": "Wed, 19 Aug 2026 19:26:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-19T21:12:46.452909+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Who is Natalie Harp, Trump's right-hand woman?",
-    "published": "Wed, 19 Aug 2026 19:02:41 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-19T20:00:27.126302+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-    "published": "Wed, 19 Aug 2026 17:46:01 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "strike",
-      "strikes"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-19T20:00:27.126382+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: Trump leads tour of White House helipad construction site",
-    "published": "Wed, 19 Aug 2026 18:30:15 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c4g61p4n1z4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "China"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-19T20:00:27.192526+00:00"
   }
 ]
