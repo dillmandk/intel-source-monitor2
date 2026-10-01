@@ -1,6 +1,158 @@
 [
   {
     "source": "BBC World",
+    "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
+    "published": "Thu, 01 Oct 2026 15:38:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-01T17:46:59.326030+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+    "published": "Thu, 01 Oct 2026 14:05:55 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-01T17:46:59.326081+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+    "published": "Thu, 01 Oct 2026 11:37:46 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-01T17:46:59.326127+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Fires break out at French schools as students protest nationwide",
+    "published": "Thu, 01 Oct 2026 16:34:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-01T17:46:59.326171+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Flydubai passenger describes hugging his children as plane nosedived during attack",
+    "published": "Thu, 01 Oct 2026 13:57:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-01T17:46:59.326345+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump says 'some' munitions are low as Iran war grinds on",
+    "published": "Thu, 01 Oct 2026 16:02:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjgzjrvp5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war",
+      "strike",
+      "strikes"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-01T17:46:59.467874+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Renee Good's partner speaks publicly for first time since her death",
+    "published": "Thu, 01 Oct 2026 17:06:55 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmd686wyp0pgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-01T17:46:59.468091+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Russia targets busy bridge in central Kyiv",
+    "published": "Thu, 01 Oct 2026 14:31:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmn8e8344v5qo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-01T17:46:59.627716+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "'He's taught us courage': Friend on Indian pilot hailed as a hero",
+    "published": "Thu, 01 Oct 2026 12:43:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq33k36yp01no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-01T17:46:59.767287+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Explosions heard in Ethiopia's capital after drone flights banned",
     "published": "Thu, 01 Oct 2026 11:25:03 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
@@ -8330,168 +8482,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-20T23:58:52.773510+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-    "published": "Thu, 20 Aug 2026 22:01:26 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "South Korea"
-    ],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-08-20T23:03:32.894314+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-    "published": "Thu, 20 Aug 2026 19:19:20 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-08-20T19:44:33.098557+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-    "published": "Thu, 20 Aug 2026 13:04:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-08-20T14:20:50.220418+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Assad officer extradited to Syria on war crimes charges for first time",
-    "published": "Thu, 20 Aug 2026 12:38:35 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Syria"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-20T14:20:50.220452+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "What is postpartum psychosis and why is it central in the Lindsay Clancy trial?",
-    "published": "Wed, 19 Aug 2026 21:42:42 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cd0x9yl7dg2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-20T08:07:59.740926+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: What to know about Trump's trusted aide Natalie Harp",
-    "published": "Wed, 19 Aug 2026 22:44:35 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cm2gdxlwmrvo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-20T08:07:59.740961+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-    "published": "Thu, 20 Aug 2026 05:01:24 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "soldiers",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-08-20T06:04:13.419915+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-    "published": "Thu, 20 Aug 2026 04:46:32 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "missile",
-      "war",
-      "attack",
-      "strike",
-      "strikes"
-    ],
-    "score": 100,
-    "priority": "HIGH",
-    "collected_at": "2026-08-20T05:06:46.153059+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-    "published": "Thu, 20 Aug 2026 02:16:49 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "political"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "military",
-      "diplomatic"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-20T03:13:54.469947+00:00"
   }
 ]
