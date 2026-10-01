@@ -1,6 +1,40 @@
 [
   {
     "source": "BBC World",
+    "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+    "published": "Thu, 01 Oct 2026 03:43:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-01T05:39:25.028223+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "K-pop star convicted of violating military service law",
+    "published": "Thu, 01 Oct 2026 05:24:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-01T05:39:25.497169+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
     "published": "Wed, 30 Sep 2026 23:10:06 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
@@ -8447,39 +8481,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-19T20:00:27.192526+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-    "published": "Wed, 19 Aug 2026 15:38:38 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-19T17:58:10.094322+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-    "published": "Wed, 19 Aug 2026 17:47:52 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-19T17:58:10.246421+00:00"
   }
 ]
