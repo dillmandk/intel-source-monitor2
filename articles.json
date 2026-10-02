@@ -1,6 +1,52 @@
 [
   {
     "source": "BBC World",
+    "title": "School protests send shivers down French government's spine",
+    "published": "Fri, 02 Oct 2026 12:43:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-02T14:09:17.700011+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
+    "published": "Fri, 02 Oct 2026 08:46:37 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-02T14:09:17.700133+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "US jobs market sees sharp slowdown in September",
+    "published": "Fri, 02 Oct 2026 13:56:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-02T14:09:17.754762+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
     "published": "Fri, 02 Oct 2026 07:31:52 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
@@ -8440,51 +8486,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-08-21T15:56:55.805184+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-    "published": "Fri, 21 Aug 2026 13:44:43 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-21T15:56:55.805216+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Tornadoes touch down in New York and Delaware",
-    "published": "Fri, 21 Aug 2026 14:35:50 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-21T15:56:55.805566+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
-    "published": "Fri, 21 Aug 2026 15:34:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-21T15:56:56.114881+00:00"
   }
 ]
