@@ -1,6 +1,106 @@
 [
   {
     "source": "BBC World",
+    "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+    "published": "Fri, 02 Oct 2026 07:31:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-02T07:34:13.991181+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "I opened cockpit door of plane while being attacked, Indian pilot tells Modi",
+    "published": "Fri, 02 Oct 2026 07:20:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "India"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-02T07:34:13.991239+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+    "published": "Fri, 02 Oct 2026 03:09:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-02T07:34:13.991281+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+    "published": "Fri, 02 Oct 2026 05:42:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "diplomatic"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-02T07:34:13.991345+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
+    "published": "Thu, 01 Oct 2026 23:46:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-02T07:34:13.991618+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Why are these endangered moths swarming Australia's east coast?",
+    "published": "Thu, 01 Oct 2026 22:26:05 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c6rr4r704en4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-02T07:34:13.991712+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
     "published": "Thu, 01 Oct 2026 19:38:30 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
@@ -8386,105 +8486,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-21T15:56:56.114881+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Warning signs flash on US economy as debt spirals",
-    "published": "Fri, 21 Aug 2026 08:38:18 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-21T14:09:34.872195+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-    "published": "Fri, 21 Aug 2026 11:31:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-21T12:03:10.097294+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
-    "published": "Fri, 21 Aug 2026 09:53:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military",
-      "air force"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-08-21T09:56:35.805559+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-    "published": "Fri, 21 Aug 2026 05:00:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-21T07:57:45.151010+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Fix schools, say India's 'cockroach' protesters. Schoolchildren agree",
-    "published": "Fri, 21 Aug 2026 00:04:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "India"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-21T05:18:55.976379+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US sanctions more Cuban companies and officials",
-    "published": "Fri, 21 Aug 2026 02:06:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-08-21T03:32:31.830727+00:00"
   }
 ]
