@@ -1,6 +1,52 @@
 [
   {
     "source": "BBC World",
+    "title": "Protesters across Spain demand action over housing crisis",
+    "published": "Sat, 03 Oct 2026 12:16:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-03T13:21:32.047072+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Kim wins Asian Games gold to secure military exemption",
+    "published": "Sat, 03 Oct 2026 08:51:14 GMT",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "South Korea"
+    ],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-03T13:21:32.047126+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Will Spain's housing crisis lead to a snap election?",
+    "published": "Sat, 03 Oct 2026 12:26:30 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-03T13:21:32.047552+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
     "published": "Sat, 03 Oct 2026 07:49:40 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
@@ -8433,60 +8479,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-22T05:59:59.929515+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
-    "published": "Sat, 22 Aug 2026 02:39:10 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-22T04:59:41.032031+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-    "published": "Fri, 21 Aug 2026 18:51:43 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "drone",
-      "strike"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-21T19:09:13.187946+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-    "published": "Fri, 21 Aug 2026 15:58:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories",
-      "Australia"
-    ],
-    "keywords": [
-      "strike"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-21T19:09:13.187994+00:00"
   }
 ]
