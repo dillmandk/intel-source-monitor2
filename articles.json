@@ -1,6 +1,43 @@
 [
   {
     "source": "BBC World",
+    "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+    "published": "Sat, 03 Oct 2026 07:49:40 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-03T08:04:45.705934+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Russia strikes second major bridge in Kyiv, mayor says",
+    "published": "Sat, 03 Oct 2026 07:25:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike",
+      "strikes"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-10-03T08:04:45.705989+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
     "published": "Fri, 02 Oct 2026 15:26:37 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
@@ -8451,40 +8488,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-08-21T19:09:13.187994+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Two injured in stabbing attack at Canada Sikh temple",
-    "published": "Fri, 21 Aug 2026 18:27:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-08-21T19:09:13.188020+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
-    "published": "Fri, 21 Aug 2026 16:20:55 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "drone",
-      "strike",
-      "strikes"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-21T17:16:07.323021+00:00"
   }
 ]
