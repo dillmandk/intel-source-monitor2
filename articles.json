@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Why has Brazil accused the US of election interference?",
+    "published": "Sat, 03 Oct 2026 13:52:13 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-03T17:33:06.005334+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Protesters across Spain demand action over housing crisis",
     "published": "Sat, 03 Oct 2026 12:16:15 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
@@ -8465,19 +8481,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-08-22T14:46:25.846356+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Mother suffering 'command hallucination' when she killed children, court hears",
-    "published": "Sat, 22 Aug 2026 03:43:26 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-22T05:59:59.929515+00:00"
   }
 ]
