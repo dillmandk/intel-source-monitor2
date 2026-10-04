@@ -1,6 +1,39 @@
 [
   {
     "source": "BBC World",
+    "title": "Cornell president says university 'must do better' after frat house rape allegations",
+    "published": "Sun, 04 Oct 2026 00:11:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-04T02:42:33.922238+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Why Canada is preparing for a (long shot) US invasion",
+    "published": "Sat, 03 Oct 2026 23:30:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "invasion"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-04T02:42:33.922764+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Why has Brazil accused the US of election interference?",
     "published": "Sat, 03 Oct 2026 13:52:13 GMT",
     "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
@@ -8451,35 +8484,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-08-22T16:53:03.852354+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Carney faces crucial test after walking away from Trump's deal",
-    "published": "Sat, 22 Aug 2026 15:00:27 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-22T15:41:46.810496+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Fourteen killed in strike on Myanmar monastery",
-    "published": "Sat, 22 Aug 2026 13:48:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "strike"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-22T14:46:25.846356+00:00"
   }
 ]
