@@ -1,6 +1,78 @@
 [
   {
     "source": "BBC World",
+    "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+    "published": "Sun, 04 Oct 2026 14:25:32 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-04T18:24:55.388401+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+    "published": "Sun, 04 Oct 2026 16:51:30 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war",
+      "strike",
+      "strikes"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-04T18:24:55.388434+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+    "published": "Sun, 04 Oct 2026 14:36:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-04T18:24:55.388500+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Indian police accused of sexual harassment against journalists at protest",
+    "published": "Sun, 04 Oct 2026 17:01:19 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-04T18:24:55.388534+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
     "published": "Sun, 04 Oct 2026 12:09:04 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
@@ -8409,79 +8481,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-23T15:51:55.012856+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'New season, new trim' - Haaland reveals buzzcut",
-    "published": "Sun, 23 Aug 2026 12:36:54 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "strike"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-23T13:45:18.082051+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-    "published": "Sun, 23 Aug 2026 10:22:32 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "military",
-      "attack",
-      "attacks"
-    ],
-    "score": 45,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-23T10:56:09.991222+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-    "published": "Sun, 23 Aug 2026 08:47:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "political"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-23T09:03:20.017834+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Syria says Israeli strike near Damascus violation of international law",
-    "published": "Sat, 22 Aug 2026 21:42:42 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "Syria",
-      "Turkey"
-    ],
-    "keywords": [
-      "military",
-      "strike"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-08-23T03:30:17.278186+00:00"
   }
 ]
