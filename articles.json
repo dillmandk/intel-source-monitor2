@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC World",
+    "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+    "published": "Sun, 04 Oct 2026 21:11:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-04T21:50:54.958832+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Watch: What we know about Russian strikes on Kyiv bridges",
     "published": "Sun, 04 Oct 2026 14:25:32 GMT",
     "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
@@ -8467,19 +8481,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-23T17:50:35.081443+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "France links rise in drownings to heatwaves",
-    "published": "Sun, 23 Aug 2026 15:00:17 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-23T15:51:55.012856+00:00"
   }
 ]
