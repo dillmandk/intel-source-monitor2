@@ -1,6 +1,40 @@
 [
   {
     "source": "BBC World",
+    "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+    "published": "Sun, 04 Oct 2026 12:09:04 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "drone",
+      "attack"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-04T14:44:19.734686+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+    "published": "Sun, 04 Oct 2026 13:33:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-04T14:44:19.734736+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
     "published": "Sun, 04 Oct 2026 04:53:29 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
@@ -8449,37 +8483,5 @@
     "score": 30,
     "priority": "LOW",
     "collected_at": "2026-08-23T03:30:17.278186+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Swedish sword attack victim was 17-year-old girl, police say",
-    "published": "Sun, 23 Aug 2026 01:34:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-08-23T03:30:17.278255+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US military newspaper editor voices censorship fears after being fired",
-    "published": "Sat, 22 Aug 2026 16:57:19 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-08-22T17:50:38.603082+00:00"
   }
 ]
