@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC World",
+    "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+    "published": "Sun, 04 Oct 2026 04:53:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-04T08:51:46.459144+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Cornell president says university 'must do better' after frat house rape allegations",
     "published": "Sun, 04 Oct 2026 00:11:25 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
@@ -8467,22 +8481,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-08-22T17:50:38.603082+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-    "published": "Sat, 22 Aug 2026 16:45:02 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-22T16:53:03.852354+00:00"
   }
 ]
