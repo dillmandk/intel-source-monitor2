@@ -1,6 +1,59 @@
 [
   {
     "source": "BBC World",
+    "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+    "published": "Mon, 05 Oct 2026 15:17:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine",
+      "Turkey"
+    ],
+    "keywords": [
+      "attack",
+      "strike"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-05T21:59:49.734621+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Spain PM pins hopes on housing crisis to help win snap election",
+    "published": "Mon, 05 Oct 2026 19:30:50 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-05T21:59:49.734690+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
+    "published": "Mon, 05 Oct 2026 17:49:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "offensive"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-05T21:59:49.734923+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
     "published": "Mon, 05 Oct 2026 13:16:00 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
@@ -8422,58 +8475,5 @@
     "score": 50,
     "priority": "MEDIUM",
     "collected_at": "2026-08-24T16:08:13.127275+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "New Zealand to introduce bill for under-16s social media ban",
-    "published": "Mon, 24 Aug 2026 12:17:34 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-24T14:26:41.357920+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-    "published": "Mon, 24 Aug 2026 10:40:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "war",
-      "strike",
-      "strikes"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-24T11:51:13.550778+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-    "published": "Mon, 24 Aug 2026 10:39:23 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "offensive"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-08-24T11:51:13.550832+00:00"
   }
 ]
