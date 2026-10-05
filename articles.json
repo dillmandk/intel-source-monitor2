@@ -1,6 +1,53 @@
 [
   {
     "source": "BBC World",
+    "title": "US air force removes all bombers from British military base RAF Fairford",
+    "published": "Mon, 05 Oct 2026 04:58:56 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "United Kingdom"
+    ],
+    "keywords": [
+      "military",
+      "air force"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-10-05T06:19:31.191890+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: How Brazil's dramatic election unfolded",
+    "published": "Mon, 05 Oct 2026 04:51:24 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-05T06:19:31.191958+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+    "published": "Mon, 05 Oct 2026 06:15:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-05T06:19:31.191983+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
     "published": "Sun, 04 Oct 2026 21:11:49 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
@@ -8434,52 +8481,5 @@
     "score": 60,
     "priority": "MEDIUM",
     "collected_at": "2026-08-24T03:33:06.624595+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Australian shark attack victim grateful for 'second chance at life'",
-    "published": "Mon, 24 Aug 2026 00:34:59 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [
-      "war",
-      "attack"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-08-24T03:33:06.624776+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Guinea rubbish landfill collapse kills 30",
-    "published": "Sun, 23 Aug 2026 18:17:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-23T19:02:40.723836+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
-    "published": "Sun, 23 Aug 2026 17:31:29 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-23T17:50:35.081443+00:00"
   }
 ]
