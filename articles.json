@@ -1,6 +1,82 @@
 [
   {
     "source": "BBC World",
+    "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+    "published": "Mon, 05 Oct 2026 13:16:00 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-05T15:03:56.718700+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Spanish PM Sánchez calls early election after housing protests",
+    "published": "Mon, 05 Oct 2026 10:18:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-05T15:03:56.718748+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+    "published": "Mon, 05 Oct 2026 11:34:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "terrorism"
+    ],
+    "locations": [],
+    "keywords": [
+      "extremist"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-05T15:03:56.718776+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Nobel Prize awarded for revealing inner workings of the brain",
+    "published": "Mon, 05 Oct 2026 11:04:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-05T15:03:56.718811+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: How Spain's housing crisis has resulted in an early general election",
+    "published": "Mon, 05 Oct 2026 09:03:30 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-05T15:03:56.719062+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US air force removes all bombers from British military base RAF Fairford",
     "published": "Mon, 05 Oct 2026 04:58:56 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
@@ -8399,87 +8475,5 @@
     "score": 25,
     "priority": "LOW",
     "collected_at": "2026-08-24T11:51:13.550832+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Access to Zambian courts prevented as election petition deadline looms",
-    "published": "Mon, 24 Aug 2026 11:17:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-24T11:51:13.550899+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "What do locals think of IndyCar in Washington DC?",
-    "published": "Mon, 24 Aug 2026 04:51:49 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-24T11:51:13.551252+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'Half my business will be gone' - Firms in Canada and US fear trade war",
-    "published": "Mon, 24 Aug 2026 09:47:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-24T10:24:05.158629+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
-    "published": "Mon, 24 Aug 2026 10:05:22 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-24T10:24:05.158689+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-    "published": "Sun, 23 Aug 2026 23:07:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Ukraine",
-      "United Kingdom"
-    ],
-    "keywords": [
-      "drone",
-      "drones",
-      "war"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-24T03:33:06.624595+00:00"
   }
 ]
