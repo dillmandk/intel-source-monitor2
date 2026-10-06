@@ -1,6 +1,133 @@
 [
   {
     "source": "BBC World",
+    "title": "Ship sinks and crew missing after Black Sea drone attack",
+    "published": "Tue, 06 Oct 2026 11:53:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "war",
+      "attack",
+      "attacks",
+      "strike",
+      "strikes"
+    ],
+    "score": 100,
+    "priority": "HIGH",
+    "collected_at": "2026-10-06T15:56:44.217395+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+    "published": "Tue, 06 Oct 2026 14:15:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-06T15:56:44.217438+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Indian opposition MPs detained in protest against election chief",
+    "published": "Tue, 06 Oct 2026 10:05:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-06T15:56:44.217586+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+    "published": "Tue, 06 Oct 2026 09:48:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "attack",
+      "attacks"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-06T15:56:44.217790+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+    "published": "Tue, 06 Oct 2026 14:37:38 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-06T15:56:44.262305+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+    "published": "Tue, 06 Oct 2026 13:00:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-06T15:56:44.262337+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Watch: Bin on fire at school protests on the streets of Lille",
+    "published": "Tue, 06 Oct 2026 10:22:42 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-06T15:56:44.389261+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
     "published": "Tue, 06 Oct 2026 09:02:03 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
@@ -8327,140 +8454,5 @@
     "score": 55,
     "priority": "MEDIUM",
     "collected_at": "2026-08-25T17:51:47.688898+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "CIA chief in Moscow for unannounced talks, US media reports",
-    "published": "Tue, 25 Aug 2026 16:08:26 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "United States",
-      "Russia"
-    ],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-08-25T16:18:11.993085+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Swedish military seeks to take over Russian-owned estate near naval base",
-    "published": "Tue, 25 Aug 2026 15:18:50 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "military",
-      "drone",
-      "drones"
-    ],
-    "score": 50,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-25T16:18:11.993200+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Target apologises for 'offensive' children Halloween costume after backlash",
-    "published": "Tue, 25 Aug 2026 15:24:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cp3k5gvzplwo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "offensive"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-08-25T16:18:12.069693+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
-    "published": "Tue, 25 Aug 2026 10:56:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "China",
-      "Iran"
-    ],
-    "keywords": [
-      "war",
-      "sanctions"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-08-25T11:02:38.521478+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Lockerbie bombing trial postponed days before it was due to start",
-    "published": "Tue, 25 Aug 2026 06:59:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "bombing"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-08-25T07:33:10.204982+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
-    "published": "Tue, 25 Aug 2026 04:06:34 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Ukraine",
-      "United Kingdom"
-    ],
-    "keywords": [
-      "missile",
-      "drone",
-      "attack",
-      "attacks"
-    ],
-    "score": 80,
-    "priority": "HIGH",
-    "collected_at": "2026-08-25T07:33:10.205020+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US removes Syria from list of state sponsors of terrorism",
-    "published": "Tue, 25 Aug 2026 00:17:25 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political",
-      "terrorism"
-    ],
-    "locations": [
-      "Syria"
-    ],
-    "keywords": [
-      "terrorism",
-      "militant"
-    ],
-    "score": 50,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-25T03:16:30.247827+00:00"
   }
 ]
