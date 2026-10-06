@@ -1,6 +1,120 @@
 [
   {
     "source": "BBC World",
+    "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
+    "published": "Tue, 06 Oct 2026 09:02:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-06T09:07:00.451677+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+    "published": "Tue, 06 Oct 2026 09:01:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-06T09:07:00.451717+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+    "published": "Tue, 06 Oct 2026 02:22:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [
+      "military",
+      "soldiers",
+      "war",
+      "attack",
+      "combat"
+    ],
+    "score": 70,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-06T09:07:00.451750+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+    "published": "Tue, 06 Oct 2026 06:53:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-06T09:07:00.451780+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Children brave snipers and mortars to go to school near Yemen front line",
+    "published": "Tue, 06 Oct 2026 07:23:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-06T09:07:00.451881+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
+    "published": "Tue, 06 Oct 2026 01:58:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-06T09:07:00.574272+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Two people killed as floods hit Spain's Catalonia region",
+    "published": "Sun, 04 Oct 2026 14:56:06 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cw8rzdkmj5n1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-06T09:07:00.715244+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
     "published": "Mon, 05 Oct 2026 15:17:23 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
@@ -8348,132 +8462,5 @@
     "score": 50,
     "priority": "MEDIUM",
     "collected_at": "2026-08-25T03:16:30.247827+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
-    "published": "Mon, 24 Aug 2026 21:20:48 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-24T22:01:42.452572+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: Doug Ford's blunt warning to Trump over Canada tariffs",
-    "published": "Mon, 24 Aug 2026 19:45:59 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cx2zgr4272zo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-24T21:03:57.067568+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "'Absolutely ridiculous': Canadians react to new tariff tensions with the US",
-    "published": "Mon, 24 Aug 2026 20:20:11 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c20973ylx94o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-24T21:03:57.067866+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Dutch broadcaster Avrotros pulls out of  2027 Eurovision Song Contest",
-    "published": "Mon, 24 Aug 2026 10:54:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c1kx3m2z332o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-08-24T17:52:23.652401+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-    "published": "Mon, 24 Aug 2026 13:56:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-24T16:08:12.253445+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
-    "published": "Mon, 24 Aug 2026 15:14:14 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "missile",
-      "weapon",
-      "weapons",
-      "war"
-    ],
-    "score": 75,
-    "priority": "HIGH",
-    "collected_at": "2026-08-24T16:08:12.253811+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
-    "published": "Mon, 24 Aug 2026 12:51:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "political"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [
-      "missile",
-      "missiles"
-    ],
-    "score": 50,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-24T16:08:13.127275+00:00"
   }
 ]
