@@ -1,5 +1,37 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "Ex-US spy found with $40m in gold bars pleads guilty to wire fraud",
+    "published": "Tue, 06 Oct 2026 19:53:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-06T20:54:26.762968+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "US resident arrested in connection with deadly British Columbia school shooting",
+    "published": "Tue, 06 Oct 2026 19:49:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw1m4l3jrxlgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "United Kingdom"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-06T20:54:26.762999+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Ship sinks and crew missing after Black Sea drone attack",
     "published": "Tue, 06 Oct 2026 11:53:21 GMT",
@@ -8421,38 +8453,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-25T19:46:33.413800+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
-    "published": "Tue, 25 Aug 2026 19:11:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-25T19:46:33.590793+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
-    "published": "Tue, 25 Aug 2026 17:12:21 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "drone",
-      "war",
-      "attack"
-    ],
-    "score": 55,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-25T17:51:47.688898+00:00"
   }
 ]
