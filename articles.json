@@ -1,6 +1,44 @@
 [
   {
     "source": "BBC World",
+    "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+    "published": "Wed, 07 Oct 2026 20:27:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "war",
+      "attack"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-07T23:50:57.937753+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+    "published": "Wed, 07 Oct 2026 23:18:40 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-07T23:50:58.115767+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Israelis demand accountability over 7 October failures three years after attacks",
     "published": "Wed, 07 Oct 2026 16:00:18 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
@@ -8418,38 +8456,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-28T00:58:45.627825+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Fan backlash as gay World Cup star joins Saudi club",
-    "published": "Thu, 27 Aug 2026 08:52:41 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvgyl2dvvv0o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-28T00:58:45.627921+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Memory wars: Election clash over Germany's Nazi past as AfD eyes power in east",
-    "published": "Thu, 27 Aug 2026 14:52:11 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cddv43d4jn2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-28T00:58:45.627995+00:00"
   }
 ]
