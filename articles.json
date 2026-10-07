@@ -1,6 +1,75 @@
 [
   {
     "source": "BBC World",
+    "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+    "published": "Wed, 07 Oct 2026 12:16:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-07T13:49:03.453715+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
+    "published": "Wed, 07 Oct 2026 13:02:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-07T13:49:03.453824+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+    "published": "Wed, 07 Oct 2026 11:51:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-07T13:49:03.453865+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump on Iran: 'Let them take out LA, let them take out San Diego'",
+    "published": "Tue, 06 Oct 2026 13:11:15 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c3lyl28llz10o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-07T13:49:03.537360+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
     "published": "Wed, 07 Oct 2026 05:02:18 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
@@ -8383,71 +8452,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-08-26T14:27:54.558161+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
-    "published": "Wed, 26 Aug 2026 13:49:55 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "soldiers"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-08-26T14:27:54.558199+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-    "published": "Wed, 26 Aug 2026 08:17:45 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-26T11:51:20.447455+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-    "published": "Wed, 26 Aug 2026 08:01:56 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "bombing"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-08-26T11:51:20.447488+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Radiation link in flight attendant's breast cancer, French court finds",
-    "published": "Wed, 26 Aug 2026 10:29:36 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-26T11:51:20.447518+00:00"
   }
 ]
