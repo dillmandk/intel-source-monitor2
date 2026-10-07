@@ -1,6 +1,42 @@
 [
   {
     "source": "BBC World",
+    "title": "Israelis demand accountability over 7 October failures three years after attacks",
+    "published": "Wed, 07 Oct 2026 16:00:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-07T19:38:35.623910+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Xbox bets on Gears of War in battle of gaming giants",
+    "published": "Wed, 07 Oct 2026 10:43:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c50mezp822peo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-07T19:38:35.841377+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "France halts use of stun grenades after boy's hand blown off in student protests",
     "published": "Wed, 07 Oct 2026 12:16:58 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
@@ -8415,42 +8451,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-08-28T00:58:45.627995+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-    "published": "Wed, 26 Aug 2026 12:32:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Pakistan"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-26T14:27:54.557967+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
-    "published": "Wed, 26 Aug 2026 12:17:12 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "China",
-      "Taiwan"
-    ],
-    "keywords": [
-      "diplomatic"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-08-26T14:27:54.558161+00:00"
   }
 ]
