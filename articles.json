@@ -1,6 +1,164 @@
 [
   {
     "source": "BBC World",
+    "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+    "published": "Thu, 08 Oct 2026 12:06:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-08T12:16:11.840432+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+    "published": "Thu, 08 Oct 2026 08:18:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-08T12:16:11.840494+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Italy overhauls electoral system after fiercely contested debate",
+    "published": "Thu, 08 Oct 2026 12:02:04 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-08T12:16:11.840538+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+    "published": "Thu, 08 Oct 2026 12:11:31 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "tank"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-08T12:16:11.840571+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+    "published": "Thu, 08 Oct 2026 09:56:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Ukraine",
+      "North Korea",
+      "South Korea"
+    ],
+    "keywords": [
+      "war",
+      "diplomatic"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-10-08T12:16:11.840631+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Bear kills man in home attack near Mongolian capital",
+    "published": "Thu, 08 Oct 2026 11:52:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckvg79wz9v2yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-08T12:16:11.840682+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
+    "published": "Wed, 07 Oct 2026 18:40:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "troops",
+      "soldiers"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-10-08T12:16:11.840790+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+    "published": "Thu, 08 Oct 2026 05:10:40 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-08T12:16:11.840822+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Caretaker killed and two teachers injured in knife attack at Poland school",
+    "published": "Thu, 08 Oct 2026 11:33:19 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq2e9xjv0jm2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-08T12:16:12.005357+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
     "published": "Thu, 08 Oct 2026 03:02:06 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
@@ -8302,162 +8460,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-08-28T21:53:29.078807+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-    "published": "Fri, 28 Aug 2026 15:15:26 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "United States"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-28T21:53:29.078836+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-    "published": "Fri, 28 Aug 2026 21:17:54 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-28T21:53:29.078939+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
-    "published": "Fri, 28 Aug 2026 14:06:13 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-08-28T21:53:29.078967+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Nepal army rescues survivors from hydropower tunnel",
-    "published": "Fri, 28 Aug 2026 08:33:14 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cddv0rldqqlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "army"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-08-28T21:53:29.079026+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Six months into the Iran war: What has Trump accomplished?",
-    "published": "Fri, 28 Aug 2026 06:34:48 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cr7dnemgd03o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-28T21:53:29.133013+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "'High risk' of lake breaching and causing second flood, warns China",
-    "published": "Fri, 28 Aug 2026 10:50:34 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "China"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-28T21:53:29.231612+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-    "published": "Thu, 27 Aug 2026 17:05:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-28T00:58:45.522427+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
-    "published": "Thu, 27 Aug 2026 20:39:16 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-28T00:58:45.522499+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
-    "published": "Thu, 27 Aug 2026 14:17:24 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "war",
-      "strike",
-      "strikes"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-28T00:58:45.522567+00:00"
   }
 ]
