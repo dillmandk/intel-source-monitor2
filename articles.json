@@ -1,6 +1,43 @@
 [
   {
     "source": "BBC World",
+    "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
+    "published": "Thu, 08 Oct 2026 14:10:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-08T18:55:02.232957+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+    "published": "Thu, 08 Oct 2026 05:06:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "war",
+      "strike",
+      "strikes"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-08T18:55:02.233301+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
     "published": "Thu, 08 Oct 2026 12:06:57 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
@@ -8428,37 +8465,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-08-28T21:53:29.078723+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Dutch court sentences man to life over Rwanda genocide",
-    "published": "Fri, 28 Aug 2026 12:15:46 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-28T21:53:29.078769+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-    "published": "Fri, 28 Aug 2026 03:41:59 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-08-28T21:53:29.078807+00:00"
   }
 ]
