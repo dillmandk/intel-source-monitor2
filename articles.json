@@ -1,6 +1,76 @@
 [
   {
     "source": "BBC World",
+    "title": "US imposes sanctions on International Criminal Court",
+    "published": "Fri, 09 Oct 2026 16:06:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-09T17:11:07.324309+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+    "published": "Fri, 09 Oct 2026 15:24:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "troops",
+      "soldiers",
+      "drone",
+      "war",
+      "strike",
+      "strikes"
+    ],
+    "score": 100,
+    "priority": "HIGH",
+    "collected_at": "2026-10-09T17:11:07.324377+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Anthropic bans users from being 'cruel' to its AI systems",
+    "published": "Fri, 09 Oct 2026 12:34:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-09T17:11:07.393463+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Hurricane Isaias strengthens as it heads towards land",
+    "published": "Fri, 09 Oct 2026 14:23:57 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-09T17:11:07.393498+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
     "published": "Fri, 09 Oct 2026 10:07:04 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
@@ -8406,70 +8476,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-29T19:51:46.313116+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-    "published": "Sat, 29 Aug 2026 13:55:55 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [
-      "war",
-      "strike"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-29T14:08:30.697469+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
-    "published": "Sat, 29 Aug 2026 09:38:07 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "strike",
-      "strikes"
-    ],
-    "score": 55,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-29T09:51:44.674679+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-    "published": "Sat, 29 Aug 2026 07:11:04 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-29T07:38:34.966931+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
-    "published": "Sat, 29 Aug 2026 01:21:43 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-29T01:38:30.532329+00:00"
   }
 ]
