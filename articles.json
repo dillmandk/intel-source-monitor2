@@ -1,6 +1,80 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+    "published": "Fri, 09 Oct 2026 21:16:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-09T21:46:32.108550+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+    "published": "Fri, 09 Oct 2026 20:42:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-09T21:46:32.108649+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+    "published": "Fri, 09 Oct 2026 21:26:30 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-09T21:46:32.108678+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+    "published": "Fri, 09 Oct 2026 17:14:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike",
+      "strikes"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-10-09T21:46:32.108711+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US imposes sanctions on International Criminal Court",
     "published": "Fri, 09 Oct 2026 16:06:59 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
@@ -8408,73 +8482,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-08-30T17:58:18.869864+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
-    "published": "Sun, 30 Aug 2026 16:48:13 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-30T16:58:38.120003+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russia says it helped to repel Niger attempted coup",
-    "published": "Sun, 30 Aug 2026 16:33:17 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "military",
-      "soldiers",
-      "war",
-      "attack"
-    ],
-    "score": 55,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-30T16:41:34.857990+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Iceland votes against restarting talks on joining EU",
-    "published": "Sun, 30 Aug 2026 09:49:05 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-30T09:58:17.416850+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Former Ecuadorian president imprisoned for corruption",
-    "published": "Sat, 29 Aug 2026 19:44:54 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "China"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-29T19:51:46.313116+00:00"
   }
 ]
