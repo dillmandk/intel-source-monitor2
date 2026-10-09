@@ -1,6 +1,87 @@
 [
   {
     "source": "BBC World",
+    "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+    "published": "Fri, 09 Oct 2026 10:07:04 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "missile",
+      "attack",
+      "attacks",
+      "fighting"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-10-09T10:36:28.073300+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+    "published": "Fri, 09 Oct 2026 04:53:50 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-09T10:36:28.073358+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: Fleeing Kyiv for the countryside ahead of winter",
+    "published": "Fri, 09 Oct 2026 10:00:49 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-09T10:36:28.073774+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
+    "published": "Thu, 08 Oct 2026 22:26:10 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-09T10:36:28.073816+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
     "published": "Thu, 08 Oct 2026 23:11:10 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
@@ -8390,75 +8471,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-29T01:38:30.532329+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
-    "published": "Sat, 29 Aug 2026 01:14:13 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war",
-      "attack"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-08-29T01:21:47.460996+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-    "published": "Sat, 29 Aug 2026 00:56:19 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-29T01:08:45.219926+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Canada poaches dozens of top US researchers for its universities",
-    "published": "Fri, 28 Aug 2026 23:47:38 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-29T00:08:45.870013+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-    "published": "Fri, 28 Aug 2026 19:05:23 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "NATO"
-    ],
-    "keywords": [
-      "military",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-08-28T21:53:29.078541+00:00"
   }
 ]
