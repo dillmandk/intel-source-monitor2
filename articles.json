@@ -1,6 +1,23 @@
 [
   {
     "source": "BBC World",
+    "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+    "published": "Fri, 09 Oct 2026 22:30:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "United States",
+      "Russia"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-10T01:19:36.070068+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
     "published": "Fri, 09 Oct 2026 21:16:49 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
@@ -8466,21 +8483,5 @@
     "score": 55,
     "priority": "MEDIUM",
     "collected_at": "2026-08-30T21:28:36.003466+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "\"A giant leap forward\": Nasa launches powerful new space telescope to explore mysteries of the Universe",
-    "published": "Sun, 30 Aug 2026 15:28:08 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-30T17:58:18.869864+00:00"
   }
 ]
