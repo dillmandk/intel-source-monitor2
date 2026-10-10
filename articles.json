@@ -1,6 +1,112 @@
 [
   {
     "source": "BBC World",
+    "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+    "published": "Sat, 10 Oct 2026 18:24:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-10T18:25:48.107875+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Several injured in attack on airport in Saudi capital Riyadh",
+    "published": "Sat, 10 Oct 2026 16:56:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war",
+      "attack",
+      "attacks"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-10T18:25:48.107990+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+    "published": "Sat, 10 Oct 2026 12:29:31 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-10T18:25:48.108041+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Woman injures three people in third Poland school knife attack in a week",
+    "published": "Sat, 10 Oct 2026 14:58:55 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-10T18:25:48.108073+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+    "published": "Sat, 10 Oct 2026 15:23:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-10T18:25:48.108103+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+    "published": "Sat, 10 Oct 2026 14:49:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "drone",
+      "strike"
+    ],
+    "score": 50,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-10T18:25:48.108156+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
     "published": "Sat, 10 Oct 2026 11:17:15 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
@@ -8385,102 +8491,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-08-31T20:42:01.241554+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Company offering reward for safe return of truckload of beer",
-    "published": "Mon, 31 Aug 2026 16:32:59 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-31T16:42:31.167826+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
-    "published": "Mon, 31 Aug 2026 10:54:01 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "strike"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-31T11:12:00.359381+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "How the US-Canada trade war is being felt on both sides of the border",
-    "published": "Mon, 31 Aug 2026 00:05:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-08-31T09:41:47.289237+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Monza memories - Italian GP in pictures through the years",
-    "published": "Mon, 31 Aug 2026 07:06:17 GMT",
-    "link": "https://www.bbc.co.uk/sport/formula1/articles/ckg8w8qj5z9o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-31T09:41:47.289270+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Russian strikes destroy 12 million books ahead of Ukraine's first week back at school",
-    "published": "Mon, 31 Aug 2026 05:01:12 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cly5v8qmy64o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "attack",
-      "strike",
-      "strikes"
-    ],
-    "score": 55,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-31T09:28:34.603030+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Algeria president seeks death penalty for arsonists after deadly forest fires",
-    "published": "Mon, 31 Aug 2026 08:13:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-31T08:42:13.232151+00:00"
   }
 ]
