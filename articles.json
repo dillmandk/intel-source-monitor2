@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+    "published": "Sat, 10 Oct 2026 19:25:03 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-10T21:56:53.048518+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
     "published": "Sat, 10 Oct 2026 18:24:03 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
@@ -8477,19 +8493,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-09-01T01:30:14.320750+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
-    "published": "Mon, 31 Aug 2026 20:36:48 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-08-31T20:42:01.241554+00:00"
   }
 ]
