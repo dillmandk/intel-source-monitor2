@@ -1,6 +1,41 @@
 [
   {
     "source": "BBC World",
+    "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+    "published": "Sat, 10 Oct 2026 04:34:55 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "terrorism"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "war",
+      "attack",
+      "terrorism"
+    ],
+    "score": 65,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-10T07:23:37.955640+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+    "published": "Sat, 10 Oct 2026 04:07:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-10T07:23:37.955701+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
     "published": "Fri, 09 Oct 2026 22:30:22 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
@@ -8445,43 +8480,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-08-31T05:11:44.967119+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "'Like fighting a dinosaur': Sydney woman recalls how she punched shark during attack",
-    "published": "Mon, 31 Aug 2026 00:44:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3v4px7yv6xo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war",
-      "attack",
-      "fighting"
-    ],
-    "score": 50,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-31T05:11:44.967151+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-    "published": "Sun, 30 Aug 2026 21:15:42 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "attack",
-      "strike",
-      "strikes"
-    ],
-    "score": 55,
-    "priority": "MEDIUM",
-    "collected_at": "2026-08-30T21:28:36.003466+00:00"
   }
 ]
