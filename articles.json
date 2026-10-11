@@ -1,6 +1,59 @@
 [
   {
     "source": "BBC World",
+    "title": "Saudi capital airport hit by second Houthi strike in two days",
+    "published": "Sun, 11 Oct 2026 16:41:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-11T18:27:34.626141+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Poland detains man suspected of planning assassination of PM Tusk",
+    "published": "Sun, 11 Oct 2026 17:27:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-11T18:27:34.626225+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+    "published": "Sun, 11 Oct 2026 15:18:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-11T18:27:34.626271+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Ukraine strikes Russian data centre again despite Trump warning",
     "published": "Sun, 11 Oct 2026 12:50:46 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
@@ -8445,58 +8498,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-01T12:06:56.750139+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Israeli fire kills three in Gaza City during reported raid, medics say",
-    "published": "Tue, 01 Sep 2026 10:40:55 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "military",
-      "artillery",
-      "strike",
-      "strikes"
-    ],
-    "score": 70,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-01T10:52:27.624259+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Teen girl charged with murder over recording of San Diego mosque attack",
-    "published": "Tue, 01 Sep 2026 10:26:50 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-01T10:36:06.315495+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: Why is the US-Venezuela oil deal so controversial?",
-    "published": "Mon, 31 Aug 2026 22:23:45 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c207kde49dvo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-01T07:33:44.713689+00:00"
   }
 ]
