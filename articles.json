@@ -1,6 +1,40 @@
 [
   {
     "source": "BBC World",
+    "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+    "published": "Sun, 11 Oct 2026 21:12:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-11T22:23:45.348890+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: What's behind Trump's energy ceasefire claim?",
+    "published": "Sun, 11 Oct 2026 20:55:02 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-11T22:23:45.349232+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Saudi capital airport hit by second Houthi strike in two days",
     "published": "Sun, 11 Oct 2026 16:41:37 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
@@ -8461,42 +8495,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-09-01T16:14:16.114025+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally",
-    "published": "Tue, 01 Sep 2026 15:51:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-01T16:14:16.114114+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
-    "published": "Tue, 01 Sep 2026 11:55:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine",
-      "India"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-01T12:06:56.750139+00:00"
   }
 ]
