@@ -1,6 +1,24 @@
 [
   {
     "source": "BBC World",
+    "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+    "published": "Sat, 10 Oct 2026 22:13:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "army",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-10-11T00:49:52.861982+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
     "published": "Sat, 10 Oct 2026 19:25:03 GMT",
     "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
@@ -8477,21 +8495,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-01T06:53:34.880855+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US army secretary resigns after months of tension",
-    "published": "Tue, 01 Sep 2026 01:01:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "army"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-09-01T01:30:14.320750+00:00"
   }
 ]
