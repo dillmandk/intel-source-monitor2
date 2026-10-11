@@ -1,6 +1,44 @@
 [
   {
     "source": "BBC World",
+    "title": "Ukraine strikes Russian data centre again despite Trump warning",
+    "published": "Sun, 11 Oct 2026 12:50:46 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war",
+      "strike",
+      "strikes"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-11T13:35:08.526009+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+    "published": "Sun, 11 Oct 2026 11:32:50 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-11T13:35:08.526433+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
     "published": "Sat, 10 Oct 2026 22:13:08 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
@@ -8460,40 +8498,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-01T07:33:44.713689+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Russian strike hits rail workers in new deadly attacks on Kyiv",
-    "published": "Tue, 01 Sep 2026 06:48:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "attack",
-      "attacks",
-      "strike"
-    ],
-    "score": 55,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-01T07:16:19.692952+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Zambia's president to be sworn in for second term while opponent detained",
-    "published": "Tue, 01 Sep 2026 06:43:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-01T06:53:34.880855+00:00"
   }
 ]
