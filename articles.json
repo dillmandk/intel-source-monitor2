@@ -1,6 +1,131 @@
 [
   {
     "source": "BBC World",
+    "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+    "published": "Mon, 12 Oct 2026 17:32:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-12T17:52:03.965404+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+    "published": "Mon, 12 Oct 2026 14:00:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-12T17:52:03.965463+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Fridges in French supermarkets hit by cyber attack",
+    "published": "Mon, 12 Oct 2026 16:17:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "cyber"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "cyber attack"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-12T17:52:03.965513+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "US detains man accused in multi-billion Venezuelan money laundering scheme",
+    "published": "Mon, 12 Oct 2026 13:49:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-12T17:52:03.965552+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Why the US is bringing back firing squads",
+    "published": "Mon, 12 Oct 2026 14:56:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "army"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-12T17:52:03.965764+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Why is it so hard to fight the Houthis?",
+    "published": "Mon, 12 Oct 2026 12:15:01 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-12T17:52:03.965891+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+    "published": "Mon, 12 Oct 2026 09:38:03 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "missile",
+      "strike"
+    ],
+    "score": 45,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-12T17:52:03.965914+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump faces growing backlash over plans to import diesel from Russia",
     "published": "Sun, 11 Oct 2026 23:18:45 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
@@ -8364,125 +8489,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-09-02T13:25:57.469920+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Pub's 'beloved' manager stabbed to death in Germany",
-    "published": "Wed, 02 Sep 2026 12:51:35 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckgw8e8p0ngo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-02T13:25:57.858333+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-    "published": "Wed, 02 Sep 2026 11:47:11 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "United Kingdom"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-02T12:22:33.669265+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Guinea-Bissau referendum approves new constitution that expands president's powers",
-    "published": "Wed, 02 Sep 2026 07:48:39 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-02T08:21:26.525502+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Why do US troops have history with this Thai city?",
-    "published": "Wed, 02 Sep 2026 07:18:39 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "troops"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-02T07:24:57.642180+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Israel expanding presence in Lebanon, officials say, as BBC visits occupied areas",
-    "published": "Wed, 02 Sep 2026 05:03:09 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Israel"
-    ],
-    "keywords": [
-      "troops"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-02T05:38:11.786520+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-    "published": "Wed, 02 Sep 2026 04:23:23 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine",
-      "China"
-    ],
-    "keywords": [
-      "drone",
-      "attack",
-      "attacks"
-    ],
-    "score": 55,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-02T04:58:25.519535+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Pennsylvania officer charged in death of student who knocked at wrong door",
-    "published": "Wed, 02 Sep 2026 01:52:48 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/clyk3351mj5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-02T02:24:59.242006+00:00"
   }
 ]
