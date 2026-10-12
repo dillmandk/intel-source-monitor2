@@ -1,6 +1,54 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump faces growing backlash over plans to import diesel from Russia",
+    "published": "Sun, 11 Oct 2026 23:18:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-12T08:03:09.289078+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+    "published": "Sun, 11 Oct 2026 23:13:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-12T08:03:09.289164+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Indian opposition leaders to march to top court to demand election chief resign",
+    "published": "Mon, 12 Oct 2026 06:42:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-12T08:03:09.695679+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
     "published": "Sun, 11 Oct 2026 21:12:44 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
@@ -8436,64 +8484,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-02T02:24:59.242006+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "How a small island in Canada appeared, vanished, and was found again",
-    "published": "Tue, 01 Sep 2026 17:36:44 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "United Kingdom"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-01T21:33:28.671346+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US launches more strikes on Iran as state media reports explosions",
-    "published": "Tue, 01 Sep 2026 17:54:01 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "United States",
-      "Iran"
-    ],
-    "keywords": [
-      "strike",
-      "strikes"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-01T18:59:05.013249+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Germany says Russia behind Leipzig airport drone attack",
-    "published": "Tue, 01 Sep 2026 16:13:48 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "drone",
-      "attack"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-01T16:14:16.114025+00:00"
   }
 ]
