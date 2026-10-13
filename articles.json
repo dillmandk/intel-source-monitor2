@@ -1,6 +1,153 @@
 [
   {
     "source": "BBC World",
+    "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+    "published": "Tue, 13 Oct 2026 14:51:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "drone",
+      "attack"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-13T15:01:27.970041+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
+    "published": "Tue, 13 Oct 2026 13:23:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-13T15:01:27.970075+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ex-president named leader of new DR Congo rebel coalition",
+    "published": "Tue, 13 Oct 2026 13:40:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-13T15:01:27.970119+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+    "published": "Tue, 13 Oct 2026 13:27:31 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike",
+      "strikes"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-10-13T15:01:27.970275+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+    "published": "Tue, 13 Oct 2026 12:52:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Iran"
+    ],
+    "keywords": [
+      "drone",
+      "drones",
+      "weapon",
+      "weapons",
+      "war"
+    ],
+    "score": 90,
+    "priority": "HIGH",
+    "collected_at": "2026-10-13T15:01:28.390959+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Ronaldo scores after match delayed by missile alert",
+    "published": "Tue, 13 Oct 2026 09:23:28 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "missile"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-10-13T15:01:28.391031+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Drones could fly deliveries from France to Alderney",
+    "published": "Tue, 13 Oct 2026 12:16:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj75pd4n0e94o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "drone",
+      "drones"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-13T15:01:28.391057+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Eight injured in South Korea knife attack",
+    "published": "Tue, 13 Oct 2026 11:49:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cme8r2znl66lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "South Korea"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-13T15:01:28.592629+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
     "published": "Tue, 13 Oct 2026 05:02:34 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
@@ -8349,136 +8496,5 @@
     "score": 40,
     "priority": "MEDIUM",
     "collected_at": "2026-09-03T16:20:54.468243+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-    "published": "Thu, 03 Sep 2026 09:53:58 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "military",
-      "troops",
-      "attack"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-03T13:44:33.414370+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
-    "published": "Thu, 03 Sep 2026 13:07:02 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-03T13:25:57.772542+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Kenyan president orders crackdown on foreigners operating small businesses",
-    "published": "Thu, 03 Sep 2026 10:59:14 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-03T11:23:04.858523+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Embattled Spanish PM Sánchez insists no prior warnings before Ceuta crisis",
-    "published": "Thu, 03 Sep 2026 08:14:17 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-03T08:18:20.892885+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: From Star Wars to Banksy, the art is with you at new Lucas Museum",
-    "published": "Thu, 03 Sep 2026 01:04:16 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cg59d9dyn46o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-03T07:33:58.587899+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "UN warns of 'supersized' El Nino as countries prepare for impact",
-    "published": "Thu, 03 Sep 2026 06:01:54 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-03T06:08:42.207109+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Shopping to bar-hopping: USS Abraham Lincoln sailors unwind in Thailand after 250-day voyage",
-    "published": "Thu, 03 Sep 2026 05:17:04 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-09-03T05:49:52.686460+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'I don't even like them': How much should you give to office gift collections?",
-    "published": "Wed, 02 Sep 2026 23:25:50 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-03T05:49:52.686501+00:00"
   }
 ]
