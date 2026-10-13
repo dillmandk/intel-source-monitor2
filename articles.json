@@ -1,6 +1,25 @@
 [
   {
     "source": "BBC World",
+    "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+    "published": "Tue, 13 Oct 2026 20:02:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "missile",
+      "missiles",
+      "fighting"
+    ],
+    "score": 65,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-13T20:39:41.864089+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
     "published": "Tue, 13 Oct 2026 14:51:59 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
@@ -8479,22 +8498,5 @@
     "score": 65,
     "priority": "MEDIUM",
     "collected_at": "2026-09-03T18:55:20.630834+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-    "published": "Thu, 03 Sep 2026 16:01:39 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "strike",
-      "strikes"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-03T16:20:54.468243+00:00"
   }
 ]
