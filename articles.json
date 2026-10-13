@@ -1,6 +1,116 @@
 [
   {
     "source": "BBC World",
+    "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+    "published": "Tue, 13 Oct 2026 23:42:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-13T23:57:02.774636+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Zimbabwean author denies using AI to write award-winning story",
+    "published": "Tue, 13 Oct 2026 23:31:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-13T23:57:02.774763+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+    "published": "Tue, 13 Oct 2026 22:14:33 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "missile",
+      "war",
+      "strike",
+      "strikes"
+    ],
+    "score": 85,
+    "priority": "HIGH",
+    "collected_at": "2026-10-13T23:57:02.774800+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+    "published": "Tue, 13 Oct 2026 22:02:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-13T23:57:02.774873+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+    "published": "Tue, 13 Oct 2026 22:07:40 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Pakistan"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-13T23:57:02.774912+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident",
+    "published": "Tue, 13 Oct 2026 22:59:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-13T23:57:02.990015+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
     "published": "Tue, 13 Oct 2026 20:02:15 GMT",
     "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
@@ -8396,107 +8506,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-09-04T02:50:10.604955+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Tensions flare as judge declines to remove holdout juror in Lindsay Clancy trial",
-    "published": "Thu, 03 Sep 2026 23:52:29 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-04T00:27:22.595007+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
-    "published": "Thu, 03 Sep 2026 16:16:49 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-03T23:40:54.661851+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US investigating if missile hit Iran wedding, Vance says",
-    "published": "Thu, 03 Sep 2026 22:19:59 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "missile"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-09-03T23:40:54.661903+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: Defence calls for one juror to be dismissed in Lindsay Clancy case",
-    "published": "Thu, 03 Sep 2026 19:52:59 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c3v49926063o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-03T21:41:14.030083+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Nepal tunnel rescuers hunt for survivors with rafts and drone",
-    "published": "Thu, 03 Sep 2026 19:56:34 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/ckg0eerml02o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "drone"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-03T21:05:34.157425+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: JD Vance 'extremely sceptical' over alleged strike on Iranian wedding",
-    "published": "Thu, 03 Sep 2026 18:33:25 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cr4vn247550o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "missile",
-      "war",
-      "strike"
-    ],
-    "score": 65,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-03T18:55:20.630834+00:00"
   }
 ]
