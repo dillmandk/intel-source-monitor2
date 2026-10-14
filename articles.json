@@ -1,5 +1,21 @@
 [
   {
+    "source": "BBC Europe",
+    "title": "Burnham treads carefully with Zelensky visit, balancing Trump and Ukraine",
+    "published": "Wed, 14 Oct 2026 17:25:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-14T18:59:15.963321+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "US inflation rises more than expected ahead of midterm elections",
     "published": "Wed, 14 Oct 2026 13:40:36 GMT",
@@ -8477,21 +8493,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-09-05T02:33:59.119815+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-    "published": "Fri, 04 Sep 2026 23:07:23 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-04T23:21:20.494918+00:00"
   }
 ]
