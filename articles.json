@@ -1,6 +1,62 @@
 [
   {
     "source": "BBC World",
+    "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+    "published": "Wed, 14 Oct 2026 09:42:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-14T09:47:42.694568+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "What we know about Russia's overnight strikes on Ukraine",
+    "published": "Wed, 14 Oct 2026 09:25:03 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-14T09:47:42.694977+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
+    "published": "Wed, 14 Oct 2026 06:11:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "diplomatic"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-14T09:47:43.401532+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russia arrests Japanese journalist on alleged espionage",
     "published": "Wed, 14 Oct 2026 04:10:49 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
@@ -8451,58 +8507,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-04T11:32:51.405206+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
-    "published": "Fri, 04 Sep 2026 10:00:18 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-04T10:17:15.458408+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "After renewed US-Iran strikes - how could the conflict end?",
-    "published": "Fri, 04 Sep 2026 09:14:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "strike",
-      "strikes"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-04T09:34:05.657372+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Tata Chemicals ordered out of Kenya by president",
-    "published": "Fri, 04 Sep 2026 05:22:34 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8e3py6rx2ro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "India"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-04T06:06:21.069816+00:00"
   }
 ]
