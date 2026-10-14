@@ -1,5 +1,62 @@
 [
   {
+    "source": "BBC World",
+    "title": "Student protesters attack government buildings in Tirana",
+    "published": "Wed, 14 Oct 2026 20:29:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-14T22:14:24.962001+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+    "published": "Wed, 14 Oct 2026 19:52:04 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-14T22:14:24.962301+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Why Zelensky's meeting with Burnham matters",
+    "published": "Wed, 14 Oct 2026 20:41:03 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-14T22:14:24.962431+00:00"
+  },
+  {
     "source": "BBC Europe",
     "title": "Burnham treads carefully with Zelensky visit, balancing Trump and Ukraine",
     "published": "Wed, 14 Oct 2026 17:25:18 GMT",
@@ -8443,55 +8500,5 @@
     "score": 25,
     "priority": "LOW",
     "collected_at": "2026-09-05T04:18:43.161238+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "At least two dead in blast at Bolivia military barracks",
-    "published": "Sat, 05 Sep 2026 02:59:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "military",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-09-05T03:23:42.575176+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "How much can Canada fight back in its trade war with the US?",
-    "published": "Sat, 05 Sep 2026 02:13:21 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-05T03:23:42.575335+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Tate brothers charged with further trafficking and sex crimes in Romania",
-    "published": "Sat, 05 Sep 2026 02:29:21 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "fighting"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-05T02:33:59.119815+00:00"
   }
 ]
