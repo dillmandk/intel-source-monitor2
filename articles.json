@@ -1,6 +1,115 @@
 [
   {
     "source": "BBC World",
+    "title": "US inflation rises more than expected ahead of midterm elections",
+    "published": "Wed, 14 Oct 2026 13:40:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-14T14:43:46.240776+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Turkish police raid opposition TV station, halting live broadcasts",
+    "published": "Wed, 14 Oct 2026 10:50:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Turkey"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-14T14:43:46.240866+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
+    "published": "Wed, 14 Oct 2026 14:18:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "strike"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-14T14:43:46.240947+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Mauritius reels from worst riots in decades after woman shot by police",
+    "published": "Wed, 14 Oct 2026 11:24:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-14T14:43:46.240978+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+    "published": "Wed, 14 Oct 2026 13:09:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-14T14:43:46.241007+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Watch: Moment Duane Davis is sentenced to 40 years for Tupac Shakur's murder",
+    "published": "Tue, 13 Oct 2026 19:27:53 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmp3g12en1exo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "weapon"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-14T14:43:46.531048+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+    "published": "Wed, 14 Oct 2026 13:35:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-14T14:43:47.216182+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
     "published": "Wed, 14 Oct 2026 09:42:08 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
@@ -8384,128 +8493,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-04T23:21:20.494918+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Trump's response is key as Argentina's Falklands demands get louder",
-    "published": "Fri, 04 Sep 2026 20:34:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "United Kingdom"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-04T20:48:50.002005+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Examining US official's claim that data centres 'don't use water'",
-    "published": "Fri, 04 Sep 2026 20:06:56 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/ced7yj7564zo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-04T20:48:50.002046+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
-    "published": "Fri, 04 Sep 2026 17:23:13 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-04T17:40:32.623691+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-    "published": "Fri, 04 Sep 2026 16:02:32 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "drone",
-      "war",
-      "attack"
-    ],
-    "score": 55,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-04T16:17:10.749913+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say",
-    "published": "Fri, 04 Sep 2026 14:27:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-04T14:51:45.607305+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
-    "published": "Fri, 04 Sep 2026 12:39:05 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "soldiers"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-09-04T12:53:58.776085+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "UK support for Falkland Islands 'unwavering', No 10 says",
-    "published": "Fri, 04 Sep 2026 11:29:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "United Kingdom"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-04T11:32:51.405206+00:00"
   }
 ]
