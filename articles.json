@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Russia arrests Japanese journalist on alleged espionage",
+    "published": "Wed, 14 Oct 2026 04:10:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-14T04:41:50.263928+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
     "published": "Tue, 13 Oct 2026 23:42:22 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
@@ -8488,23 +8504,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-04T06:06:21.069816+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Argentine leader says oil firms working off Falklands face sanctions",
-    "published": "Fri, 04 Sep 2026 02:01:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "United Kingdom"
-    ],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-04T02:50:10.604955+00:00"
   }
 ]
