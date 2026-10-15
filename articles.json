@@ -1,6 +1,80 @@
 [
   {
     "source": "BBC World",
+    "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+    "published": "Thu, 15 Oct 2026 17:18:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "missile",
+      "missiles",
+      "attack"
+    ],
+    "score": 65,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-15T19:03:37.737749+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
+    "published": "Thu, 15 Oct 2026 15:00:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "fighting"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-15T19:03:37.737844+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+    "published": "Thu, 15 Oct 2026 17:31:37 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-15T19:03:37.738145+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
+    "published": "Thu, 15 Oct 2026 15:05:29 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Pakistan"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-15T19:03:37.738173+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
     "published": "Thu, 15 Oct 2026 12:03:51 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
@@ -8423,77 +8497,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-07T11:20:40.241850+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-    "published": "Mon, 07 Sep 2026 10:14:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-07T10:22:25.492760+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-    "published": "Mon, 07 Sep 2026 07:03:44 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "attack",
-      "attacks",
-      "strike",
-      "strikes"
-    ],
-    "score": 75,
-    "priority": "HIGH",
-    "collected_at": "2026-09-07T09:27:31.377875+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "New videos of man in 9/11 lawsuit reveal extremist links",
-    "published": "Mon, 07 Sep 2026 05:31:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "terrorism"
-    ],
-    "locations": [],
-    "keywords": [
-      "extremist"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-07T07:47:33.912061+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Israeli strikes in southern Lebanese village kill 11, state media say",
-    "published": "Mon, 07 Sep 2026 07:25:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel"
-    ],
-    "keywords": [
-      "attack",
-      "attacks",
-      "strike",
-      "strikes"
-    ],
-    "score": 75,
-    "priority": "HIGH",
-    "collected_at": "2026-09-07T07:28:37.310186+00:00"
   }
 ]
