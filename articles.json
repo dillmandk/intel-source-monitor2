@@ -1,6 +1,39 @@
 [
   {
     "source": "BBC World",
+    "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+    "published": "Wed, 14 Oct 2026 20:55:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-15T00:36:32.624861+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "How backlash against data centres could shape the US midterm elections",
+    "published": "Wed, 14 Oct 2026 23:02:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-15T00:36:32.891882+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Student protesters attack government buildings in Tirana",
     "published": "Wed, 14 Oct 2026 20:29:05 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
@@ -8466,39 +8499,5 @@
     "score": 100,
     "priority": "HIGH",
     "collected_at": "2026-09-05T14:39:59.984537+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump signs order to remove endangered species protection for grey wolves",
-    "published": "Sat, 05 Sep 2026 09:12:48 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-05T09:17:39.662950+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
-    "published": "Sat, 05 Sep 2026 04:03:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "military",
-      "fighting"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-09-05T04:18:43.161238+00:00"
   }
 ]
