@@ -1,5 +1,111 @@
 [
   {
+    "source": "BBC World",
+    "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+    "published": "Thu, 15 Oct 2026 12:03:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike",
+      "strikes"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-10-15T14:59:23.014903+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
+    "published": "Thu, 15 Oct 2026 14:52:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-15T14:59:23.014950+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+    "published": "Thu, 15 Oct 2026 12:28:26 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Pakistan"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-15T14:59:23.014982+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Obama says drift towards extremism 'not inevitable'",
+    "published": "Thu, 15 Oct 2026 10:51:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-15T14:59:23.015059+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Brazil's Congress approves shorter working week in win for Lula",
+    "published": "Thu, 15 Oct 2026 10:05:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-15T14:59:23.015087+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
+    "published": "Thu, 15 Oct 2026 05:00:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-15T14:59:23.015276+00:00"
+  },
+  {
     "source": "BBC Europe",
     "title": "Eight crew missing in tanker fire off Romania's coast",
     "published": "Thu, 15 Oct 2026 09:44:28 GMT",
@@ -8389,109 +8495,5 @@
     "score": 75,
     "priority": "HIGH",
     "collected_at": "2026-09-07T07:28:37.310186+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
-    "published": "Mon, 07 Sep 2026 06:32:06 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "terrorism"
-    ],
-    "locations": [],
-    "keywords": [
-      "extremist"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-07T06:49:43.367505+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
-    "published": "Mon, 07 Sep 2026 00:01:32 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-07T00:31:27.508474+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-    "published": "Sun, 06 Sep 2026 20:52:12 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "fighting"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-06T21:03:06.853540+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Germany's far-right AfD celebrate projected win in state election",
-    "published": "Sun, 06 Sep 2026 18:32:53 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-06T19:29:58.156673+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-    "published": "Sun, 06 Sep 2026 16:11:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "tank",
-      "war",
-      "attack",
-      "attacks"
-    ],
-    "score": 70,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-06T16:24:15.418370+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
-    "published": "Sun, 06 Sep 2026 13:16:21 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "invasion"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-09-06T13:34:17.230184+00:00"
   }
 ]
