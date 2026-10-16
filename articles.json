@@ -1,5 +1,38 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "Canada PM warns 'stakes are high' as Alberta separation vote nears",
+    "published": "Fri, 16 Oct 2026 02:27:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9rky2vrr5vzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-16T04:56:04.228918+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "US police identify remains of man found in barrel in shrinking reservoir",
+    "published": "Fri, 16 Oct 2026 01:35:40 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c670pnlgzq7po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-16T04:56:04.228987+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
     "published": "Thu, 15 Oct 2026 23:27:21 GMT",
@@ -8463,41 +8496,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-08T04:35:56.817162+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "North Korea and Russia open first road bridge linking both countries",
-    "published": "Tue, 08 Sep 2026 03:53:27 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine",
-      "North Korea"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-08T04:17:20.728811+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-    "published": "Mon, 07 Sep 2026 23:29:12 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-07T23:58:22.734382+00:00"
   }
 ]
