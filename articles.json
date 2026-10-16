@@ -1,6 +1,41 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump denies limiting Ukraine access to Starlink network",
+    "published": "Fri, 16 Oct 2026 19:33:48 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-16T21:23:20.363966+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "What we learned from heated US midterm Senate debates",
+    "published": "Fri, 16 Oct 2026 19:09:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-16T21:23:20.364439+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
     "published": "Fri, 16 Oct 2026 16:00:30 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
@@ -8466,40 +8501,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-09-08T16:02:24.957901+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
-    "published": "Tue, 08 Sep 2026 15:06:56 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c62m8247yleo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-08T15:28:22.153855+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
-    "published": "Tue, 08 Sep 2026 15:03:11 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-08T15:28:22.154011+00:00"
   }
 ]
