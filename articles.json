@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+    "published": "Fri, 16 Oct 2026 23:07:38 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-16T23:48:21.156801+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump denies limiting Ukraine access to Starlink network",
     "published": "Fri, 16 Oct 2026 19:33:48 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
@@ -8484,22 +8500,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-08T17:21:40.330701+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "German police arrest suspected power grid saboteur after manhunt",
-    "published": "Tue, 08 Sep 2026 15:57:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-08T16:02:24.957901+00:00"
   }
 ]
