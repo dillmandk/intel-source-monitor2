@@ -1,6 +1,73 @@
 [
   {
     "source": "BBC World",
+    "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+    "published": "Thu, 15 Oct 2026 23:27:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-16T00:29:39.395550+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Are student protests being manipulated ahead of France's presidential election?",
+    "published": "Thu, 15 Oct 2026 23:25:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "weapon"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-16T00:29:39.395885+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: Moment drone hits supermarket in Odesa",
+    "published": "Thu, 15 Oct 2026 17:06:12 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmwyq62z0n19o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "strike"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-16T00:29:39.396032+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: What the data centre boom means for Arizona ahead of midterm elections",
+    "published": "Thu, 15 Oct 2026 19:46:07 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cw62yvzv9mm3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-16T00:29:39.396071+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Letters with 'suspicious substances' sent to US senators and election offices",
     "published": "Thu, 15 Oct 2026 21:42:26 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
@@ -8432,72 +8499,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-07T23:58:22.734382+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-    "published": "Mon, 07 Sep 2026 21:12:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-07T21:19:27.851597+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
-    "published": "Mon, 07 Sep 2026 14:50:50 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-07T16:21:02.383660+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Armed Ohio man arrested for attempted attack on Democratic candidate for governor",
-    "published": "Mon, 07 Sep 2026 12:51:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/czezyr81g23o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-07T13:06:54.104035+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Kenya minister warns foreigners against 'misusing' visas to trade",
-    "published": "Mon, 07 Sep 2026 10:45:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-07T11:20:40.241809+00:00"
   }
 ]
