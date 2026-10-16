@@ -1,5 +1,87 @@
 [
   {
+    "source": "BBC World",
+    "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+    "published": "Fri, 16 Oct 2026 03:45:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-16T09:38:08.164389+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+    "published": "Fri, 16 Oct 2026 05:00:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-16T09:38:08.164452+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+    "published": "Fri, 16 Oct 2026 09:34:30 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-16T09:38:08.164488+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+    "published": "Fri, 16 Oct 2026 08:45:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "China",
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-16T09:38:08.164521+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "They fled Russia, but the West sent them back",
+    "published": "Fri, 16 Oct 2026 04:57:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-16T09:38:08.165007+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Canada PM warns 'stakes are high' as Alberta separation vote nears",
     "published": "Fri, 16 Oct 2026 02:27:06 GMT",
@@ -8411,90 +8493,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-08T11:38:39.819442+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "At least two people dead after Russian strikes on Kyiv",
-    "published": "Tue, 08 Sep 2026 10:23:01 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "drone",
-      "strike",
-      "strikes"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-08T10:59:39.595770+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Highest paid world leader to get salary increase of $1 million",
-    "published": "Tue, 08 Sep 2026 09:20:05 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-08T09:45:28.746773+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Nepal cracks down on online abuse against flood survivors",
-    "published": "Tue, 08 Sep 2026 08:31:01 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-08T09:00:23.372338+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-    "published": "Tue, 08 Sep 2026 04:39:14 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "United States"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-08T06:48:50.349829+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "UK government expected to announce restrictions on trade with West Bank settlements",
-    "published": "Tue, 08 Sep 2026 01:50:55 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-08T04:35:56.817162+00:00"
   }
 ]
