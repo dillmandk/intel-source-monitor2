@@ -1,6 +1,45 @@
 [
   {
     "source": "BBC World",
+    "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+    "published": "Fri, 16 Oct 2026 16:00:30 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "offensive"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-10-16T18:12:03.831772+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+    "published": "Fri, 16 Oct 2026 14:31:04 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-16T18:12:03.831824+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
     "published": "Fri, 16 Oct 2026 11:40:41 GMT",
     "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
@@ -8462,40 +8501,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-09-08T15:28:22.154011+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-    "published": "Tue, 08 Sep 2026 13:58:32 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-08T14:48:09.538438+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Hungary expels 10 Russian diplomats as relations worsen",
-    "published": "Tue, 08 Sep 2026 14:38:44 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cddvzd1z53lo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-08T14:48:09.538507+00:00"
   }
 ]
