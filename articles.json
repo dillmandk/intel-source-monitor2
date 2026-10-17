@@ -1,6 +1,26 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+    "published": "Fri, 16 Oct 2026 23:54:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "invasion"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-10-17T01:49:52.733860+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
     "published": "Fri, 16 Oct 2026 23:07:38 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
@@ -8486,19 +8506,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-09-08T17:58:37.733917+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Trump shares misleading video of King and fainting worker",
-    "published": "Tue, 08 Sep 2026 16:31:16 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-08T17:21:40.330701+00:00"
   }
 ]
