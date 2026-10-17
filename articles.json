@@ -1,6 +1,41 @@
 [
   {
     "source": "BBC World",
+    "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+    "published": "Sat, 17 Oct 2026 02:33:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-17T06:25:08.664013+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump waives several Russia sanctions as new US law takes effect",
+    "published": "Sat, 17 Oct 2026 05:02:50 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war",
+      "sanctions"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-17T06:25:08.664060+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
     "published": "Fri, 16 Oct 2026 23:54:35 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
@@ -8468,43 +8503,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-09-08T23:33:00.318276+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-    "published": "Tue, 08 Sep 2026 23:11:41 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "military",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-09-08T23:33:00.318575+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-    "published": "Tue, 08 Sep 2026 17:48:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories",
-      "United Kingdom"
-    ],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-08T17:58:37.733917+00:00"
   }
 ]
