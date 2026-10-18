@@ -1,6 +1,26 @@
 [
   {
     "source": "BBC World",
+    "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+    "published": "Sun, 18 Oct 2026 11:57:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "attack",
+      "strike",
+      "strikes"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-18T14:54:08.623210+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Deaths confirmed in major fire at Canada military base",
     "published": "Sun, 18 Oct 2026 04:00:50 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
@@ -8485,23 +8505,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-09T08:44:54.564979+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Mamdani, Jon Stewart reveal new 9/11 documents",
-    "published": "Tue, 08 Sep 2026 16:46:34 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c93vd7rvre3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war",
-      "attack",
-      "attacks"
-    ],
-    "score": 55,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-09T08:44:54.796477+00:00"
   }
 ]
