@@ -1,6 +1,184 @@
 [
   {
     "source": "BBC World",
+    "title": "Australian MP critically injured after being hit by car in apparent attack",
+    "published": "Mon, 19 Oct 2026 14:09:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T17:27:16.474692+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+    "published": "Mon, 19 Oct 2026 16:22:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T17:27:16.474734+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Exiled critic of Rwandan president found beheaded",
+    "published": "Mon, 19 Oct 2026 13:42:41 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "army"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T17:27:16.474765+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+    "published": "Mon, 19 Oct 2026 16:20:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "missile",
+      "missiles",
+      "strike"
+    ],
+    "score": 70,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-19T17:27:16.474790+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Personal attacks fire up debate before Brazil's run-off vote",
+    "published": "Mon, 19 Oct 2026 11:41:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T17:27:16.474829+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Catalonia's former rebel president can return to Spain, court rules",
+    "published": "Mon, 19 Oct 2026 14:06:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T17:27:16.474882+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+    "published": "Mon, 19 Oct 2026 16:32:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "war",
+      "attack"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T17:27:16.474974+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "CNN anchor Christiane Amanpour to leave network after 43 years",
+    "published": "Mon, 19 Oct 2026 16:48:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c83vqzkrr9zeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine",
+      "Iran",
+      "Afghanistan"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T17:27:16.677587+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+    "published": "Mon, 19 Oct 2026 14:20:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T17:27:17.260740+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Are the French riots a warning of an intense election to come?",
+    "published": "Mon, 19 Oct 2026 13:43:27 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T17:27:17.261098+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
     "published": "Mon, 19 Oct 2026 09:40:44 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
@@ -8335,174 +8513,5 @@
     "score": 75,
     "priority": "HIGH",
     "collected_at": "2026-09-10T16:16:56.156233+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Presidential pardon for controversial Sri Lankan monk overturned",
-    "published": "Thu, 10 Sep 2026 12:13:41 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3revq308j4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-10T14:56:13.801015+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Russian drone incursion delays Zelensky flight",
-    "published": "Thu, 10 Sep 2026 11:15:09 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c86x49e379vo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "drone"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-10T11:37:58.468594+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'Significant casualties' after fire on cargo ship in eastern China",
-    "published": "Thu, 10 Sep 2026 09:45:08 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "China"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-10T09:58:59.054755+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "How a community living under demolition orders from Israel view UK sanctions",
-    "published": "Wed, 09 Sep 2026 22:17:22 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-10T09:45:02.451674+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: Is Trump's $5,000 election pledge legal?",
-    "published": "Thu, 10 Sep 2026 07:12:32 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "United States"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-10T07:45:58.085564+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Four key takeaways from  Republican midterms convention",
-    "published": "Thu, 10 Sep 2026 04:07:44 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-10T07:26:42.667694+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
-    "published": "Thu, 10 Sep 2026 06:56:38 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "United States"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-10T07:04:28.136991+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russia outpacing Ukraine's air defences with daily use of new jet-powered drones",
-    "published": "Thu, 10 Sep 2026 04:43:54 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "drone",
-      "drones"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-10T05:15:58.216330+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Iran war won't end until after US midterm elections, says Trump",
-    "published": "Wed, 09 Sep 2026 23:46:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-10T03:53:00.213510+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Inside Thailand's school shooter drills following recent attacks",
-    "published": "Wed, 09 Sep 2026 22:32:07 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c07lpp4e993o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-10T02:52:00.575639+00:00"
   }
 ]
