@@ -1,6 +1,58 @@
 [
   {
     "source": "BBC World",
+    "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+    "published": "Mon, 19 Oct 2026 20:49:00 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "missile",
+      "war",
+      "attack",
+      "attacks"
+    ],
+    "score": 80,
+    "priority": "HIGH",
+    "collected_at": "2026-10-19T21:42:58.709164+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Italy plans tougher security measures after violent protests",
+    "published": "Mon, 19 Oct 2026 11:23:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T21:42:58.709417+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+    "published": "Mon, 19 Oct 2026 18:21:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T21:42:58.801429+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Australian MP critically injured after being hit by car in apparent attack",
     "published": "Mon, 19 Oct 2026 14:09:54 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
@@ -8461,57 +8513,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-10T17:15:43.098251+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-    "published": "Thu, 10 Sep 2026 16:31:30 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-10T16:51:34.516979+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "A Canadian town's famous warm welcome doesn't extend to US ambassador on 9/11 anniversary",
-    "published": "Thu, 10 Sep 2026 01:39:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm27vpe7z7lo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-10T16:16:56.156163+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Drone display recreates the Twin Towers over New York City",
-    "published": "Thu, 10 Sep 2026 14:19:26 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "drone",
-      "drones",
-      "attack",
-      "attacks"
-    ],
-    "score": 75,
-    "priority": "HIGH",
-    "collected_at": "2026-09-10T16:16:56.156233+00:00"
   }
 ]
