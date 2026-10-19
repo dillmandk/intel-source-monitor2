@@ -1,6 +1,42 @@
 [
   {
     "source": "BBC World",
+    "title": "Major fire at Canada military base leaves four dead, dozens injured",
+    "published": "Sun, 18 Oct 2026 23:06:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T00:30:34.868890+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+    "published": "Mon, 19 Oct 2026 00:06:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T00:30:34.868951+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
     "published": "Sun, 18 Oct 2026 22:10:45 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
@@ -8474,35 +8510,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-09T16:46:01.347910+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-    "published": "Wed, 09 Sep 2026 15:01:58 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-09-09T15:45:51.050880+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Colombia's new president loosens gun control rules",
-    "published": "Wed, 09 Sep 2026 11:01:41 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-09T14:00:30.790747+00:00"
   }
 ]
