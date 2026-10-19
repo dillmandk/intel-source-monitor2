@@ -1,6 +1,36 @@
 [
   {
     "source": "BBC World",
+    "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+    "published": "Mon, 19 Oct 2026 09:40:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T11:00:37.249066+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Watch: 'A dollar on gas won't change our vote' - Iowans sticking with Trump",
+    "published": "Fri, 16 Oct 2026 04:16:31 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c32l4kqg2q4ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T11:00:37.311942+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "France's government under pressure after weekend of widespread violence",
     "published": "Mon, 19 Oct 2026 04:16:46 GMT",
     "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
@@ -8474,40 +8504,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-09-10T02:52:00.575639+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-    "published": "Wed, 09 Sep 2026 21:21:13 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-09T21:50:07.434181+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-    "published": "Wed, 09 Sep 2026 21:23:45 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-09T21:33:23.527508+00:00"
   }
 ]
