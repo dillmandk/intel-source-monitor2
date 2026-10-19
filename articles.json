@@ -1,6 +1,39 @@
 [
   {
     "source": "BBC World",
+    "title": "France's government under pressure after weekend of widespread violence",
+    "published": "Mon, 19 Oct 2026 04:16:46 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T05:19:38.574831+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Australian Greens senator denies claims of misconduct towards women",
+    "published": "Mon, 19 Oct 2026 04:54:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Australia",
+      "NATO"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-19T05:19:38.575038+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Major fire at Canada military base leaves four dead, dozens injured",
     "published": "Sun, 18 Oct 2026 23:06:09 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
@@ -8476,39 +8509,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-09T21:33:23.527508+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Iran referred to UN Security Council for nuclear non-compliance",
-    "published": "Wed, 09 Sep 2026 20:22:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran",
-      "Israel"
-    ],
-    "keywords": [
-      "strike",
-      "strikes"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-09T20:43:21.825423+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Passenger killed after train hits truck at Poland level crossing",
-    "published": "Wed, 09 Sep 2026 16:13:11 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cp30el2dkdlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-09T16:46:01.347910+00:00"
   }
 ]
