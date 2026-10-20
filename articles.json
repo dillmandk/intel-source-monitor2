@@ -1,6 +1,40 @@
 [
   {
     "source": "BBC World",
+    "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+    "published": "Mon, 19 Oct 2026 23:30:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-20T00:45:02.239919+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+    "published": "Mon, 19 Oct 2026 20:00:43 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "military",
+      "drone",
+      "drones"
+    ],
+    "score": 50,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-20T00:45:02.240011+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
     "published": "Mon, 19 Oct 2026 20:49:00 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
@@ -8478,40 +8512,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-09-10T17:50:23.238395+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-    "published": "Thu, 10 Sep 2026 15:54:17 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel"
-    ],
-    "keywords": [
-      "war",
-      "attack"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-10T17:15:42.846992+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Can Trump really pay $5,000 to every American adult?",
-    "published": "Thu, 10 Sep 2026 16:48:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "United States"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-10T17:15:43.098251+00:00"
   }
 ]
