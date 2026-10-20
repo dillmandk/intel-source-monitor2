@@ -1,5 +1,41 @@
 [
   {
+    "source": "BBC World",
+    "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+    "published": "Tue, 20 Oct 2026 11:25:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-20T15:19:35.589879+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say",
+    "published": "Tue, 20 Oct 2026 14:24:19 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "army",
+      "drone",
+      "drones"
+    ],
+    "score": 50,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-20T15:19:35.589921+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Alberta votes overwhelmingly to remain part of Canada, projections suggest",
     "published": "Tue, 20 Oct 2026 09:33:14 GMT",
@@ -8474,36 +8510,5 @@
     "score": 50,
     "priority": "MEDIUM",
     "collected_at": "2026-09-11T08:59:33.450373+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
-    "published": "Fri, 11 Sep 2026 05:53:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-11T08:59:33.450688+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "From JFK to Biden, Trump joins well-trodden path to the Emerald Isle",
-    "published": "Thu, 10 Sep 2026 23:01:55 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c0re72nvy22o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-11T08:21:30.363608+00:00"
   }
 ]
