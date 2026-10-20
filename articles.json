@@ -1,6 +1,48 @@
 [
   {
     "source": "BBC World",
+    "title": "Seventh day of violent clashes between Albanian protesters and police",
+    "published": "Tue, 20 Oct 2026 02:45:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-20T05:26:25.708597+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "How is the US economy really doing under President Trump?",
+    "published": "Tue, 20 Oct 2026 05:00:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-20T05:26:25.708939+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "King Charles sends Aung Sang Suu Kyi books, says Myanmar government",
+    "published": "Tue, 20 Oct 2026 03:45:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6rryj7z0jzro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-20T05:26:26.166970+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
     "published": "Mon, 19 Oct 2026 23:30:03 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
@@ -8465,52 +8507,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-09-11T05:51:17.872978+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: Three times Trump has promised money to Americans",
-    "published": "Thu, 10 Sep 2026 22:53:00 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cgk5nn338peo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "United States"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-11T05:51:18.027134+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "2030 Winter Olympics boss departs amid turmoil",
-    "published": "Thu, 10 Sep 2026 18:50:11 GMT",
-    "link": "https://www.bbc.co.uk/sport/articles/c980dgv6vyqo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-10T20:34:38.270978+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-    "published": "Thu, 10 Sep 2026 17:13:53 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-10T17:50:23.238395+00:00"
   }
 ]
