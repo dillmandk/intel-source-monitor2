@@ -1,6 +1,38 @@
 [
   {
     "source": "BBC World",
+    "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+    "published": "Tue, 20 Oct 2026 23:41:30 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-21T00:57:08.820107+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Is Donald Trump ready to do business with Myanmar?",
+    "published": "Tue, 20 Oct 2026 23:21:39 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-21T00:57:08.820145+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
     "published": "Tue, 20 Oct 2026 20:00:57 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
@@ -8474,42 +8506,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-09-11T17:32:28.650583+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "In 9/11 remarks, Trump links war with Iran",
-    "published": "Fri, 11 Sep 2026 15:19:39 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c5yjkj438eeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "military",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-09-11T17:15:16.696411+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-    "published": "Fri, 11 Sep 2026 16:00:59 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-11T16:35:22.482510+00:00"
   }
 ]
