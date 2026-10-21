@@ -1,6 +1,97 @@
 [
   {
     "source": "BBC World",
+    "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+    "published": "Wed, 21 Oct 2026 17:42:34 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-21T20:09:21.488935+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+    "published": "Wed, 21 Oct 2026 18:10:42 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-21T20:09:21.489011+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+    "published": "Wed, 21 Oct 2026 18:22:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-21T20:09:21.489113+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Ohio governor's race turns ugly as attack ad features candidate's estranged mother",
+    "published": "Wed, 21 Oct 2026 17:48:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-21T20:09:21.706318+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+    "published": "Wed, 21 Oct 2026 19:58:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war",
+      "diplomatic"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-10-21T20:09:21.955899+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Macron accuses foreign leaders of exploiting French riots",
     "published": "Wed, 21 Oct 2026 14:04:28 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
@@ -8409,82 +8500,5 @@
     "score": 45,
     "priority": "MEDIUM",
     "collected_at": "2026-09-12T20:39:20.151386+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-    "published": "Sat, 12 Sep 2026 17:28:53 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-12T18:42:40.353085+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Bulgaria investigates fire at weapons  site that owner calls sabotage",
-    "published": "Sat, 12 Sep 2026 17:38:21 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "weapon",
-      "weapons"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-09-12T17:48:43.405831+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Close race in Sweden as hard right eyes role in government",
-    "published": "Sat, 12 Sep 2026 00:56:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwyz8dn5nn3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-12T11:49:15.272110+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump at residence of Irish president  for Ireland visit",
-    "published": "Sat, 12 Sep 2026 08:43:59 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-12T08:50:27.925530+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Firefighters say this antioxidant helped them - their union warns it could be risky",
-    "published": "Sat, 12 Sep 2026 01:04:49 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crk3n5z60pvo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-12T08:19:29.639005+00:00"
   }
 ]
