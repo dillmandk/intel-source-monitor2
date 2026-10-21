@@ -1,6 +1,38 @@
 [
   {
     "source": "BBC World",
+    "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+    "published": "Wed, 21 Oct 2026 02:37:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-21T05:55:04.298442+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
+    "published": "Wed, 21 Oct 2026 03:58:16 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-21T05:55:04.298529+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Is Ebola under control in Kenya after nine cases confirmed?",
     "published": "Tue, 20 Oct 2026 23:41:30 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
@@ -8470,41 +8502,5 @@
     "score": 40,
     "priority": "MEDIUM",
     "collected_at": "2026-09-11T20:03:05.452608+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-    "published": "Fri, 11 Sep 2026 18:13:54 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "United States"
-    ],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-11T18:58:44.393399+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Gen Zs recall first learning of 'deeply harrowing, terrifying' 9/11",
-    "published": "Fri, 11 Sep 2026 17:21:00 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cgmrzzkjywlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-11T17:32:28.650583+00:00"
   }
 ]
