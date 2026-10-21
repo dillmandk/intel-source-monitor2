@@ -1,6 +1,40 @@
 [
   {
     "source": "BBC World",
+    "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
+    "published": "Wed, 21 Oct 2026 10:52:00 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-21T11:35:33.789484+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Australian MP loses both legs after alleged car attack, husband says",
+    "published": "Wed, 21 Oct 2026 07:56:30 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-21T11:35:33.789552+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
     "published": "Wed, 21 Oct 2026 02:37:13 GMT",
     "link": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
@@ -8463,44 +8497,5 @@
     "score": 45,
     "priority": "MEDIUM",
     "collected_at": "2026-09-12T05:14:59.530532+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-    "published": "Fri, 11 Sep 2026 19:44:58 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "military",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-09-11T20:03:05.198553+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "CIA warned of threat of 'explosive airplane' years before 9/11, documents show",
-    "published": "Fri, 11 Sep 2026 19:53:54 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c17j94ew1lno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political",
-      "terrorism"
-    ],
-    "locations": [],
-    "keywords": [
-      "war",
-      "extremist"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-11T20:03:05.452608+00:00"
   }
 ]
