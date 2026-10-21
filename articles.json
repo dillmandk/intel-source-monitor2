@@ -1,6 +1,36 @@
 [
   {
     "source": "BBC World",
+    "title": "Macron accuses foreign leaders of exploiting French riots",
+    "published": "Wed, 21 Oct 2026 14:04:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-21T16:06:35.929220+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Google experiences resignation backlash over AI military contracts",
+    "published": "Wed, 21 Oct 2026 15:41:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-21T16:06:36.209256+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
     "published": "Wed, 21 Oct 2026 10:52:00 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
@@ -8456,46 +8486,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-12T08:19:29.639005+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-    "published": "Sat, 12 Sep 2026 05:55:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "invasion"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-09-12T06:28:21.608159+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-    "published": "Sat, 12 Sep 2026 04:43:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Iran",
-      "Iraq"
-    ],
-    "keywords": [
-      "military",
-      "drone",
-      "attack"
-    ],
-    "score": 45,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-12T05:14:59.530532+00:00"
   }
 ]
