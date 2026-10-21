@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Japan is known for world-class events - but the Asian Games were chaotic",
+    "published": "Wed, 21 Oct 2026 22:00:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "diplomatic"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-21T23:22:17.787915+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
     "published": "Wed, 21 Oct 2026 17:42:34 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
@@ -8479,26 +8495,5 @@
     "score": 55,
     "priority": "MEDIUM",
     "collected_at": "2026-09-12T22:02:50.482961+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-    "published": "Sat, 12 Sep 2026 20:27:25 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "missile",
-      "strike"
-    ],
-    "score": 45,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-12T20:39:20.151386+00:00"
   }
 ]
