@@ -1,6 +1,72 @@
 [
   {
     "source": "BBC World",
+    "title": "El Salvador's president threatens Haitian gangs over military hostages",
+    "published": "Thu, 22 Oct 2026 10:17:48 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political",
+      "terrorism"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "hostage"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-22T12:29:53.067521+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Two European women held captive for more than a year in Niger freed in Libya",
+    "published": "Thu, 22 Oct 2026 11:13:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-22T12:29:53.067574+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+    "published": "Thu, 22 Oct 2026 09:14:48 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-22T12:29:53.067623+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "How do Israel's elections work and who are the main contenders?",
+    "published": "Thu, 22 Oct 2026 09:27:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-22T12:29:53.067696+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "How Arab parties could hold critical balance of power in Israeli election",
     "published": "Thu, 22 Oct 2026 05:30:22 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
@@ -8427,69 +8493,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-14T02:21:47.253227+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Left-wing bloc leads Swedish vote after far-right lose support, exit polls say",
-    "published": "Sun, 13 Sep 2026 19:48:42 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-13T19:58:17.691608+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
-    "published": "Sun, 13 Sep 2026 16:29:27 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-13T16:35:40.452212+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
-    "published": "Sun, 13 Sep 2026 16:05:41 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-13T16:19:12.779656+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump doubles down on united Ireland comments on day two of visit",
-    "published": "Sun, 13 Sep 2026 14:00:09 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-13T15:41:35.578289+00:00"
   }
 ]
