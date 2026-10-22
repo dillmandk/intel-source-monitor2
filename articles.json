@@ -1,6 +1,29 @@
 [
   {
     "source": "BBC World",
+    "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+    "published": "Thu, 22 Oct 2026 17:49:13 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "missile",
+      "missiles",
+      "strike",
+      "strikes"
+    ],
+    "score": 90,
+    "priority": "HIGH",
+    "collected_at": "2026-10-22T20:48:48.871623+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
     "published": "Thu, 22 Oct 2026 15:56:36 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
@@ -8456,24 +8479,5 @@
     "score": 45,
     "priority": "MEDIUM",
     "collected_at": "2026-09-15T03:37:43.708809+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-    "published": "Mon, 14 Sep 2026 18:26:20 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "army"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-09-15T03:37:43.708878+00:00"
   }
 ]
