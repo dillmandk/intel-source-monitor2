@@ -1,6 +1,74 @@
 [
   {
     "source": "BBC World",
+    "title": "How Arab parties could hold critical balance of power in Israeli election",
+    "published": "Thu, 22 Oct 2026 05:30:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-22T06:39:48.448838+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+    "published": "Thu, 22 Oct 2026 01:07:34 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war",
+      "attack",
+      "attacks",
+      "strike",
+      "strikes"
+    ],
+    "score": 95,
+    "priority": "HIGH",
+    "collected_at": "2026-10-22T06:39:48.448944+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "US embassy accuses Canada of election meddling ahead of midterms",
+    "published": "Thu, 22 Oct 2026 03:05:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-22T06:39:48.449020+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
+    "published": "Wed, 21 Oct 2026 20:31:47 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "South Korea"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-22T06:39:48.449441+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Japan is known for world-class events - but the Asian Games were chaotic",
     "published": "Wed, 21 Oct 2026 22:00:58 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss",
@@ -8423,77 +8491,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-13T15:41:35.578289+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-    "published": "Sun, 13 Sep 2026 14:25:56 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Turkey"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-13T14:33:23.471873+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Iran war reshapes Brics ties but also exposes divisions",
-    "published": "Sun, 13 Sep 2026 11:23:42 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-13T11:49:06.507116+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-    "published": "Sat, 12 Sep 2026 23:51:05 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "offensive"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-09-13T07:58:47.867273+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Afghan woman deported from US in first use of secretive 'alien terrorist' court",
-    "published": "Sat, 12 Sep 2026 21:19:11 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "terrorism"
-    ],
-    "locations": [
-      "Afghanistan"
-    ],
-    "keywords": [
-      "terrorist",
-      "terrorism"
-    ],
-    "score": 55,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-12T22:02:50.482961+00:00"
   }
 ]
