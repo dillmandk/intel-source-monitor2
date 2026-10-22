@@ -1,6 +1,62 @@
 [
   {
     "source": "BBC World",
+    "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+    "published": "Thu, 22 Oct 2026 23:16:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war",
+      "attack",
+      "attacks"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-22T23:45:09.721971+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+    "published": "Thu, 22 Oct 2026 21:42:39 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-22T23:45:09.722019+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+    "published": "Thu, 22 Oct 2026 23:16:20 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war",
+      "invasion"
+    ],
+    "score": 50,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-22T23:45:09.722588+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
     "published": "Thu, 22 Oct 2026 17:49:13 GMT",
     "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
@@ -8426,58 +8482,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-15T05:16:45.893731+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-    "published": "Tue, 15 Sep 2026 03:16:08 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-15T03:37:43.708741+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Nato jets down drone that entered Lithuanian airspace",
-    "published": "Tue, 15 Sep 2026 02:22:07 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Russia",
-      "NATO"
-    ],
-    "keywords": [
-      "drone"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-15T03:37:43.708787+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US confirms for first time it has deployed space weapons",
-    "published": "Tue, 15 Sep 2026 01:52:02 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "air force",
-      "weapon",
-      "weapons"
-    ],
-    "score": 45,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-15T03:37:43.708809+00:00"
   }
 ]
