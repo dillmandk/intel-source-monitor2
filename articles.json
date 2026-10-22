@@ -1,6 +1,130 @@
 [
   {
     "source": "BBC World",
+    "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+    "published": "Thu, 22 Oct 2026 15:56:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "fighting"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-22T17:35:05.257050+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Crowd of 50 beats foreigner to death in South Africa",
+    "published": "Thu, 22 Oct 2026 16:15:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-22T17:35:05.257123+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
+    "published": "Thu, 22 Oct 2026 17:01:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-22T17:35:05.257173+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
+    "published": "Thu, 22 Oct 2026 14:09:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-22T17:35:05.257196+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+    "published": "Thu, 22 Oct 2026 16:40:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-22T17:35:05.257223+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
+    "published": "Thu, 22 Oct 2026 16:16:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-22T17:35:05.257247+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "French weekend protests to be limited to union demos only, says Macron",
+    "published": "Thu, 22 Oct 2026 15:22:48 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-22T17:35:05.257291+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+    "published": "Thu, 22 Oct 2026 14:33:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-22T17:35:05.257601+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "El Salvador's president threatens Haitian gangs over military hostages",
     "published": "Thu, 22 Oct 2026 10:17:48 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
@@ -8351,147 +8475,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-09-15T03:37:43.708878+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "China tightens travel restrictions for citizens",
-    "published": "Tue, 15 Sep 2026 02:38:23 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "China"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-15T02:54:59.593998+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
-    "published": "Mon, 14 Sep 2026 11:35:08 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-14T11:54:45.998977+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Carney eyes 'unique alliance' with EU as trade war with US intensifies",
-    "published": "Mon, 14 Sep 2026 04:02:26 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj4jq50eew0o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-14T07:37:23.768426+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Carney gambles on the world's biggest investors betting on Canada",
-    "published": "Sun, 13 Sep 2026 23:03:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-14T07:37:23.768457+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
-    "published": "Sun, 13 Sep 2026 23:21:00 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c80n3xl378ro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-14T07:37:23.768482+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
-    "published": "Mon, 14 Sep 2026 01:12:20 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "drone",
-      "strike"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-14T05:43:47.667156+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
-    "published": "Sun, 13 Sep 2026 23:16:33 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine",
-      "North Korea"
-    ],
-    "keywords": [
-      "soldiers",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-09-14T02:21:47.253150+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
-    "published": "Sun, 13 Sep 2026 22:07:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "India"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-14T02:21:47.253227+00:00"
   }
 ]
