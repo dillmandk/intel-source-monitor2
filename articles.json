@@ -1,6 +1,54 @@
 [
   {
     "source": "BBC World",
+    "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+    "published": "Fri, 23 Oct 2026 16:33:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-23T17:37:22.183140+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Oil spill washes up on UAE beaches after tanker strike",
+    "published": "Fri, 23 Oct 2026 15:30:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "tank",
+      "strike"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-23T17:37:22.183217+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump administration sues to block certification of upcoming Alaska election",
+    "published": "Fri, 23 Oct 2026 16:41:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-23T17:37:22.567954+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Anti-terror police investigate as one person killed in shooting near Paris",
     "published": "Fri, 23 Oct 2026 12:47:01 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
@@ -8421,59 +8469,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-15T17:14:51.531216+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-    "published": "Tue, 15 Sep 2026 15:31:34 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-15T16:20:23.443527+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "What weapon could the US have put into space?",
-    "published": "Tue, 15 Sep 2026 14:23:14 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "weapon",
-      "war"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-15T14:44:55.478760+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Canada is a 'safe harbour' for global finance, Carney says",
-    "published": "Tue, 15 Sep 2026 13:43:01 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-15T13:46:35.044564+00:00"
   }
 ]
