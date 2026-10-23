@@ -1,5 +1,119 @@
 [
   {
+    "source": "BBC World",
+    "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+    "published": "Fri, 23 Oct 2026 12:47:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "terrorism"
+    ],
+    "locations": [],
+    "keywords": [
+      "terrorism"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-10-23T12:49:45.526644+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+    "published": "Fri, 23 Oct 2026 12:48:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "soldiers",
+      "attack"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-10-23T12:49:45.526717+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Denmark to ban mink farming in government U-turn",
+    "published": "Fri, 23 Oct 2026 12:17:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-23T12:49:45.526761+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Malawi opposition demands answers over president's prolonged stay abroad",
+    "published": "Fri, 23 Oct 2026 10:36:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-23T12:49:45.526870+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+    "published": "Fri, 23 Oct 2026 11:30:32 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-23T12:49:45.526958+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+    "published": "Fri, 23 Oct 2026 09:23:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-23T12:49:45.527053+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Rubio turns to small Indian town as US faces high oil prices",
+    "published": "Fri, 23 Oct 2026 08:39:42 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [
+      "diplomacy"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-23T12:49:45.527085+00:00"
+  },
+  {
     "source": "BBC Asia",
     "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
     "published": "Thu, 22 Oct 2026 23:55:39 GMT",
@@ -8361,128 +8475,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-15T13:46:35.044564+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-    "published": "Tue, 15 Sep 2026 13:05:36 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "missile",
-      "drone",
-      "tank",
-      "attack"
-    ],
-    "score": 75,
-    "priority": "HIGH",
-    "collected_at": "2026-09-15T13:26:28.324217+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Home Alone and Schitt's Creek stars pay tribute to late Catherine O'Hara",
-    "published": "Tue, 15 Sep 2026 12:00:35 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqkgvkn6yyxyo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-15T13:03:40.498101+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Denmark says Russian warship fired flares at military helicopter",
-    "published": "Tue, 15 Sep 2026 10:12:49 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "military",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-09-15T10:28:05.087917+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "In pictures: Stars on red carpet at Emmy Awards in LA",
-    "published": "Tue, 15 Sep 2026 02:56:19 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c98r632g6p76o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-15T08:28:59.598154+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Mass nesting brings swarms of turtles to Mexican beach",
-    "published": "Tue, 15 Sep 2026 01:08:55 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-15T07:49:17.722459+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "‘Great’ or ‘alarming’ - Should AI be reined in?",
-    "published": "Mon, 14 Sep 2026 21:58:41 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-15T07:29:19.496503+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Superstars and broken records: 2026 Emmy highlights",
-    "published": "Tue, 15 Sep 2026 05:14:24 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-15T05:54:35.671097+00:00"
   }
 ]
