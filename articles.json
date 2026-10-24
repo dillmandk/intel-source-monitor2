@@ -1,6 +1,26 @@
 [
   {
     "source": "BBC World",
+    "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+    "published": "Sat, 24 Oct 2026 17:21:42 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "soldiers"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-24T18:42:41.100277+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Three released without charge after fatal arson attack in Ireland",
     "published": "Sat, 24 Oct 2026 09:38:28 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
@@ -8452,21 +8472,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-16T09:51:29.506481+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-    "published": "Wed, 16 Sep 2026 08:36:17 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "drone"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-16T09:51:29.506574+00:00"
   }
 ]
