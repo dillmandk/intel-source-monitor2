@@ -1,6 +1,42 @@
 [
   {
     "source": "BBC World",
+    "title": "Three released without charge after fatal arson attack in Ireland",
+    "published": "Sat, 24 Oct 2026 09:38:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-24T15:54:33.311783+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
+    "published": "Sat, 24 Oct 2026 07:36:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war",
+      "diplomatic"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-10-24T15:54:33.451301+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Ukraine says Starlink connection 'now stable' after network limits",
     "published": "Sat, 24 Oct 2026 11:17:35 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
@@ -8432,40 +8468,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-16T09:51:29.506574+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Why Trump is all-in on AI despite the warnings",
-    "published": "Wed, 16 Sep 2026 08:41:44 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "United States"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-16T09:51:29.567049+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Turkey arrests dozens in crackdown on LGBTQ+ activists",
-    "published": "Tue, 15 Sep 2026 22:26:05 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwg7ky12g14jo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Turkey"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-16T09:51:29.616013+00:00"
   }
 ]
