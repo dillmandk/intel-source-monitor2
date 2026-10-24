@@ -1,6 +1,40 @@
 [
   {
     "source": "BBC World",
+    "title": "Who are the candidates in Brazil's presidential election?",
+    "published": "Sat, 24 Oct 2026 22:08:47 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-24T23:24:14.126345+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+    "published": "Sat, 24 Oct 2026 21:58:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-24T23:24:14.200090+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
     "published": "Sat, 24 Oct 2026 17:21:42 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
@@ -8440,37 +8474,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-16T14:46:14.120935+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "EU chief opens door for Canada to become 'associate member'",
-    "published": "Wed, 16 Sep 2026 09:34:50 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-16T09:51:29.506407+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "At least 20 killed after war-damaged Gaza building collapses",
-    "published": "Wed, 16 Sep 2026 09:45:19 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-16T09:51:29.506481+00:00"
   }
 ]
