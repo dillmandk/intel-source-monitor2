@@ -1,6 +1,25 @@
 [
   {
     "source": "BBC World",
+    "title": "Ukraine says Starlink connection 'now stable' after network limits",
+    "published": "Sat, 24 Oct 2026 11:17:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "military",
+      "drone"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-10-24T12:05:23.312118+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
     "published": "Fri, 23 Oct 2026 23:08:23 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
@@ -8448,19 +8467,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-16T09:51:29.616013+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Maduro ally pleads guilty in $195m money laundering case in US court",
-    "published": "Tue, 15 Sep 2026 23:33:19 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx5yl2980pzmo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-16T00:17:13.753101+00:00"
   }
 ]
