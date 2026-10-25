@@ -1,6 +1,43 @@
 [
   {
     "source": "BBC World",
+    "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+    "published": "Sun, 25 Oct 2026 09:00:00 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-25T12:08:05.246855+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+    "published": "Sun, 25 Oct 2026 10:55:33 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political",
+      "terrorism"
+    ],
+    "locations": [],
+    "keywords": [
+      "soldiers",
+      "hostage"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-25T12:08:05.246938+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Israel to close West Bank crossings on election day as crackdown escalates",
     "published": "Sun, 25 Oct 2026 05:15:52 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
@@ -8443,33 +8480,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-17T04:36:14.727438+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US interest rates raised for first time in three years",
-    "published": "Wed, 16 Sep 2026 22:16:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-16T23:52:58.443438+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump chief of staff Susie Wiles announces she's cancer-free",
-    "published": "Wed, 16 Sep 2026 19:12:48 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-16T21:40:01.154631+00:00"
   }
 ]
