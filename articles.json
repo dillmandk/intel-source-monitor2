@@ -1,6 +1,41 @@
 [
   {
     "source": "BBC World",
+    "title": "Deeply divided Israel braces for pivotal election",
+    "published": "Sun, 25 Oct 2026 22:11:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-25T23:40:46.546788+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Why Israel's election is one of the most important in its history",
+    "published": "Sun, 25 Oct 2026 22:05:30 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-25T23:40:46.547495+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
     "published": "Sun, 25 Oct 2026 21:25:04 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
@@ -8440,37 +8475,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-17T09:39:47.675168+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Why Trump's hand-picked Fed chair defied him by raising interest rates",
-    "published": "Thu, 17 Sep 2026 00:38:50 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-17T09:39:47.746239+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "US blocks Palestinian leader from UN meeting in New York for second year in row",
-    "published": "Thu, 17 Sep 2026 09:06:08 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq783jlrr282o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-17T09:39:47.746287+00:00"
   }
 ]
