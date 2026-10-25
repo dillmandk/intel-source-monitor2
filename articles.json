@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC World",
+    "title": "Venezuelan opposition leader María Machado returns after months in exile",
+    "published": "Sun, 25 Oct 2026 18:29:00 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-25T19:09:43.004390+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Early reports suggest record high turnout in Serbia elections",
     "published": "Sun, 25 Oct 2026 16:05:15 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
@@ -8462,21 +8476,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-17T09:39:48.143282+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Snapchat open to putting time limits on teens, boss tells BBC",
-    "published": "Wed, 16 Sep 2026 23:41:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-17T04:36:14.585154+00:00"
   }
 ]
