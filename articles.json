@@ -1,6 +1,92 @@
 [
   {
     "source": "BBC World",
+    "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+    "published": "Sun, 25 Oct 2026 05:15:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-25T06:46:49.370152+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+    "published": "Sat, 24 Oct 2026 23:50:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-25T06:46:49.370197+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Gunmen kill at least 10 villagers and loot shops in northeast Nigeria",
+    "published": "Sun, 25 Oct 2026 03:20:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-25T06:46:49.370248+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "The bitter row over military service that could shape Israel's future",
+    "published": "Sat, 24 Oct 2026 23:03:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [
+      "military",
+      "army"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-25T06:46:49.370714+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+    "published": "Sat, 24 Oct 2026 23:02:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-25T06:46:49.370764+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Who are the candidates in Brazil's presidential election?",
     "published": "Sat, 24 Oct 2026 22:08:47 GMT",
     "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
@@ -8385,94 +8471,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-16T21:40:01.154631+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
-    "published": "Wed, 16 Sep 2026 21:24:24 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "military",
-      "strike",
-      "strikes"
-    ],
-    "score": 50,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-16T21:40:01.154889+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Photos show widespread damage at US sites from Iranian attacks",
-    "published": "Wed, 16 Sep 2026 16:33:56 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "air force",
-      "attack",
-      "attacks"
-    ],
-    "score": 50,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-16T18:29:28.903982+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Eight German state premiers back Merz amid speculation over future",
-    "published": "Wed, 16 Sep 2026 14:50:26 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-16T18:29:28.904061+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
-    "published": "Wed, 16 Sep 2026 11:50:09 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-16T14:46:13.653330+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Kosovo's former president sentenced to 25 years for war crimes",
-    "published": "Wed, 16 Sep 2026 11:42:50 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmd79z0pdzgjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-16T14:46:14.120935+00:00"
   }
 ]
