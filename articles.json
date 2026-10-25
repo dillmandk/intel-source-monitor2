@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC World",
+    "title": "Early reports suggest record high turnout in Serbia elections",
+    "published": "Sun, 25 Oct 2026 16:05:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-25T16:19:56.095280+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
     "published": "Sun, 25 Oct 2026 09:00:00 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
@@ -8464,21 +8478,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-17T04:36:14.585154+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "More than 1,000 children killed in Bangladesh measles outbreak",
-    "published": "Thu, 17 Sep 2026 03:55:08 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6kgw1983ky9o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-17T04:36:14.727438+00:00"
   }
 ]
