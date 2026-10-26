@@ -1,6 +1,69 @@
 [
   {
     "source": "BBC World",
+    "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+    "published": "Mon, 26 Oct 2026 17:00:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "troops"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-26T20:05:07.082231+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Israel and the US are both going to the polls - the consequences will be global",
+    "published": "Mon, 26 Oct 2026 16:30:34 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-26T20:05:07.082497+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+    "published": "Mon, 26 Oct 2026 15:37:33 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "army"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-26T20:05:07.082526+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Alaska's Democratic Senate candidate pauses midterms campaigning after car crash",
+    "published": "Mon, 26 Oct 2026 13:53:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cky93gep3gyeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-26T20:05:07.182595+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Lula wins fourth term in dramatic Brazil election comeback",
     "published": "Mon, 26 Oct 2026 13:54:21 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
@@ -8403,74 +8466,5 @@
     "score": 25,
     "priority": "LOW",
     "collected_at": "2026-09-18T16:15:01.866202+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-    "published": "Fri, 18 Sep 2026 01:31:43 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-18T11:54:04.016497+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Swimmer killed in shark attack off Australian west coast",
-    "published": "Fri, 18 Sep 2026 07:30:31 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmvgyjl8055qo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-18T11:54:04.653345+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Judge orders Trump to give 30 days' notice before any 'demolition' at Kennedy Center",
-    "published": "Fri, 18 Sep 2026 00:40:07 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cklyexdlepv1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "air force"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-18T01:37:40.273693+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-    "published": "Thu, 17 Sep 2026 21:41:19 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-17T21:42:29.425956+00:00"
   }
 ]
