@@ -1,6 +1,39 @@
 [
   {
     "source": "BBC World",
+    "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+    "published": "Sun, 25 Oct 2026 14:34:33 GMT",
+    "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "invasion"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-10-26T07:16:28.864961+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+    "published": "Mon, 26 Oct 2026 02:53:00 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-26T07:16:28.865402+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Deeply divided Israel braces for pivotal election",
     "published": "Sun, 25 Oct 2026 22:11:13 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
@@ -8443,37 +8476,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-17T09:39:47.675008+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-    "published": "Thu, 17 Sep 2026 05:00:36 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-17T09:39:47.675103+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
-    "published": "Thu, 17 Sep 2026 05:05:09 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm986j81ky55o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-17T09:39:47.675168+00:00"
   }
 ]
