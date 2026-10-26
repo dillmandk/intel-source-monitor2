@@ -1,6 +1,112 @@
 [
   {
     "source": "BBC World",
+    "title": "Lula wins fourth term in dramatic Brazil election comeback",
+    "published": "Mon, 26 Oct 2026 13:54:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-26T14:25:16.098738+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing",
+    "published": "Mon, 26 Oct 2026 14:15:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-26T14:25:16.098831+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+    "published": "Mon, 26 Oct 2026 14:16:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-26T14:25:16.098861+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+    "published": "Mon, 26 Oct 2026 12:57:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-26T14:25:16.098931+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+    "published": "Mon, 26 Oct 2026 11:39:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-26T14:25:16.099165+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
+    "published": "Mon, 26 Oct 2026 06:19:12 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-26T14:25:16.099211+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Joy and disbelief on Serbian streets as Vučić concedes election defeat",
+    "published": "Sun, 25 Oct 2026 22:59:00 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c8x23x1yn6w6o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-26T14:25:16.566907+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russia to host first Olympic federation world event since Ukraine invasion",
     "published": "Sun, 25 Oct 2026 14:34:33 GMT",
     "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
@@ -8366,115 +8472,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-17T21:42:29.425956+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Canada welcomes EU proposal to become 'associate member'",
-    "published": "Thu, 17 Sep 2026 12:27:18 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-17T18:30:07.183192+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-    "published": "Thu, 17 Sep 2026 15:07:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war",
-      "strike",
-      "strikes"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-17T18:30:07.183262+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
-    "published": "Thu, 17 Sep 2026 16:59:43 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-17T18:30:07.183787+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Princess Anne opens history centre at German war cemetery in UK",
-    "published": "Thu, 17 Sep 2026 17:12:21 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2zd47njdgo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-17T18:30:07.498019+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Swedish PM Kristersson resigns after election loss",
-    "published": "Thu, 17 Sep 2026 12:41:05 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-17T14:28:01.269458+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Klopp wants to 'reclaim' flag amid German elections",
-    "published": "Thu, 17 Sep 2026 13:02:40 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-17T14:28:01.269529+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-    "published": "Thu, 17 Sep 2026 08:22:12 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-17T09:39:47.675008+00:00"
   }
 ]
