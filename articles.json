@@ -1,6 +1,50 @@
 [
   {
     "source": "BBC World",
+    "title": "West warns of famine risk in Sudan as civil war grinds on",
+    "published": "Tue, 27 Oct 2026 15:41:46 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-27T20:33:58.158377+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Donald Trump's biggest economic problem looks strangely familiar",
+    "published": "Tue, 27 Oct 2026 06:01:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-27T20:33:58.158581+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump vs Obama - which president has the star power to get out the vote?",
+    "published": "Tue, 27 Oct 2026 13:59:22 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-27T20:33:58.370024+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Norway and Finland leaders hold rare call with Putin",
     "published": "Tue, 27 Oct 2026 14:23:05 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
@@ -8411,59 +8455,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-09-19T06:39:05.600796+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-    "published": "Sat, 19 Sep 2026 04:20:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-19T06:39:05.600900+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-    "published": "Fri, 18 Sep 2026 23:03:38 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "missile",
-      "war",
-      "attack",
-      "attacks"
-    ],
-    "score": 80,
-    "priority": "HIGH",
-    "collected_at": "2026-09-19T01:37:07.560529+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
-    "published": "Sat, 19 Sep 2026 00:03:53 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-19T01:37:07.560663+00:00"
   }
 ]
