@@ -1,6 +1,76 @@
 [
   {
     "source": "BBC World",
+    "title": "Norway and Finland leaders hold rare call with Putin",
+    "published": "Tue, 27 Oct 2026 14:23:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-27T15:52:10.809140+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+    "published": "Tue, 27 Oct 2026 14:29:39 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "terrorism"
+    ],
+    "locations": [],
+    "keywords": [
+      "terrorism"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-10-27T15:52:10.809187+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
+    "published": "Tue, 27 Oct 2026 12:25:14 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war",
+      "attack",
+      "attacks"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-27T15:52:10.809333+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "What does Israel's election mean for Gaza and the wider world?",
+    "published": "Tue, 27 Oct 2026 10:17:36 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "diplomatic"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-27T15:52:10.809383+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Israel heads to polls for pivotal election defined by security and democracy",
     "published": "Tue, 27 Oct 2026 05:45:08 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
@@ -8395,67 +8465,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-19T01:37:07.560663+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump says he is banning CNN and Politico from White House",
-    "published": "Fri, 18 Sep 2026 21:34:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-18T21:39:57.528288+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-    "published": "Fri, 18 Sep 2026 17:57:30 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-18T21:39:57.528469+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
-    "published": "Fri, 18 Sep 2026 20:35:03 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-18T21:39:57.760068+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-    "published": "Fri, 18 Sep 2026 17:15:02 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-18T19:04:39.575539+00:00"
   }
 ]
