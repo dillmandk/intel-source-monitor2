@@ -1,6 +1,39 @@
 [
   {
     "source": "BBC World",
+    "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+    "published": "Tue, 27 Oct 2026 02:40:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Syria"
+    ],
+    "keywords": [
+      "attack",
+      "strike"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-10-27T04:42:15.140618+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "New Zealand election 2026: What you need to know",
+    "published": "Tue, 27 Oct 2026 03:15:34 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr1exvxz8g47o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-27T04:42:15.552263+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
     "published": "Mon, 26 Oct 2026 17:00:09 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
@@ -8431,40 +8464,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-09-18T16:15:01.816647+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Why an American football game played the Canadian national anthem",
-    "published": "Fri, 18 Sep 2026 15:14:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj5ydk2y0gg2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "United States"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-18T16:15:01.866149+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: Sixth batch of UFO files includes orbs from 1952",
-    "published": "Fri, 18 Sep 2026 14:52:29 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cm4glen7dpx9o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "navy",
-      "air force"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-09-18T16:15:01.866202+00:00"
   }
 ]
