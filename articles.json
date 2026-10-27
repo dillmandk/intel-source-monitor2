@@ -1,6 +1,38 @@
 [
   {
     "source": "BBC World",
+    "title": "Israel heads to polls for pivotal election defined by security and democracy",
+    "published": "Tue, 27 Oct 2026 05:45:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-27T10:05:08.506347+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Why it could take time for a new Israeli government to form",
+    "published": "Tue, 27 Oct 2026 08:37:30 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-27T10:05:08.506575+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
     "published": "Tue, 27 Oct 2026 02:40:17 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
@@ -8425,44 +8457,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-18T19:04:39.575539+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-    "published": "Fri, 18 Sep 2026 15:14:35 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-18T16:15:01.816539+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "At least 17 killed after vehicle loaded with explosives rams Pakistan mosque",
-    "published": "Fri, 18 Sep 2026 15:08:12 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Pakistan"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-18T16:15:01.816647+00:00"
   }
 ]
