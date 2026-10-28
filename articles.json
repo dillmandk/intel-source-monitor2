@@ -1,6 +1,100 @@
 [
   {
     "source": "BBC World",
+    "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+    "published": "Wed, 28 Oct 2026 16:59:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T17:25:12.750112+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "How could Israel break election deadlock? Here are four scenarios",
+    "published": "Wed, 28 Oct 2026 14:30:31 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T17:25:12.750165+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+    "published": "Wed, 28 Oct 2026 10:17:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T17:25:12.750213+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Israel's election result is messy - here's why",
+    "published": "Wed, 28 Oct 2026 14:26:24 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T17:25:12.750403+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Watch: Moment Flávio Bolsonaro arrives in Florida",
+    "published": "Wed, 28 Oct 2026 14:58:38 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/ck79pj82jp4qo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T17:25:12.795629+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
+    "published": "Wed, 28 Oct 2026 16:30:29 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T17:25:12.795857+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
     "published": "Wed, 28 Oct 2026 10:35:13 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
@@ -8340,102 +8434,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-21T07:16:07.274650+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Workers came across human remains – and unearthed a mass grave of 572 people",
-    "published": "Sun, 20 Sep 2026 22:28:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm1j4kl80z56o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-21T07:16:07.867854+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-    "published": "Mon, 21 Sep 2026 00:34:53 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-21T01:40:31.934558+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-    "published": "Sun, 20 Sep 2026 18:32:55 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-20T19:00:25.733750+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
-    "published": "Sun, 20 Sep 2026 13:50:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-09-20T16:25:43.750461+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "German elections under way which could decide fate of Chancellor Merz",
-    "published": "Sun, 20 Sep 2026 07:57:32 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-20T12:21:18.068450+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
-    "published": "Sun, 20 Sep 2026 06:37:46 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "drone",
-      "attack"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-20T07:06:33.972934+00:00"
   }
 ]
