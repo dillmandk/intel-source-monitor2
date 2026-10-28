@@ -1,5 +1,35 @@
 [
   {
+    "source": "BBC World",
+    "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
+    "published": "Wed, 28 Oct 2026 10:35:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T11:38:55.722298+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Barcelona fined £503 over approach for Alvarez",
+    "published": "Tue, 27 Oct 2026 21:38:20 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "strike"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T11:38:55.860889+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports",
     "published": "Wed, 28 Oct 2026 02:47:45 GMT",
@@ -8407,38 +8437,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-09-20T07:06:33.972934+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Cultural treasures are being destroyed by war, and people want justice",
-    "published": "Sat, 19 Sep 2026 23:18:18 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war",
-      "fighting"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-20T01:42:11.515610+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Not all AI workers think the tech could kill everyone",
-    "published": "Sat, 19 Sep 2026 23:01:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-19T23:39:22.478135+00:00"
   }
 ]
