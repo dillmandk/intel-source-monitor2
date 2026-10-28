@@ -1,6 +1,64 @@
 [
   {
     "source": "BBC World",
+    "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+    "published": "Tue, 27 Oct 2026 21:09:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T00:00:49.493549+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: 'No clear winner' in Israel election - what happens now?",
+    "published": "Tue, 27 Oct 2026 23:27:13 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T00:00:49.493762+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+    "published": "Tue, 27 Oct 2026 21:46:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T00:00:49.630809+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "'You're lying' - US and Cuban officials get into shouting match at UN",
+    "published": "Tue, 27 Oct 2026 20:52:30 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/ck5yn5rlz978o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T00:00:49.630881+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "West warns of famine risk in Sudan as civil war grinds on",
     "published": "Tue, 27 Oct 2026 15:41:46 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
@@ -8384,76 +8442,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-19T23:39:22.478169+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-    "published": "Sat, 19 Sep 2026 21:01:56 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-19T21:45:14.416246+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-    "published": "Sat, 19 Sep 2026 19:09:49 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-19T19:34:12.509844+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Deadly shark attack prompts rare kill order in Western Australia",
-    "published": "Sat, 19 Sep 2026 09:19:12 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-19T11:35:28.079983+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump signs sweeping Russia sanctions bill",
-    "published": "Fri, 18 Sep 2026 22:05:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine",
-      "NATO"
-    ],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-19T06:39:05.600796+00:00"
   }
 ]
