@@ -1,6 +1,64 @@
 [
   {
     "source": "BBC World",
+    "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+    "published": "Wed, 28 Oct 2026 21:07:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T21:52:13.734691+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "How did Flávio Bolsonaro end up in Miami?",
+    "published": "Wed, 28 Oct 2026 18:51:05 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T21:52:13.735046+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Israel's election deadlock is a sign of the country's deep divisions",
+    "published": "Wed, 28 Oct 2026 20:53:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T21:52:13.735086+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "US central bank holds interest rates steady ahead of midterm elections – here's what that means",
+    "published": "Wed, 28 Oct 2026 19:42:42 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-28T21:52:13.790437+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
     "published": "Wed, 28 Oct 2026 16:59:47 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
@@ -8369,70 +8427,5 @@
     "score": 75,
     "priority": "HIGH",
     "collected_at": "2026-09-21T14:21:02.646074+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-    "published": "Mon, 21 Sep 2026 04:00:38 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-21T14:21:02.646167+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-    "published": "Mon, 21 Sep 2026 10:00:31 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "fighting"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-21T14:21:02.646443+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "War may be coming. Are we psychologically ready?",
-    "published": "Sat, 19 Sep 2026 08:34:00 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "military",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-09-21T14:21:02.782831+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'No surprises' as results emerge in Russian parliamentary election",
-    "published": "Mon, 21 Sep 2026 06:58:30 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cjp30pq0rx6ro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-21T07:16:07.274650+00:00"
   }
 ]
