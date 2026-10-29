@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Girl seriously injured in wolf attack at German wildlife park",
+    "published": "Wed, 28 Oct 2026 22:08:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-29T01:41:41.109397+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
     "published": "Wed, 28 Oct 2026 21:07:06 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
@@ -8407,25 +8423,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-21T14:21:02.646034+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
-    "published": "Mon, 21 Sep 2026 12:08:56 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks",
-      "strike",
-      "strikes"
-    ],
-    "score": 75,
-    "priority": "HIGH",
-    "collected_at": "2026-09-21T14:21:02.646074+00:00"
   }
 ]
