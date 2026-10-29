@@ -1,6 +1,100 @@
 [
   {
     "source": "BBC World",
+    "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+    "published": "Thu, 29 Oct 2026 20:21:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-29T23:53:19.413364+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+    "published": "Thu, 29 Oct 2026 20:05:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "fighting"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-29T23:53:19.413432+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "More than 43 million ballots cast so far in midterms early voting surge",
+    "published": "Thu, 29 Oct 2026 19:50:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-29T23:53:19.775262+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Sir Patrick Stewart: The life of an iconic actor",
+    "published": "Thu, 29 Oct 2026 21:57:04 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-29T23:53:19.775308+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
+    "published": "Thu, 29 Oct 2026 20:24:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-10-29T23:53:19.775607+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Paris suburb shooting suspect targeted people of Muslim or African appearance, prosecutor says",
+    "published": "Thu, 29 Oct 2026 19:19:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7qjq13prpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "terrorism"
+    ],
+    "locations": [],
+    "keywords": [
+      "terrorist"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-10-29T23:53:19.981519+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
     "published": "Thu, 29 Oct 2026 14:58:28 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
@@ -8327,107 +8421,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-22T12:07:24.469799+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Eleven injured in shooting outside Turkish school",
-    "published": "Tue, 22 Sep 2026 10:42:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Turkey"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-22T12:07:24.469909+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
-    "published": "Tue, 22 Sep 2026 10:01:29 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks",
-      "bombing"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-22T12:07:24.469933+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "What is the White House press pool and why is it in a row with Trump?",
-    "published": "Tue, 22 Sep 2026 12:04:35 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-22T12:07:24.470134+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-    "published": "Tue, 22 Sep 2026 01:04:16 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-22T06:47:01.852193+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-    "published": "Tue, 22 Sep 2026 05:16:07 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "attack",
-      "attacks",
-      "fighting"
-    ],
-    "score": 50,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-22T06:47:01.852284+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Infantino says he is open to talks over Fifa reform",
-    "published": "Mon, 21 Sep 2026 19:50:57 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-22T06:47:01.852395+00:00"
   }
 ]
