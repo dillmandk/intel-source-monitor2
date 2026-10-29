@@ -1,6 +1,37 @@
 [
   {
     "source": "BBC World",
+    "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+    "published": "Thu, 29 Oct 2026 14:58:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-29T19:54:51.416406+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Man pleads guilty to federal hate crimes charges over fatal Colorado firebombing",
+    "published": "Thu, 29 Oct 2026 18:59:20 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cred3e7yj8wqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "bombing"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-10-29T19:54:51.533132+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
     "published": "Thu, 29 Oct 2026 14:17:35 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
@@ -8398,33 +8429,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-22T06:47:01.852395+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Sydney policeman says he acted in self-defence in double murder trial",
-    "published": "Tue, 22 Sep 2026 04:06:43 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c69v93v0klxeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-22T06:47:02.216729+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
-    "published": "Mon, 21 Sep 2026 20:21:18 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-21T22:51:11.425281+00:00"
   }
 ]
