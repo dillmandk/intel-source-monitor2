@@ -1,6 +1,38 @@
 [
   {
     "source": "BBC World",
+    "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+    "published": "Fri, 30 Oct 2026 21:13:14 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "North Korea"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-30T21:36:45.117726+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Police deployed during stand-off over control of Poland's top court",
+    "published": "Fri, 30 Oct 2026 20:52:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-30T21:36:45.117798+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
     "published": "Fri, 30 Oct 2026 14:48:22 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
@@ -8378,39 +8410,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-23T17:05:32.924692+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Netanyahu calls Macron's remarks on West Bank in UN speech 'grotesque'",
-    "published": "Wed, 23 Sep 2026 11:30:58 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ck1l6yyg52qvo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-23T17:05:32.924761+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Tigray forces seize main airport in northern Ethiopia from police, residents tell the BBC",
-    "published": "Wed, 23 Sep 2026 11:42:52 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-23T12:09:58.905405+00:00"
   }
 ]
