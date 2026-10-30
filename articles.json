@@ -1,5 +1,63 @@
 [
   {
+    "source": "BBC World",
+    "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+    "published": "Fri, 30 Oct 2026 06:02:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Syria"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-30T11:33:50.423746+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Student-backed election winners demand sweeping resignations in Serbia",
+    "published": "Fri, 30 Oct 2026 00:17:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-30T11:33:50.423867+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Venezuela opposition leader María Machado calls for elections upon return",
+    "published": "Thu, 29 Oct 2026 21:05:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-30T11:33:50.423948+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Many Cubans voted for Trump - now they're turning on Republican immigration policies",
+    "published": "Fri, 30 Oct 2026 00:43:04 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-30T11:33:50.424281+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
     "published": "Fri, 30 Oct 2026 03:34:23 GMT",
@@ -8354,70 +8412,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-22T22:56:36.172945+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Trump says he would back ban on diesel exports",
-    "published": "Tue, 22 Sep 2026 20:41:13 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-22T22:56:36.173023+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US to build two military bases in Greenland under new deal with Denmark",
-    "published": "Tue, 22 Sep 2026 18:43:29 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-09-22T20:06:48.573973+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-    "published": "Tue, 22 Sep 2026 19:06:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-22T20:06:48.574064+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Trump tells UN he has 'big decision' on whether to 'annihilate' Iran or make peace deal",
-    "published": "Tue, 22 Sep 2026 18:48:23 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-22T20:06:48.774012+00:00"
   }
 ]
