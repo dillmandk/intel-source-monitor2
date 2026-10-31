@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC World",
+    "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
+    "published": "Sat, 31 Oct 2026 09:16:14 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-31T13:34:46.311756+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
     "published": "Sat, 31 Oct 2026 02:12:19 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
@@ -8400,21 +8414,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-23T23:01:46.677633+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Iran's president tells Trump it will never 'bend the knee'",
-    "published": "Wed, 23 Sep 2026 15:58:13 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-23T17:05:32.474919+00:00"
   }
 ]
