@@ -1,6 +1,37 @@
 [
   {
     "source": "BBC World",
+    "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+    "published": "Sat, 31 Oct 2026 15:16:20 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-31T17:56:00.826739+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ethiopian PM puts ministers through military training",
+    "published": "Sat, 31 Oct 2026 14:28:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-10-31T17:56:00.826813+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
     "published": "Sat, 31 Oct 2026 09:16:14 GMT",
     "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
@@ -8379,40 +8410,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-23T23:01:46.347649+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "FBI investigates apparent theft of its personnel data by hackers",
-    "published": "Wed, 23 Sep 2026 21:30:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "cyber"
-    ],
-    "locations": [],
-    "keywords": [
-      "hacker",
-      "hackers"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-09-23T23:01:46.677544+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: What messages did the US and Iran send about the war?",
-    "published": "Wed, 23 Sep 2026 21:20:47 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cj046y4wy034o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-23T23:01:46.677633+00:00"
   }
 ]
