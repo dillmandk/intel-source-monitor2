@@ -1,6 +1,69 @@
 [
   {
     "source": "BBC World",
+    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "published": "Sat, 31 Oct 2026 02:12:19 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "cyber"
+    ],
+    "locations": [
+      "North Korea"
+    ],
+    "keywords": [
+      "hacker",
+      "hackers"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-10-31T06:58:04.805109+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Spain train disaster clouds Sánchez chances of re-election",
+    "published": "Sat, 31 Oct 2026 05:44:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-31T06:58:04.805171+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+    "published": "Sat, 31 Oct 2026 02:39:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "fighting"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-10-31T06:58:04.805243+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
+    "published": "Sat, 31 Oct 2026 04:32:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-10-31T06:58:04.805730+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US approves sale of 500 Patriot missiles to Ukraine",
     "published": "Sat, 31 Oct 2026 00:40:43 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
@@ -8353,72 +8416,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-23T17:05:32.474919+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Poland accuses Russian military helicopter of violating its airspace",
-    "published": "Wed, 23 Sep 2026 15:37:20 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Russia",
-      "NATO"
-    ],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-09-23T17:05:32.475027+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
-    "published": "Wed, 23 Sep 2026 14:32:42 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-23T17:05:32.475079+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "South Sudan's president dissolves government ahead of country's first elections",
-    "published": "Wed, 23 Sep 2026 11:16:25 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-23T17:05:32.475140+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
-    "published": "Wed, 23 Sep 2026 12:24:02 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-23T17:05:32.475167+00:00"
   }
 ]
