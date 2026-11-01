@@ -1,6 +1,26 @@
 [
   {
     "source": "BBC World",
+    "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+    "published": "Sun, 01 Nov 2026 21:55:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-01T22:41:15.165660+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
     "published": "Sun, 01 Nov 2026 17:06:32 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
@@ -8390,19 +8410,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-24T12:15:05.174348+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Judge temporarily overturns Trump's White House media ban",
-    "published": "Thu, 24 Sep 2026 10:29:35 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-24T12:15:05.174382+00:00"
   }
 ]
