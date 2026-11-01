@@ -1,6 +1,34 @@
 [
   {
     "source": "BBC World",
+    "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+    "published": "Sun, 01 Nov 2026 00:41:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-01T13:51:42.517300+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Judge orders Trump administration to stop threatening US election officials",
+    "published": "Sun, 01 Nov 2026 00:27:33 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-01T13:51:42.517452+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "India's opposition set to hold mega rally seeking election chief's resignation",
     "published": "Sun, 01 Nov 2026 00:12:07 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
@@ -8374,41 +8402,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-24T06:38:59.673827+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Eight US sailors assigned to USS Abraham Lincoln attempted suicide, Navy says",
-    "published": "Thu, 24 Sep 2026 00:43:53 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr3wj0px283xo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "NATO"
-    ],
-    "keywords": [
-      "navy"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-09-24T06:38:59.673899+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "A red carpet and military flyover - How Trump welcomed Xi",
-    "published": "Wed, 23 Sep 2026 23:03:56 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "military",
-      "combat"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-09-24T01:22:41.484276+00:00"
   }
 ]
