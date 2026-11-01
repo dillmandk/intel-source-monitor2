@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+    "published": "Sun, 01 Nov 2026 00:12:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-01T00:21:42.507020+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
     "published": "Sat, 31 Oct 2026 15:16:20 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
@@ -8394,21 +8410,5 @@
     "score": 25,
     "priority": "LOW",
     "collected_at": "2026-09-24T01:22:41.484276+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-    "published": "Wed, 23 Sep 2026 22:23:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-23T23:01:46.347649+00:00"
   }
 ]
