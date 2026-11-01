@@ -1,6 +1,42 @@
 [
   {
     "source": "BBC World",
+    "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+    "published": "Sun, 01 Nov 2026 17:06:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-01T18:50:26.800536+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+    "published": "Sun, 01 Nov 2026 17:56:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-01T18:50:26.800602+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
     "published": "Sun, 01 Nov 2026 00:41:24 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
@@ -8368,39 +8404,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-24T12:15:05.174382+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Why India's Election Commission is in the eye of a storm - again",
-    "published": "Thu, 24 Sep 2026 08:26:19 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "India"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-24T12:15:05.174536+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-    "published": "Thu, 24 Sep 2026 03:52:21 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "China"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-24T06:38:59.673827+00:00"
   }
 ]
