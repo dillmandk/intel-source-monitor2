@@ -1,6 +1,27 @@
 [
   {
     "source": "BBC World",
+    "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+    "published": "Mon, 02 Nov 2026 01:18:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "air force",
+      "war"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T01:54:50.960227+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
     "published": "Sun, 01 Nov 2026 21:55:01 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
@@ -8390,25 +8411,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-24T17:20:52.536755+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-    "published": "Thu, 24 Sep 2026 11:59:23 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-24T12:15:05.174348+00:00"
   }
 ]
