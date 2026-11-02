@@ -1,6 +1,231 @@
 [
   {
     "source": "BBC World",
+    "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+    "published": "Mon, 02 Nov 2026 19:37:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "bombing"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T19:37:34.949154+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+    "published": "Mon, 02 Nov 2026 18:34:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war",
+      "attack",
+      "attacks"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-02T19:37:34.949203+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Shop freezers in seven European countries hit by cyber-attack",
+    "published": "Mon, 02 Nov 2026 17:38:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T19:37:34.949234+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+    "published": "Mon, 02 Nov 2026 17:33:19 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "war",
+      "fighting"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T19:37:34.949265+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Dutch police offer record €2m reward in hunt for drug lord",
+    "published": "Mon, 02 Nov 2026 17:29:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T19:37:34.949304+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Five arrested after South African farmer shot and tortured",
+    "published": "Mon, 02 Nov 2026 10:48:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T19:37:34.949335+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+    "published": "Mon, 02 Nov 2026 12:05:34 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "terrorism"
+    ],
+    "locations": [],
+    "keywords": [
+      "troops",
+      "militant"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T19:37:34.949416+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+    "published": "Mon, 02 Nov 2026 17:34:58 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T19:37:34.949735+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "What we know about the alert app hack in Ukraine and Russia",
+    "published": "Mon, 02 Nov 2026 14:24:25 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T19:37:34.949762+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "What are Americans voting for in this election?",
+    "published": "Mon, 02 Nov 2026 09:22:55 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T19:37:34.949798+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+    "published": "Mon, 02 Nov 2026 18:25:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "cyber"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "hacker",
+      "hackers"
+    ],
+    "score": 45,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-02T19:37:34.949824+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Martha Stewart says she 'really screwed up' with homeless Halloween costume",
+    "published": "Mon, 02 Nov 2026 09:36:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8zxle6qq4q0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T19:37:35.162549+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Democrat Stevens defends endorsement switch to Republican Rogers two days before election",
+    "published": "Mon, 02 Nov 2026 11:08:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c699z8v3282xo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T19:37:35.162648+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump makes fevered campaign push in final weekend before election",
     "published": "Mon, 02 Nov 2026 04:04:28 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
@@ -8178,227 +8403,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-25T17:54:21.736372+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Pope warns against 'losing humanity' to AI machines",
-    "published": "Fri, 25 Sep 2026 12:44:08 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-25T12:58:31.820125+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-    "published": "Fri, 25 Sep 2026 12:34:31 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war",
-      "fighting"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-25T12:58:31.820157+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: Protests and walkouts as Netanyahu addresses UN",
-    "published": "Fri, 25 Sep 2026 00:09:21 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cmvgy95g0n3lo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Israel"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-25T12:58:32.069264+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
-    "published": "Fri, 25 Sep 2026 06:40:18 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "China"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-25T07:33:47.487952+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Pomp and toasts: Day 2 of Trump and Xi in DC",
-    "published": "Fri, 25 Sep 2026 05:54:07 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-25T07:33:47.488454+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Why Trump gave Xi an ornate bald eagle statue at the state dinner",
-    "published": "Fri, 25 Sep 2026 03:00:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6lyqlx0kp0po?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "diplomacy"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-09-25T07:33:48.171173+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
-    "published": "Thu, 24 Sep 2026 23:41:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "India"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-25T01:55:01.467716+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-    "published": "Thu, 24 Sep 2026 23:32:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Israel"
-    ],
-    "keywords": [
-      "military",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-09-24T23:34:10.635858+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "A military threat from US? Canadians react to Carney's concerns",
-    "published": "Thu, 24 Sep 2026 22:04:12 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cjdx5747g7evo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-09-24T23:34:10.763323+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Yom Kippur shooting outside Canadian synagogue was 'hate-motivated', officials say",
-    "published": "Thu, 24 Sep 2026 22:03:25 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6804n1r100eo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-24T23:34:10.763350+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-    "published": "Thu, 24 Sep 2026 19:02:36 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Afghanistan",
-      "Pakistan"
-    ],
-    "keywords": [
-      "military",
-      "strike",
-      "strikes"
-    ],
-    "score": 50,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-24T20:41:51.711834+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Priest killed and four injured in knife attack at Polish abbey",
-    "published": "Thu, 24 Sep 2026 19:18:12 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-24T20:41:51.711872+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-    "published": "Thu, 24 Sep 2026 19:32:59 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-24T20:41:51.711900+00:00"
   }
 ]
