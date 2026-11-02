@@ -1,6 +1,67 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump makes fevered campaign push in final weekend before election",
+    "published": "Mon, 02 Nov 2026 04:04:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T09:15:31.892162+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Nine killed as small jet crashes on Florida street",
+    "published": "Mon, 02 Nov 2026 09:10:19 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T09:15:31.892215+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ryanair may freeze workers' pay and raise fares on higher fuel prices",
+    "published": "Mon, 02 Nov 2026 08:33:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran",
+      "Israel"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T09:15:31.892281+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Judge dismisses Trump administration's  lawsuit over two Dan Sullivans in Alaska election",
+    "published": "Sun, 01 Nov 2026 23:43:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cv4g1y02jejro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-02T09:15:31.994486+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
     "published": "Mon, 02 Nov 2026 01:18:27 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
@@ -8339,77 +8400,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-24T20:41:51.711900+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Mark Carney says he has considered possibility of US military action against Canada",
-    "published": "Thu, 24 Sep 2026 17:17:56 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6d79l2jd2pyo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-09-24T20:41:51.803792+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-    "published": "Thu, 24 Sep 2026 14:08:38 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-24T17:20:52.229566+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-    "published": "Thu, 24 Sep 2026 15:37:45 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "military",
-      "soldiers",
-      "army",
-      "war",
-      "attack",
-      "attacks",
-      "fighting"
-    ],
-    "score": 100,
-    "priority": "HIGH",
-    "collected_at": "2026-09-24T17:20:52.229626+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Here's why Trump's been so keen on Xi's visit",
-    "published": "Thu, 24 Sep 2026 15:16:27 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "China"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-24T17:20:52.536755+00:00"
   }
 ]
