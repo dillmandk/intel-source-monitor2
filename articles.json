@@ -1,6 +1,87 @@
 [
   {
     "source": "BBC World",
+    "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+    "published": "Tue, 03 Nov 2026 00:07:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "troops",
+      "offensive"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-03T01:47:49.158677+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "North Korea denies being behind record $6.3bn Binance hack",
+    "published": "Tue, 03 Nov 2026 01:23:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "North Korea"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-03T01:47:49.158790+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Man guilty of stealing cash from farm owned by South African president",
+    "published": "Mon, 02 Nov 2026 20:08:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-03T01:47:49.158814+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump to remove Rwanda and South Africa from US trade deal",
+    "published": "Mon, 02 Nov 2026 19:33:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-03T01:47:49.158869+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+    "published": "Mon, 02 Nov 2026 23:02:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-03T01:47:49.159230+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
     "published": "Mon, 02 Nov 2026 19:37:10 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
@@ -8320,88 +8401,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-25T21:25:34.476598+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Special agents' blood and urine test results stolen in FBI hack",
-    "published": "Fri, 25 Sep 2026 13:56:16 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-25T17:54:21.543309+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-    "published": "Fri, 25 Sep 2026 17:32:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-25T17:54:21.543387+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Students strike across Germany in protest against military service",
-    "published": "Fri, 25 Sep 2026 15:36:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "military",
-      "strike"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-09-25T17:54:21.543416+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
-    "published": "Fri, 25 Sep 2026 15:29:48 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-09-25T17:54:21.543447+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
-    "published": "Fri, 25 Sep 2026 15:51:52 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-25T17:54:21.736372+00:00"
   }
 ]
