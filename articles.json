@@ -1,6 +1,27 @@
 [
   {
     "source": "BBC World",
+    "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+    "published": "Tue, 03 Nov 2026 16:57:41 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war",
+      "attack",
+      "attacks"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-03T22:02:25.945866+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Tenerife striker De Miguel dies after on-field collision",
     "published": "Tue, 03 Nov 2026 09:09:18 GMT",
     "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
@@ -8376,21 +8397,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-27T17:17:27.456233+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Switzerland rejects stricter interpretation of its neutrality",
-    "published": "Sun, 27 Sep 2026 16:02:17 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-27T17:17:27.456300+00:00"
   }
 ]
