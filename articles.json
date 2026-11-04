@@ -1,6 +1,133 @@
 [
   {
     "source": "BBC World",
+    "title": "South Carolina elects Democratic senator for first time in almost three decades",
+    "published": "Wed, 04 Nov 2026 07:32:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "NATO"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T09:31:26.109054+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Florida Republicans fend off Democrats as state elects first black governor",
+    "published": "Wed, 04 Nov 2026 07:12:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T09:31:26.109102+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+    "published": "Wed, 04 Nov 2026 03:46:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [
+      "artillery",
+      "weapon"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T09:31:26.109170+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
+    "published": "Wed, 04 Nov 2026 07:17:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "tank"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T09:31:26.109239+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "How America voted in maps and charts",
+    "published": "Wed, 04 Nov 2026 07:24:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T09:31:26.109332+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Key moments from a night of midterm election firsts",
+    "published": "Wed, 04 Nov 2026 09:01:40 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T09:31:26.109356+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Watch: Key moments from the US midterm election results",
+    "published": "Wed, 04 Nov 2026 07:23:10 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cq3dj7xn2xvko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T09:31:26.138239+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Football world mourns Tenerife striker De Miguel",
+    "published": "Tue, 03 Nov 2026 23:37:12 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "strike"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T09:31:26.166233+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "ANC under pressure to reverse South Africa decline",
     "published": "Wed, 04 Nov 2026 00:03:19 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
@@ -8252,145 +8379,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-09-28T21:59:03.536080+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "People escape historic Kyiv building hit by Russian drone",
-    "published": "Mon, 28 Sep 2026 17:04:14 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "drone",
-      "strike"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-28T21:59:03.536173+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
-    "published": "Mon, 28 Sep 2026 19:28:54 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "terrorism"
-    ],
-    "locations": [],
-    "keywords": [
-      "terrorist"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-09-28T21:59:03.896502+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-    "published": "Mon, 28 Sep 2026 14:57:31 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Ukraine",
-      "North Korea",
-      "South Korea"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-28T16:06:09.933274+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Taylor Swift breaks record for most MTV VMAs as Madonna also wins",
-    "published": "Mon, 28 Sep 2026 07:40:05 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8ly403p1rwpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-28T16:06:10.147537+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
-    "published": "Mon, 28 Sep 2026 06:22:52 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-28T07:45:47.001347+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
-    "published": "Mon, 28 Sep 2026 01:16:18 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-28T07:45:47.001400+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Inside Yemen's front-line city as Houthis battle for control",
-    "published": "Sun, 27 Sep 2026 21:16:31 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "soldiers"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-09-28T01:41:17.306671+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Five arrested as counter-terror police investigate major incident near UK airbase used by US forces",
-    "published": "Sun, 27 Sep 2026 20:10:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "terrorism"
-    ],
-    "locations": [],
-    "keywords": [
-      "war",
-      "terrorist"
-    ],
-    "score": 45,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-28T01:41:17.565346+00:00"
   }
 ]
