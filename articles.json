@@ -1,6 +1,139 @@
 [
   {
     "source": "BBC World",
+    "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+    "published": "Wed, 04 Nov 2026 13:33:30 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T17:31:10.507674+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+    "published": "Wed, 04 Nov 2026 16:26:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "cyber"
+    ],
+    "locations": [],
+    "keywords": [
+      "hacker",
+      "hackers"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T17:31:10.507725+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'Most difficult days of my life' for keeper Owono",
+    "published": "Wed, 04 Nov 2026 16:40:38 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T17:31:10.507749+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Israel's president begins consultations with parties after election deadlock",
+    "published": "Wed, 04 Nov 2026 16:18:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T17:31:10.507772+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+    "published": "Wed, 04 Nov 2026 15:01:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T17:31:10.507854+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+    "published": "Wed, 04 Nov 2026 11:46:09 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "army",
+      "sanctions"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T17:31:10.507889+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Five reasons why Republicans lost so badly",
+    "published": "Wed, 04 Nov 2026 12:44:19 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T17:31:10.754497+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "EU rules on Artificial Intelligence devices will apply in NI",
+    "published": "Wed, 04 Nov 2026 14:10:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8x23zqxwdlro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T17:31:10.988872+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "South Carolina elects Democratic senator for first time in almost three decades",
     "published": "Wed, 04 Nov 2026 07:32:02 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
@@ -8253,131 +8386,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-09-29T07:40:35.612849+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-    "published": "Tue, 29 Sep 2026 03:50:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T07:40:35.612911+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-    "published": "Tue, 29 Sep 2026 04:10:33 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T07:40:35.612958+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Rights group accuses Vietnam of abducting Australian and Norwegian activists",
-    "published": "Tue, 29 Sep 2026 05:31:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmvgy2wwvzlqo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "terrorism"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [
-      "terrorist"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T07:40:35.909246+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Infantino makes bigger cash pledge to Fifa members",
-    "published": "Mon, 28 Sep 2026 22:32:29 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T07:40:35.909351+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Migrants using longer, more dangerous routes across Channel",
-    "published": "Tue, 29 Sep 2026 00:42:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T07:40:35.909490+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-    "published": "Mon, 28 Sep 2026 17:26:21 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-28T21:59:03.535690+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "French PM warns against escalation of school protests after 164 arrested",
-    "published": "Mon, 28 Sep 2026 21:46:53 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-28T21:59:03.535726+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Stuck between superpowers: How Australia navigates the China-US rivalry",
-    "published": "Mon, 28 Sep 2026 18:37:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "China",
-      "Australia"
-    ],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-09-28T21:59:03.536080+00:00"
   }
 ]
