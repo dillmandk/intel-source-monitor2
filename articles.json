@@ -1,6 +1,48 @@
 [
   {
     "source": "BBC World",
+    "title": "ANC under pressure to reverse South Africa decline",
+    "published": "Wed, 04 Nov 2026 00:03:19 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T02:17:56.775251+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+    "published": "Wed, 04 Nov 2026 01:55:33 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T02:17:57.096698+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "US voters name economy and state of democracy as top issues, poll says",
+    "published": "Wed, 04 Nov 2026 01:47:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T02:17:57.096735+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
     "published": "Tue, 03 Nov 2026 16:57:41 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
@@ -8350,52 +8392,5 @@
     "score": 45,
     "priority": "MEDIUM",
     "collected_at": "2026-09-28T01:41:17.565346+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
-    "published": "Sun, 27 Sep 2026 21:00:06 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "soldiers",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-09-27T23:08:52.840056+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Embattled Serbian president resigns, paving way for early elections",
-    "published": "Sun, 27 Sep 2026 20:04:21 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-27T20:14:27.593141+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Venezuela releases dozens of political prisoners as election calls grow",
-    "published": "Sun, 27 Sep 2026 15:56:25 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-27T17:17:27.456233+00:00"
   }
 ]
