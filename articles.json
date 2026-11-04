@@ -1,6 +1,54 @@
 [
   {
     "source": "BBC World",
+    "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+    "published": "Wed, 04 Nov 2026 22:48:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "bombing"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-04T22:52:46.008444+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump's loss limits powers at home, but it will likely be different abroad",
+    "published": "Wed, 04 Nov 2026 18:35:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T22:52:46.043528+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+    "published": "Wed, 04 Nov 2026 21:41:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-04T22:52:46.043567+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
     "published": "Wed, 04 Nov 2026 13:33:30 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
@@ -8339,52 +8387,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-09-29T14:22:46.379174+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
-    "published": "Tue, 29 Sep 2026 12:20:02 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T14:22:46.379251+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Are Trump's US government funded ads illegal?",
-    "published": "Tue, 29 Sep 2026 01:12:52 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T14:22:46.379628+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "OpenAI scraps rollout of new model over safety concerns",
-    "published": "Tue, 29 Sep 2026 04:30:13 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T07:40:35.612849+00:00"
   }
 ]
