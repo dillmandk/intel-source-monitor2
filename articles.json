@@ -1,5 +1,41 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "Could Democrats in Congress end the war in Iran?",
+    "published": "Wed, 04 Nov 2026 22:14:41 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-05T03:23:32.404461+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+    "published": "Wed, 04 Nov 2026 23:50:40 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "United Kingdom"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-05T03:23:32.404586+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
     "published": "Wed, 04 Nov 2026 22:48:43 GMT",
@@ -8346,46 +8382,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-09-29T19:35:25.460540+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
-    "published": "Tue, 29 Sep 2026 12:39:18 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T14:22:46.379120+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-    "published": "Tue, 29 Sep 2026 13:15:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine",
-      "NATO"
-    ],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T14:22:46.379174+00:00"
   }
 ]
