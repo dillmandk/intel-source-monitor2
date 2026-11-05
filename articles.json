@@ -1,5 +1,135 @@
 [
   {
+    "source": "BBC World",
+    "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+    "published": "Thu, 05 Nov 2026 03:47:56 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-05T11:25:37.105657+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "France gears up for strikes and protests as unions promise national mobilisation",
+    "published": "Thu, 05 Nov 2026 10:26:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-05T11:25:37.105732+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+    "published": "Thu, 05 Nov 2026 02:09:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-05T11:25:37.105796+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+    "published": "Thu, 05 Nov 2026 10:33:21 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "offensive"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-11-05T11:25:37.105892+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
+    "published": "Thu, 05 Nov 2026 06:01:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-05T11:25:37.294591+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "With Congress flipped, what does Trump do next?",
+    "published": "Wed, 04 Nov 2026 22:50:15 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cwkg5xmlpj4jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-05T11:25:37.294823+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "How voter shifts in Texas helped elect a Democratic senator and governor",
+    "published": "Wed, 04 Nov 2026 20:21:14 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmy4xz081kxyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "NATO"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-05T11:25:37.294869+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Italian chef fired after refusing to put pineapple on pizza",
+    "published": "Thu, 05 Nov 2026 07:56:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "offensive"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-11-05T11:25:37.639588+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Could Democrats in Congress end the war in Iran?",
     "published": "Wed, 04 Nov 2026 22:14:41 GMT",
@@ -8251,136 +8381,5 @@
     "score": 50,
     "priority": "MEDIUM",
     "collected_at": "2026-09-30T02:11:58.242549+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
-    "published": "Tue, 29 Sep 2026 23:33:34 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "missile",
-      "attack",
-      "attacks"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-30T02:11:58.243132+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "The journalist who became king in Uganda",
-    "published": "Tue, 29 Sep 2026 19:35:19 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cry4z9jw3wvlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T23:12:06.737223+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "How Lindsay Clancy's return to court after mistrial unfolded",
-    "published": "Tue, 29 Sep 2026 20:09:23 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c64gvn7v1401o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T23:12:06.807362+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Dutch police arrest suspected member of group that claimed FBI hack",
-    "published": "Tue, 29 Sep 2026 15:40:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "cyber"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "cyber attack"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-09-29T19:35:25.226560+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "First female prime minister named in Morocco after winning elections",
-    "published": "Tue, 29 Sep 2026 17:14:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T19:35:25.226596+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed",
-    "published": "Tue, 29 Sep 2026 17:31:30 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T19:35:25.226643+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump rules out joint US-China venture to develop AI",
-    "published": "Tue, 29 Sep 2026 16:09:26 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "China"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T19:35:25.226777+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Man released on bail after 41 years on death row",
-    "published": "Tue, 29 Sep 2026 13:39:16 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwdr71xpj4gpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-09-29T19:35:25.460540+00:00"
   }
 ]
