@@ -1,6 +1,64 @@
 [
   {
     "source": "BBC World",
+    "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+    "published": "Thu, 05 Nov 2026 19:08:48 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-06T00:00:39.394627+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+    "published": "Thu, 05 Nov 2026 23:16:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-06T00:00:39.394693+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Canada's federal budget includes billions for sovereignty and tackling homelessness",
+    "published": "Thu, 05 Nov 2026 22:40:33 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwdr87r8pjlvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-06T00:00:39.624062+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Inside Mississippi's ballot counting in tight Senate race",
+    "published": "Thu, 05 Nov 2026 20:31:38 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmj477d0dyxqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-06T00:00:39.624106+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Hoax bomb threats target European airlines and airports for second time in a week",
     "published": "Thu, 05 Nov 2026 17:39:48 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
@@ -8311,68 +8369,5 @@
     "score": 45,
     "priority": "MEDIUM",
     "collected_at": "2026-09-30T08:43:38.865645+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
-    "published": "Wed, 30 Sep 2026 08:40:01 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-30T08:43:38.865699+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
-    "published": "Wed, 30 Sep 2026 04:21:11 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "China",
-      "South Korea"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-30T08:43:38.865753+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Somali pirates killed oil tanker crew before rescue, official tells BBC",
-    "published": "Wed, 30 Sep 2026 06:41:35 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "tank"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-09-30T08:43:38.865785+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
-    "published": "Wed, 30 Sep 2026 03:21:28 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-09-30T08:43:38.866070+00:00"
   }
 ]
