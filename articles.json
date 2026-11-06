@@ -1,6 +1,48 @@
 [
   {
     "source": "BBC World",
+    "title": "AI stocks climb after trillions wiped from market values",
+    "published": "Fri, 06 Nov 2026 19:37:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-06T20:34:50.462093+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Four midterms takeaways for 2028 White House race",
+    "published": "Fri, 06 Nov 2026 16:12:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-06T20:34:50.462134+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+    "published": "Fri, 06 Nov 2026 16:51:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-06T20:34:50.462221+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russian extremist group denies sending hoax bomb threats",
     "published": "Fri, 06 Nov 2026 12:51:38 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
@@ -8290,64 +8332,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-01T11:49:51.844291+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Pakistan launches deadly air strikes on Afghanistan",
-    "published": "Thu, 01 Oct 2026 08:06:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw4grg92lmr5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "terrorism"
-    ],
-    "locations": [
-      "Afghanistan",
-      "Pakistan"
-    ],
-    "keywords": [
-      "strike",
-      "strikes",
-      "militant"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-01T11:49:51.844344+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
-    "published": "Wed, 30 Sep 2026 18:15:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "China",
-      "United Kingdom"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-01T11:49:51.844445+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-    "published": "Thu, 01 Oct 2026 03:43:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-01T05:39:25.028223+00:00"
   }
 ]
