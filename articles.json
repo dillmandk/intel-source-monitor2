@@ -1,6 +1,40 @@
 [
   {
     "source": "BBC World",
+    "title": "US offers $20m reward for information about Iran's nuclear programme",
+    "published": "Sat, 07 Nov 2026 18:14:38 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war",
+      "strike",
+      "strikes"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-07T22:01:28.142420+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+    "published": "Sat, 07 Nov 2026 21:23:26 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-07T22:01:28.181605+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "What we know about Krakow mass shooting so far",
     "published": "Sat, 07 Nov 2026 17:48:29 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
@@ -8296,37 +8330,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-01T17:46:59.326030+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
-    "published": "Thu, 01 Oct 2026 14:05:55 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-01T17:46:59.326081+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-    "published": "Thu, 01 Oct 2026 11:37:46 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-01T17:46:59.326127+00:00"
   }
 ]
