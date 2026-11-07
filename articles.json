@@ -1,6 +1,42 @@
 [
   {
     "source": "BBC World",
+    "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+    "published": "Sat, 07 Nov 2026 12:49:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike",
+      "strikes"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-11-07T13:22:31.475322+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "New Zealand election 'too close to call' - so who will be next PM?",
+    "published": "Sat, 07 Nov 2026 12:40:38 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c6kgl7m1g9m1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-07T13:22:32.240233+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Paraguay's President Santiago Peña impeached and arrested",
     "published": "Sat, 07 Nov 2026 03:25:00 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
@@ -8290,41 +8326,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-01T17:46:59.468091+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Russia targets busy bridge in central Kyiv",
-    "published": "Thu, 01 Oct 2026 14:31:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmn8e8344v5qo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-01T17:46:59.627716+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "'He's taught us courage': Friend on Indian pilot hailed as a hero",
-    "published": "Thu, 01 Oct 2026 12:43:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq33k36yp01no?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "India"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-01T17:46:59.767287+00:00"
   }
 ]
