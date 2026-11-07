@@ -1,5 +1,19 @@
 [
   {
+    "source": "BBC World",
+    "title": "Paraguay's President Santiago Peña impeached and arrested",
+    "published": "Sat, 07 Nov 2026 03:25:00 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-07T06:19:07.912512+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "With Stephen Miller pick, Trump readies for a battle",
     "published": "Fri, 06 Nov 2026 23:24:15 GMT",
@@ -8312,24 +8326,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-01T17:46:59.767287+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-    "published": "Thu, 01 Oct 2026 11:25:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "army",
-      "drone",
-      "fighting"
-    ],
-    "score": 45,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-01T11:49:51.238783+00:00"
   }
 ]
