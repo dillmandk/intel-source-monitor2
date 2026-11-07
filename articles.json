@@ -1,6 +1,73 @@
 [
   {
     "source": "BBC World",
+    "title": "What we know about Krakow mass shooting so far",
+    "published": "Sat, 07 Nov 2026 17:48:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-07T18:13:37.351254+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "No clear winner after tight New Zealand general election",
+    "published": "Sat, 07 Nov 2026 15:56:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-07T18:13:37.351293+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Houthis say at least 25 killed in Saudi air strike",
+    "published": "Sat, 07 Nov 2026 17:09:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "strike",
+      "fighting"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-07T18:13:37.351317+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Italian foreign minister says hackers leaked his personal data",
+    "published": "Sat, 07 Nov 2026 16:50:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political",
+      "cyber"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "hacker",
+      "hackers"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-11-07T18:13:37.351410+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
     "published": "Sat, 07 Nov 2026 12:49:36 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
@@ -8261,70 +8328,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-01T17:46:59.326127+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Fires break out at French schools as students protest nationwide",
-    "published": "Thu, 01 Oct 2026 16:34:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-01T17:46:59.326171+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Flydubai passenger describes hugging his children as plane nosedived during attack",
-    "published": "Thu, 01 Oct 2026 13:57:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-01T17:46:59.326345+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Trump says 'some' munitions are low as Iran war grinds on",
-    "published": "Thu, 01 Oct 2026 16:02:07 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gjgzjrvp5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war",
-      "strike",
-      "strikes"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-01T17:46:59.467874+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Renee Good's partner speaks publicly for first time since her death",
-    "published": "Thu, 01 Oct 2026 17:06:55 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cmd686wyp0pgo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-01T17:46:59.468091+00:00"
   }
 ]
