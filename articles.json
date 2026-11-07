@@ -1,5 +1,37 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "With Stephen Miller pick, Trump readies for a battle",
+    "published": "Fri, 06 Nov 2026 23:24:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-07T00:19:55.807414+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "An Indian film that nobody would release is finally a hit - 18 awards later",
+    "published": "Fri, 06 Nov 2026 22:59:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly334rem5do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-07T00:19:56.301052+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "AI stocks climb after trillions wiped from market values",
     "published": "Fri, 06 Nov 2026 19:37:10 GMT",
@@ -8299,38 +8331,5 @@
     "score": 45,
     "priority": "MEDIUM",
     "collected_at": "2026-10-01T11:49:51.238783+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
-    "published": "Thu, 01 Oct 2026 11:00:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-01T11:49:51.238841+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-    "published": "Thu, 01 Oct 2026 08:39:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "India"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-01T11:49:51.844291+00:00"
   }
 ]
