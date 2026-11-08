@@ -1,5 +1,19 @@
 [
   {
+    "source": "BBC Europe",
+    "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+    "published": "Sat, 07 Nov 2026 17:32:42 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-08T14:57:19.659737+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Israel's president tasks opposition leader Eisenkot with forming government",
     "published": "Sat, 07 Nov 2026 22:19:59 GMT",
@@ -8305,25 +8319,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-10-02T07:34:13.991712+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-    "published": "Thu, 01 Oct 2026 19:38:30 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "weapon",
-      "war"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-01T22:01:44.505423+00:00"
   }
 ]
