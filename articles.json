@@ -1,5 +1,35 @@
 [
   {
+    "source": "BBC World",
+    "title": "Iran executes three men for 'armed unrest' after January protests",
+    "published": "Sun, 08 Nov 2026 13:37:50 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-08T19:29:47.640127+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+    "published": "Sun, 08 Nov 2026 16:05:57 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-08T19:29:47.640419+00:00"
+  },
+  {
     "source": "BBC Europe",
     "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
     "published": "Sat, 07 Nov 2026 17:32:42 GMT",
@@ -8287,37 +8317,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-10-02T07:34:13.991345+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
-    "published": "Thu, 01 Oct 2026 23:46:12 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-02T07:34:13.991618+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Why are these endangered moths swarming Australia's east coast?",
-    "published": "Thu, 01 Oct 2026 22:26:05 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c6rr4r704en4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-02T07:34:13.991712+00:00"
   }
 ]
