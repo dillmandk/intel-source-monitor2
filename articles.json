@@ -1,5 +1,19 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "Top House Democrat 'a hard yes' on impeaching Hegseth",
+    "published": "Sun, 08 Nov 2026 22:49:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-08T23:05:31.972433+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Iran executes three men for 'armed unrest' after January protests",
     "published": "Sun, 08 Nov 2026 13:37:50 GMT",
@@ -8301,21 +8315,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-10-02T07:34:13.991281+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-    "published": "Fri, 02 Oct 2026 05:42:07 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "diplomatic"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-02T07:34:13.991345+00:00"
   }
 ]
