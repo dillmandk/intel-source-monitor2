@@ -1,6 +1,51 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+    "published": "Mon, 09 Nov 2026 08:49:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "fighting"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-09T10:22:55.666663+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
+    "published": "Sun, 08 Nov 2026 17:51:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-09T10:22:55.666760+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "After knife-edge vote, New Zealand parties put off coalitions talks",
+    "published": "Mon, 09 Nov 2026 05:10:33 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqvgj2gjdn40o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-09T10:22:56.103769+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
     "published": "Sun, 08 Nov 2026 21:37:36 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
@@ -8266,51 +8311,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-02T19:20:37.928175+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "School protests send shivers down French government's spine",
-    "published": "Fri, 02 Oct 2026 12:43:02 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-02T14:09:17.700011+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
-    "published": "Fri, 02 Oct 2026 08:46:37 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-02T14:09:17.700133+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "US jobs market sees sharp slowdown in September",
-    "published": "Fri, 02 Oct 2026 13:56:36 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "United States"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-02T14:09:17.754762+00:00"
   }
 ]
