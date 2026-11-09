@@ -1,6 +1,82 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump questions midterm elections integrity after previously accepting results",
+    "published": "Mon, 09 Nov 2026 17:47:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-09T20:59:42.727917+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+    "published": "Mon, 09 Nov 2026 20:23:14 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-09T20:59:42.727982+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Drone delivers food to chimpanzee cut off by flooding",
+    "published": "Mon, 09 Nov 2026 18:03:07 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c6wyrykl9vl7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "drone"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-09T20:59:42.775773+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "What we know about Trump replacing Susie Wiles with Stephen Miller",
+    "published": "Fri, 06 Nov 2026 22:47:02 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cvze442wdl75o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-09T20:59:42.776021+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Khawaja 100% accurate on ball-tampering - Warner",
+    "published": "Mon, 09 Nov 2026 09:21:09 GMT",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-09T20:59:43.126143+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump says he was 'kidding' about Dana White press secretary offer",
     "published": "Mon, 09 Nov 2026 08:49:17 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
@@ -8225,91 +8301,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-10-03T13:21:32.047126+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Will Spain's housing crisis lead to a snap election?",
-    "published": "Sat, 03 Oct 2026 12:26:30 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-03T13:21:32.047552+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-    "published": "Sat, 03 Oct 2026 07:49:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-03T08:04:45.705934+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russia strikes second major bridge in Kyiv, mayor says",
-    "published": "Sat, 03 Oct 2026 07:25:09 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "attack",
-      "attacks",
-      "strike",
-      "strikes"
-    ],
-    "score": 75,
-    "priority": "HIGH",
-    "collected_at": "2026-10-03T08:04:45.705989+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-    "published": "Fri, 02 Oct 2026 15:26:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "war",
-      "strike",
-      "strikes"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-02T19:20:37.928134+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-    "published": "Fri, 02 Oct 2026 15:30:12 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-02T19:20:37.928175+00:00"
   }
 ]
