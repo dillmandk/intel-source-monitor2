@@ -1,5 +1,54 @@
 [
   {
+    "source": "BBC World",
+    "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+    "published": "Sun, 08 Nov 2026 21:37:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-09T02:38:40.631258+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump says after midterms defeat his immigration crackdown was 'too tough'",
+    "published": "Mon, 09 Nov 2026 01:51:44 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-09T02:38:40.838053+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "One killed in Indonesia helicopter crash during firefighting operation",
+    "published": "Mon, 09 Nov 2026 02:07:38 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv0442ml6vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "fighting"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-09T02:38:41.076493+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "Top House Democrat 'a hard yes' on impeaching Hegseth",
     "published": "Sun, 08 Nov 2026 22:49:53 GMT",
@@ -8263,57 +8312,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-02T14:09:17.754762+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-    "published": "Fri, 02 Oct 2026 07:31:52 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-02T07:34:13.991181+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "I opened cockpit door of plane while being attacked, Indian pilot tells Modi",
-    "published": "Fri, 02 Oct 2026 07:20:25 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "India"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-02T07:34:13.991239+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-    "published": "Fri, 02 Oct 2026 03:09:13 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-02T07:34:13.991281+00:00"
   }
 ]
