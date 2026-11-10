@@ -1,6 +1,109 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "published": "Tue, 10 Nov 2026 01:44:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T03:27:19.490353+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+    "published": "Tue, 10 Nov 2026 00:09:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T03:27:19.490417+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+    "published": "Mon, 09 Nov 2026 23:28:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T03:27:19.490536+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Dana White declines Trump’s offer to be White House press secretary",
+    "published": "Mon, 09 Nov 2026 22:46:27 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T03:27:19.490677+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "The superpower battle over energy – and what it means for your bills",
+    "published": "Tue, 10 Nov 2026 00:08:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T03:27:19.490784+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
+    "published": "Tue, 10 Nov 2026 02:38:00 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war",
+      "strike",
+      "strikes"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-10T03:27:19.550570+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump questions midterm elections integrity after previously accepting results",
     "published": "Mon, 09 Nov 2026 17:47:29 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
@@ -8206,100 +8309,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-04T14:44:19.734736+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-    "published": "Sun, 04 Oct 2026 04:53:29 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-04T08:51:46.459144+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Cornell president says university 'must do better' after frat house rape allegations",
-    "published": "Sun, 04 Oct 2026 00:11:25 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-04T02:42:33.922238+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Why Canada is preparing for a (long shot) US invasion",
-    "published": "Sat, 03 Oct 2026 23:30:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "military",
-      "invasion"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-04T02:42:33.922764+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Why has Brazil accused the US of election interference?",
-    "published": "Sat, 03 Oct 2026 13:52:13 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "United States"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-03T17:33:06.005334+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Protesters across Spain demand action over housing crisis",
-    "published": "Sat, 03 Oct 2026 12:16:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-03T13:21:32.047072+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Kim wins Asian Games gold to secure military exemption",
-    "published": "Sat, 03 Oct 2026 08:51:14 GMT",
-    "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "South Korea"
-    ],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-03T13:21:32.047126+00:00"
   }
 ]
