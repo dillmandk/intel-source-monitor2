@@ -1,6 +1,124 @@
 [
   {
     "source": "BBC World",
+    "title": "Israel's new parliament sworn in as leaders compete to form government",
+    "published": "Tue, 10 Nov 2026 17:03:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T18:52:10.582736+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
+    "published": "Tue, 10 Nov 2026 13:23:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T18:52:10.582819+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+    "published": "Tue, 10 Nov 2026 18:35:35 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "war"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-10T18:52:10.583154+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'It's a farce': Hegseth's defiant response to impeachment effort",
+    "published": "Tue, 10 Nov 2026 15:40:43 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cwm24249dezmo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T18:52:10.583207+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+    "published": "Tue, 10 Nov 2026 17:00:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T18:52:10.583261+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Hegseth: Impeachment effort is 'farce' and 'stunt'",
+    "published": "Tue, 10 Nov 2026 13:28:07 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cxj0l03ln8zpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T18:52:10.709707+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+    "published": "Tue, 10 Nov 2026 17:56:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T18:52:10.709804+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
     "published": "Tue, 10 Nov 2026 08:39:05 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
@@ -8202,114 +8320,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-10-05T21:59:49.734923+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-    "published": "Mon, 05 Oct 2026 13:16:00 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-05T15:03:56.718700+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Spanish PM Sánchez calls early election after housing protests",
-    "published": "Mon, 05 Oct 2026 10:18:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-05T15:03:56.718748+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-    "published": "Mon, 05 Oct 2026 11:34:59 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "terrorism"
-    ],
-    "locations": [],
-    "keywords": [
-      "extremist"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-05T15:03:56.718776+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Nobel Prize awarded for revealing inner workings of the brain",
-    "published": "Mon, 05 Oct 2026 11:04:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-05T15:03:56.718811+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: How Spain's housing crisis has resulted in an early general election",
-    "published": "Mon, 05 Oct 2026 09:03:30 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-05T15:03:56.719062+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US air force removes all bombers from British military base RAF Fairford",
-    "published": "Mon, 05 Oct 2026 04:58:56 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "United Kingdom"
-    ],
-    "keywords": [
-      "military",
-      "air force"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-10-05T06:19:31.191890+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: How Brazil's dramatic election unfolded",
-    "published": "Mon, 05 Oct 2026 04:51:24 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-05T06:19:31.191958+00:00"
   }
 ]
