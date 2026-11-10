@@ -1,6 +1,39 @@
 [
   {
     "source": "BBC World",
+    "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+    "published": "Tue, 10 Nov 2026 18:43:04 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T23:58:17.066844+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Arrests made after visit from former US President Biden",
+    "published": "Tue, 10 Nov 2026 18:07:56 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T23:58:17.066874+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Israel's new parliament sworn in as leaders compete to form government",
     "published": "Tue, 10 Nov 2026 17:03:16 GMT",
     "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
@@ -8288,37 +8321,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-10-05T21:59:49.734621+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Spain PM pins hopes on housing crisis to help win snap election",
-    "published": "Mon, 05 Oct 2026 19:30:50 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-05T21:59:49.734690+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
-    "published": "Mon, 05 Oct 2026 17:49:59 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "military",
-      "offensive"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-05T21:59:49.734923+00:00"
   }
 ]
