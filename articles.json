@@ -1,6 +1,142 @@
 [
   {
     "source": "BBC World",
+    "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+    "published": "Tue, 10 Nov 2026 08:39:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "soldiers",
+      "army",
+      "war"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-10T11:39:45.390866+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
+    "published": "Tue, 10 Nov 2026 11:23:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "military",
+      "soldiers"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T11:39:45.390953+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+    "published": "Tue, 10 Nov 2026 05:22:39 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T11:39:45.391025+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: Man smashes Chinese government building with excavator",
+    "published": "Tue, 10 Nov 2026 09:37:15 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T11:39:45.391186+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
+    "published": "Tue, 10 Nov 2026 05:38:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T11:39:45.391283+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Biden says Trump should carry weight of US Capitol riot 'to his grave' in new book",
+    "published": "Mon, 09 Nov 2026 20:53:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0yqwz925o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T11:39:45.463825+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Moment Republican Congressman introduces articles of impeachment against Pete Hegseth",
+    "published": "Mon, 09 Nov 2026 20:06:40 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cje3635ny101o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T11:39:45.463905+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Disruption warning amid huge security operation in Dublin for EU meetings",
+    "published": "Tue, 10 Nov 2026 06:26:46 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cxdd8vvll870o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-10T11:39:45.594470+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
     "published": "Tue, 10 Nov 2026 01:44:53 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
@@ -8175,139 +8311,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-05T06:19:31.191958+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-    "published": "Mon, 05 Oct 2026 06:15:29 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-05T06:19:31.191983+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
-    "published": "Sun, 04 Oct 2026 21:11:49 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-04T21:50:54.958832+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-    "published": "Sun, 04 Oct 2026 14:25:32 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "strike",
-      "strikes"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-04T18:24:55.388401+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-    "published": "Sun, 04 Oct 2026 16:51:30 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war",
-      "strike",
-      "strikes"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-04T18:24:55.388434+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US Marine arrested over murder of woman in Okinawa, Japan",
-    "published": "Sun, 04 Oct 2026 14:36:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-04T18:24:55.388500+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Indian police accused of sexual harassment against journalists at protest",
-    "published": "Sun, 04 Oct 2026 17:01:19 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "India"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-04T18:24:55.388534+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-    "published": "Sun, 04 Oct 2026 12:09:04 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "drone",
-      "attack"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-04T14:44:19.734686+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-    "published": "Sun, 04 Oct 2026 13:33:05 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-04T14:44:19.734736+00:00"
   }
 ]
