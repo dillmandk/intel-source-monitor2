@@ -1,6 +1,108 @@
 [
   {
     "source": "BBC World",
+    "title": "Clashes erupt in Barcelona as thousands join Spain general strike",
+    "published": "Wed, 11 Nov 2026 20:52:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "strike"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T21:23:00.528764+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+    "published": "Wed, 11 Nov 2026 18:04:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T21:23:00.528802+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+    "published": "Wed, 11 Nov 2026 16:45:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T21:23:00.528829+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+    "published": "Wed, 11 Nov 2026 16:38:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T21:23:00.528865+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "African writing award probe finds 'no evidence' winning story was AI generated",
+    "published": "Wed, 11 Nov 2026 20:00:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T21:23:00.528959+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump says 'we won' Iran war during Veterans Day service",
+    "published": "Wed, 11 Nov 2026 19:30:48 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cke89dqmlp2eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T21:23:00.570664+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
     "published": "Wed, 11 Nov 2026 13:24:29 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
@@ -8215,100 +8317,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-10-07T13:49:03.537360+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-    "published": "Wed, 07 Oct 2026 05:02:18 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "terrorism"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks",
-      "hostage"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-07T06:28:06.557959+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "The Republican candidates walking a Trump tightrope",
-    "published": "Wed, 07 Oct 2026 05:00:21 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-07T06:28:06.558203+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Japanese city accused of inflating census as country's population shrinks",
-    "published": "Wed, 07 Oct 2026 03:57:54 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwg7xgpv7v17o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-07T06:28:07.191177+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "What the Paramount and Warner Bros deal means for you",
-    "published": "Tue, 06 Oct 2026 21:27:59 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cq70p4llze5jo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-07T00:33:24.654959+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Ex-US spy found with $40m in gold bars pleads guilty to wire fraud",
-    "published": "Tue, 06 Oct 2026 19:53:45 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-06T20:54:26.762968+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "US resident arrested in connection with deadly British Columbia school shooting",
-    "published": "Tue, 06 Oct 2026 19:49:17 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw1m4l3jrxlgo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "United Kingdom"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-06T20:54:26.762999+00:00"
   }
 ]
