@@ -1,6 +1,127 @@
 [
   {
     "source": "BBC World",
+    "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+    "published": "Wed, 11 Nov 2026 01:01:20 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T05:57:20.746619+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "US Army soldier suspected of spying for Russia arrested in UK",
+    "published": "Tue, 10 Nov 2026 20:20:04 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "army"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T05:57:20.746682+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+    "published": "Wed, 11 Nov 2026 03:26:42 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T05:57:20.746717+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+    "published": "Wed, 11 Nov 2026 00:18:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T05:57:20.746766+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+    "published": "Wed, 11 Nov 2026 02:47:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "troops",
+      "combat"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-11T05:57:20.746799+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+    "published": "Wed, 11 Nov 2026 00:19:42 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T05:57:20.747251+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+    "published": "Wed, 11 Nov 2026 00:26:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T05:57:20.747282+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
     "published": "Tue, 10 Nov 2026 18:43:04 GMT",
     "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
@@ -8203,123 +8324,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-10-06T09:07:00.451677+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-    "published": "Tue, 06 Oct 2026 09:01:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-06T09:07:00.451717+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-    "published": "Tue, 06 Oct 2026 02:22:24 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "United States"
-    ],
-    "keywords": [
-      "military",
-      "soldiers",
-      "war",
-      "attack",
-      "combat"
-    ],
-    "score": 70,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-06T09:07:00.451750+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "OpenAI admits response to Australian government hacks 'not good enough'",
-    "published": "Tue, 06 Oct 2026 06:53:17 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-06T09:07:00.451780+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Children brave snipers and mortars to go to school near Yemen front line",
-    "published": "Tue, 06 Oct 2026 07:23:24 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-06T09:07:00.451881+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
-    "published": "Tue, 06 Oct 2026 01:58:29 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-06T09:07:00.574272+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Two people killed as floods hit Spain's Catalonia region",
-    "published": "Sun, 04 Oct 2026 14:56:06 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cw8rzdkmj5n1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-06T09:07:00.715244+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-    "published": "Mon, 05 Oct 2026 15:17:23 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine",
-      "Turkey"
-    ],
-    "keywords": [
-      "attack",
-      "strike"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-05T21:59:49.734621+00:00"
   }
 ]
