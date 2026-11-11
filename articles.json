@@ -1,6 +1,136 @@
 [
   {
     "source": "BBC World",
+    "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+    "published": "Wed, 11 Nov 2026 13:24:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T14:01:42.968460+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
+    "published": "Wed, 11 Nov 2026 12:30:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T14:01:42.968493+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+    "published": "Wed, 11 Nov 2026 12:53:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T14:01:42.968580+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+    "published": "Wed, 11 Nov 2026 13:25:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T14:01:42.968642+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "US warns Madagascar over growing military ties with Russia",
+    "published": "Wed, 11 Nov 2026 07:30:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "military",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T14:01:42.968667+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
+    "published": "Wed, 11 Nov 2026 09:28:36 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "drone",
+      "strike"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-11T14:01:42.968712+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Watch: BBC talks to Mississippi voters awaiting Senate result",
+    "published": "Wed, 11 Nov 2026 13:03:05 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/crvg2xex290no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T14:01:43.159657+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Analysis: Hegseth fights for his political life with appeal to Trump",
+    "published": "Tue, 10 Nov 2026 17:24:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwm232mnv11do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-11T14:01:43.159782+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
     "published": "Wed, 11 Nov 2026 01:01:20 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
@@ -8180,149 +8310,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-06T20:54:26.762999+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ship sinks and crew missing after Black Sea drone attack",
-    "published": "Tue, 06 Oct 2026 11:53:21 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "drone",
-      "war",
-      "attack",
-      "attacks",
-      "strike",
-      "strikes"
-    ],
-    "score": 100,
-    "priority": "HIGH",
-    "collected_at": "2026-10-06T15:56:44.217395+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-    "published": "Tue, 06 Oct 2026 14:15:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-06T15:56:44.217438+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Indian opposition MPs detained in protest against election chief",
-    "published": "Tue, 06 Oct 2026 10:05:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "India"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-06T15:56:44.217586+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
-    "published": "Tue, 06 Oct 2026 09:48:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "drone",
-      "attack",
-      "attacks"
-    ],
-    "score": 55,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-06T15:56:44.217790+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-    "published": "Tue, 06 Oct 2026 14:37:38 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-06T15:56:44.262305+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-    "published": "Tue, 06 Oct 2026 13:00:54 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-06T15:56:44.262337+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Watch: Bin on fire at school protests on the streets of Lille",
-    "published": "Tue, 06 Oct 2026 10:22:42 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-06T15:56:44.389261+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
-    "published": "Tue, 06 Oct 2026 09:02:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-06T09:07:00.451677+00:00"
   }
 ]
