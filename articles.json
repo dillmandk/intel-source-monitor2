@@ -1,6 +1,68 @@
 [
   {
     "source": "BBC World",
+    "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+    "published": "Thu, 12 Nov 2026 00:36:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-12T02:26:35.739996+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Hegseth and team reprimanded by Army guard at solemn war memorial",
+    "published": "Wed, 11 Nov 2026 22:55:55 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "army",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-11-12T02:26:36.091224+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+    "published": "Wed, 11 Nov 2026 21:43:35 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-12T02:26:36.091440+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+    "published": "Wed, 11 Nov 2026 11:33:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-12T02:26:36.515188+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Clashes erupt in Barcelona as thousands join Spain general strike",
     "published": "Wed, 11 Nov 2026 20:52:52 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
@@ -8248,74 +8310,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-10-07T19:38:35.841377+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-    "published": "Wed, 07 Oct 2026 12:16:58 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-07T13:49:03.453715+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
-    "published": "Wed, 07 Oct 2026 13:02:17 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-07T13:49:03.453824+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-    "published": "Wed, 07 Oct 2026 11:51:52 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-07T13:49:03.453865+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Trump on Iran: 'Let them take out LA, let them take out San Diego'",
-    "published": "Tue, 06 Oct 2026 13:11:15 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c3lyl28llz10o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-07T13:49:03.537360+00:00"
   }
 ]
