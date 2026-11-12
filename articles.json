@@ -1,6 +1,29 @@
 [
   {
     "source": "BBC World",
+    "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+    "published": "Thu, 12 Nov 2026 20:09:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "drones",
+      "war",
+      "attack"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-11-12T23:47:47.763719+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
     "published": "Thu, 12 Nov 2026 16:31:12 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
@@ -8300,21 +8323,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-08T12:16:12.005357+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-    "published": "Thu, 08 Oct 2026 03:02:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T05:43:03.171000+00:00"
   }
 ]
