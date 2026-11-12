@@ -1,6 +1,28 @@
 [
   {
     "source": "BBC World",
+    "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+    "published": "Thu, 12 Nov 2026 09:43:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "missile",
+      "war",
+      "strike"
+    ],
+    "score": 65,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-12T10:10:34.413459+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
     "published": "Thu, 12 Nov 2026 00:36:11 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
@@ -8294,21 +8316,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-10-07T19:38:35.623910+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Xbox bets on Gears of War in battle of gaming giants",
-    "published": "Wed, 07 Oct 2026 10:43:24 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c50mezp822peo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-07T19:38:35.841377+00:00"
   }
 ]
