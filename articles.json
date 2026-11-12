@@ -1,6 +1,97 @@
 [
   {
     "source": "BBC World",
+    "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+    "published": "Thu, 12 Nov 2026 16:31:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-12T18:25:14.639419+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+    "published": "Thu, 12 Nov 2026 13:02:46 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "missile",
+      "drone",
+      "strike"
+    ],
+    "score": 65,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-12T18:25:14.639467+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+    "published": "Thu, 12 Nov 2026 15:18:20 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-12T18:25:14.639555+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+    "published": "Thu, 12 Nov 2026 13:58:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "strike"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-12T18:25:14.639637+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "British woman missing from cruise ship in Atlantic",
+    "published": "Thu, 12 Nov 2026 10:13:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "United Kingdom"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-12T18:25:14.639664+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
     "published": "Thu, 12 Nov 2026 09:43:11 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
@@ -8225,96 +8316,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-10-08T05:43:03.171000+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
-    "published": "Wed, 07 Oct 2026 22:50:00 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "United States"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T05:43:03.171137+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-    "published": "Thu, 08 Oct 2026 03:32:35 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T05:43:03.171171+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-    "published": "Wed, 07 Oct 2026 20:27:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "war",
-      "attack"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-07T23:50:57.937753+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-    "published": "Wed, 07 Oct 2026 23:18:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-07T23:50:58.115767+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Israelis demand accountability over 7 October failures three years after attacks",
-    "published": "Wed, 07 Oct 2026 16:00:18 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Israel"
-    ],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-07T19:38:35.623910+00:00"
   }
 ]
