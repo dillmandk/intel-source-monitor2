@@ -1,5 +1,58 @@
 [
   {
+    "source": "BBC US & Canada",
+    "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+    "published": "Fri, 13 Nov 2026 23:40:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "tank"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-13T23:57:12.625237+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+    "published": "Fri, 13 Nov 2026 22:12:33 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [
+      "military",
+      "air force",
+      "drone",
+      "drones"
+    ],
+    "score": 65,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-13T23:57:12.625303+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "What could El Niño mean for winter weather in the US and Canada?",
+    "published": "Fri, 13 Nov 2026 18:50:15 GMT",
+    "link": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-13T23:57:12.625403+00:00"
+  },
+  {
     "source": "BBC World",
     "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
     "published": "Fri, 13 Nov 2026 11:43:27 GMT",
@@ -8266,55 +8319,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-08T23:42:27.787469+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-    "published": "Thu, 08 Oct 2026 23:35:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T23:42:27.787514+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-    "published": "Thu, 08 Oct 2026 19:10:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T23:42:27.787587+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-    "published": "Thu, 08 Oct 2026 12:01:55 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Israel",
-      "United Kingdom"
-    ],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T23:42:27.788075+00:00"
   }
 ]
