@@ -1,6 +1,107 @@
 [
   {
     "source": "BBC World",
+    "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+    "published": "Fri, 13 Nov 2026 11:43:27 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-13T18:47:00.646285+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+    "published": "Fri, 13 Nov 2026 15:40:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-13T18:47:00.646350+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+    "published": "Fri, 13 Nov 2026 15:42:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "terrorism"
+    ],
+    "locations": [],
+    "keywords": [
+      "combat",
+      "terrorism"
+    ],
+    "score": 45,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-13T18:47:00.646380+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Rosalía scoops historic third best album award at Latin Grammys",
+    "published": "Fri, 13 Nov 2026 11:38:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-13T18:47:00.646435+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "The polar vortex just broke a new record but experts aren't sure what it means for this winter's weather",
+    "published": "Fri, 13 Nov 2026 16:42:18 GMT",
+    "link": "https://www.bbc.co.uk/weather/articles/cwdd8dl7830go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-13T18:47:00.841655+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Russia hit by second car bomb in as many days as peace talks continue",
+    "published": "Fri, 13 Nov 2026 13:11:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-13T18:47:01.132132+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Watch: How Microsoft services went down around the world",
     "published": "Fri, 13 Nov 2026 07:18:17 GMT",
     "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
@@ -8215,112 +8316,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-08T23:42:27.788075+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
-    "published": "Thu, 08 Oct 2026 14:10:58 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T18:55:02.232957+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-    "published": "Thu, 08 Oct 2026 05:06:09 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "war",
-      "strike",
-      "strikes"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-08T18:55:02.233301+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
-    "published": "Thu, 08 Oct 2026 12:06:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "attack",
-      "attacks",
-      "strike"
-    ],
-    "score": 55,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-08T12:16:11.840432+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-    "published": "Thu, 08 Oct 2026 08:18:36 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T12:16:11.840494+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Italy overhauls electoral system after fiercely contested debate",
-    "published": "Thu, 08 Oct 2026 12:02:04 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T12:16:11.840538+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-    "published": "Thu, 08 Oct 2026 12:11:31 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "tank"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T12:16:11.840571+00:00"
   }
 ]
