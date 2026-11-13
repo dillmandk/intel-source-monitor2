@@ -1,6 +1,77 @@
 [
   {
     "source": "BBC World",
+    "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+    "published": "Fri, 13 Nov 2026 02:01:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-13T03:41:42.713197+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+    "published": "Fri, 13 Nov 2026 02:48:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "cyber"
+    ],
+    "locations": [
+      "North Korea"
+    ],
+    "keywords": [
+      "hacker",
+      "hackers"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-11-13T03:41:42.713266+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+    "published": "Thu, 12 Nov 2026 23:42:52 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-13T03:41:42.713939+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+    "published": "Fri, 13 Nov 2026 00:20:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "army",
+      "war",
+      "fighting"
+    ],
+    "score": 45,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-13T03:41:42.714118+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
     "published": "Thu, 12 Nov 2026 20:09:16 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
@@ -8257,71 +8328,5 @@
     "score": 30,
     "priority": "LOW",
     "collected_at": "2026-10-08T12:16:11.840631+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Bear kills man in home attack near Mongolian capital",
-    "published": "Thu, 08 Oct 2026 11:52:59 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckvg79wz9v2yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T12:16:11.840682+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
-    "published": "Wed, 07 Oct 2026 18:40:52 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "troops",
-      "soldiers"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T12:16:11.840790+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
-    "published": "Thu, 08 Oct 2026 05:10:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T12:16:11.840822+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Caretaker killed and two teachers injured in knife attack at Poland school",
-    "published": "Thu, 08 Oct 2026 11:33:19 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq2e9xjv0jm2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T12:16:12.005357+00:00"
   }
 ]
