@@ -1,6 +1,22 @@
 [
   {
     "source": "BBC World",
+    "title": "Watch: How Microsoft services went down around the world",
+    "published": "Fri, 13 Nov 2026 07:18:17 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-13T11:38:09.941325+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
     "published": "Fri, 13 Nov 2026 02:01:35 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
@@ -8306,27 +8322,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-08T12:16:11.840571+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-    "published": "Thu, 08 Oct 2026 09:56:02 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Ukraine",
-      "North Korea",
-      "South Korea"
-    ],
-    "keywords": [
-      "war",
-      "diplomatic"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T12:16:11.840631+00:00"
   }
 ]
