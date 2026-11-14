@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC World",
+    "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+    "published": "Sat, 14 Nov 2026 17:16:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-14T18:49:53.335107+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
     "published": "Sat, 14 Nov 2026 11:41:20 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
@@ -8288,21 +8302,5 @@
     "score": 75,
     "priority": "HIGH",
     "collected_at": "2026-10-09T21:46:32.108711+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US imposes sanctions on International Criminal Court",
-    "published": "Fri, 09 Oct 2026 16:06:59 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-09T17:11:07.324309+00:00"
   }
 ]
