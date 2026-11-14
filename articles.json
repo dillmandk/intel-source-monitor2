@@ -1,6 +1,76 @@
 [
   {
     "source": "BBC World",
+    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "published": "Sat, 14 Nov 2026 11:41:20 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine",
+      "NATO"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-14T13:27:21.171650+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+    "published": "Sat, 14 Nov 2026 10:42:20 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-14T13:27:21.171739+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Estonia bans Russian athletes as backlash intensifies",
+    "published": "Fri, 13 Nov 2026 17:54:33 GMT",
+    "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-14T13:27:21.171813+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+    "published": "Sat, 14 Nov 2026 11:30:10 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "tank"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-14T13:27:21.171951+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "What we know about the longest ground stop since 9/11",
     "published": "Sat, 14 Nov 2026 03:45:21 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
@@ -8234,82 +8304,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-09T17:11:07.324309+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-    "published": "Fri, 09 Oct 2026 15:24:43 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "troops",
-      "soldiers",
-      "drone",
-      "war",
-      "strike",
-      "strikes"
-    ],
-    "score": 100,
-    "priority": "HIGH",
-    "collected_at": "2026-10-09T17:11:07.324377+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Anthropic bans users from being 'cruel' to its AI systems",
-    "published": "Fri, 09 Oct 2026 12:34:27 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-09T17:11:07.393463+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Hurricane Isaias strengthens as it heads towards land",
-    "published": "Fri, 09 Oct 2026 14:23:57 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-09T17:11:07.393498+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-    "published": "Fri, 09 Oct 2026 10:07:04 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "missile",
-      "attack",
-      "attacks",
-      "fighting"
-    ],
-    "score": 75,
-    "priority": "HIGH",
-    "collected_at": "2026-10-09T10:36:28.073300+00:00"
   }
 ]
