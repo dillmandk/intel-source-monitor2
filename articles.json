@@ -1,5 +1,73 @@
 [
   {
+    "source": "BBC World",
+    "title": "What we know about the longest ground stop since 9/11",
+    "published": "Sat, 14 Nov 2026 03:45:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-14T06:05:16.130411+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+    "published": "Sat, 14 Nov 2026 05:52:31 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [
+      "weapon",
+      "weapons"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-11-14T06:05:16.130471+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+    "published": "Sat, 14 Nov 2026 00:03:56 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-14T06:05:16.130831+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+    "published": "Sat, 14 Nov 2026 00:03:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-14T06:05:16.130868+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
     "published": "Fri, 13 Nov 2026 23:40:45 GMT",
@@ -8243,81 +8311,5 @@
     "score": 75,
     "priority": "HIGH",
     "collected_at": "2026-10-09T10:36:28.073300+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-    "published": "Fri, 09 Oct 2026 04:53:50 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "strike",
-      "strikes"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-09T10:36:28.073358+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: Fleeing Kyiv for the countryside ahead of winter",
-    "published": "Fri, 09 Oct 2026 10:00:49 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-09T10:36:28.073774+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
-    "published": "Thu, 08 Oct 2026 22:26:10 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-09T10:36:28.073816+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
-    "published": "Thu, 08 Oct 2026 23:11:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-08T23:42:27.787469+00:00"
   }
 ]
