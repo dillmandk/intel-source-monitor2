@@ -1,5 +1,19 @@
 [
   {
+    "source": "BBC World",
+    "title": "Judo champion shakes up French  presidential race with surprise candidacy",
+    "published": "Sun, 15 Nov 2026 00:06:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-15T02:17:50.379309+00:00"
+  },
+  {
     "source": "BBC US & Canada",
     "title": "New Orleans port sues tanker owners over cruise ship collision for $1m",
     "published": "Sat, 14 Nov 2026 22:27:06 GMT",
@@ -8280,21 +8294,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-10-09T21:46:32.108649+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-    "published": "Fri, 09 Oct 2026 21:26:30 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-09T21:46:32.108678+00:00"
   }
 ]
