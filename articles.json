@@ -1,6 +1,43 @@
 [
   {
     "source": "BBC World",
+    "title": "Iran targets US military base in Bahrain with drone attack",
+    "published": "Sun, 15 Nov 2026 13:42:58 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "military",
+      "drone",
+      "attack"
+    ],
+    "score": 45,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-15T16:37:06.542921+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+    "published": "Sun, 15 Nov 2026 11:06:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-15T16:37:06.542973+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
     "published": "Sun, 15 Nov 2026 03:21:04 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
@@ -8255,40 +8292,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-10T13:56:32.858968+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-    "published": "Sat, 10 Oct 2026 04:34:55 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "terrorism"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [
-      "war",
-      "attack",
-      "terrorism"
-    ],
-    "score": 65,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-10T07:23:37.955640+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-    "published": "Sat, 10 Oct 2026 04:07:11 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-10T07:23:37.955701+00:00"
   }
 ]
