@@ -1,6 +1,55 @@
 [
   {
     "source": "BBC World",
+    "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+    "published": "Sun, 15 Nov 2026 03:21:04 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-15T09:38:17.556284+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+    "published": "Sun, 15 Nov 2026 09:26:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-15T09:38:17.556323+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+    "published": "Sun, 15 Nov 2026 08:17:41 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "strike"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-15T09:38:17.556351+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Judo champion shakes up French  presidential race with surprise candidacy",
     "published": "Sun, 15 Nov 2026 00:06:51 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
@@ -8241,58 +8290,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-10T07:23:37.955701+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-    "published": "Fri, 09 Oct 2026 22:30:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "United States",
-      "Russia"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-10T01:19:36.070068+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-    "published": "Fri, 09 Oct 2026 21:16:49 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-09T21:46:32.108550+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-    "published": "Fri, 09 Oct 2026 20:42:11 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-09T21:46:32.108649+00:00"
   }
 ]
