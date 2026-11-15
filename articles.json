@@ -1,6 +1,57 @@
 [
   {
     "source": "BBC World",
+    "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+    "published": "Sun, 15 Nov 2026 19:32:39 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-15T21:18:10.108743+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Czechs rally against plan to switch funding of public media",
+    "published": "Sun, 15 Nov 2026 21:03:40 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-15T21:18:10.108810+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+    "published": "Sun, 15 Nov 2026 16:15:20 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "strike"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-15T21:18:10.108880+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Iran targets US military base in Bahrain with drone attack",
     "published": "Sun, 15 Nov 2026 13:42:58 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
@@ -8239,58 +8290,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-10-10T18:25:48.108073+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-    "published": "Sat, 10 Oct 2026 15:23:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-10T18:25:48.108103+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-    "published": "Sat, 10 Oct 2026 14:49:32 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "military",
-      "drone",
-      "strike"
-    ],
-    "score": 50,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-10T18:25:48.108156+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-    "published": "Sat, 10 Oct 2026 11:17:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-10T13:56:32.858968+00:00"
   }
 ]
