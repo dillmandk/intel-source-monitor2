@@ -1,6 +1,67 @@
 [
   {
     "source": "BBC World",
+    "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+    "published": "Mon, 16 Nov 2026 14:58:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "drones",
+      "war",
+      "attack"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-11-16T18:28:47.141141+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+    "published": "Mon, 16 Nov 2026 14:22:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "drone",
+      "attack"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-16T18:28:47.141205+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "How Mississippi's new senator won in Trump's heartland - and what he will do next",
+    "published": "Sat, 14 Nov 2026 22:17:13 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/crpdwve24398o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "United States",
+      "NATO"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-16T18:28:47.293373+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
     "published": "Mon, 16 Nov 2026 07:23:23 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
@@ -8232,61 +8293,5 @@
     "score": 55,
     "priority": "MEDIUM",
     "collected_at": "2026-10-11T18:27:34.626141+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Poland detains man suspected of planning assassination of PM Tusk",
-    "published": "Sun, 11 Oct 2026 17:27:24 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-11T18:27:34.626225+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-    "published": "Sun, 11 Oct 2026 15:18:52 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-11T18:27:34.626271+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ukraine strikes Russian data centre again despite Trump warning",
-    "published": "Sun, 11 Oct 2026 12:50:46 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "war",
-      "strike",
-      "strikes"
-    ],
-    "score": 60,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-11T13:35:08.526009+00:00"
   }
 ]
