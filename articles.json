@@ -1,6 +1,60 @@
 [
   {
     "source": "BBC World",
+    "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+    "published": "Sun, 15 Nov 2026 22:57:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "tank"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-16T01:10:54.891344+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Canada bars Russia from Junior World Championships",
+    "published": "Sun, 15 Nov 2026 22:01:16 GMT",
+    "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-16T01:10:54.957523+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Is India rethinking its short-term military recruitment scheme?",
+    "published": "Mon, 16 Nov 2026 00:41:42 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [
+      "military",
+      "soldiers"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-16T01:10:55.066933+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
     "published": "Sun, 15 Nov 2026 19:32:39 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
@@ -8239,56 +8293,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-10-10T18:25:48.107875+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Several injured in attack on airport in Saudi capital Riyadh",
-    "published": "Sat, 10 Oct 2026 16:56:32 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war",
-      "attack",
-      "attacks"
-    ],
-    "score": 55,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-10T18:25:48.107990+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-    "published": "Sat, 10 Oct 2026 12:29:31 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "India"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-10T18:25:48.108041+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Woman injures three people in third Poland school knife attack in a week",
-    "published": "Sat, 10 Oct 2026 14:58:55 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-10T18:25:48.108073+00:00"
   }
 ]
