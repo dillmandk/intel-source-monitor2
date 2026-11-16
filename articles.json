@@ -1,6 +1,72 @@
 [
   {
     "source": "BBC World",
+    "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+    "published": "Mon, 16 Nov 2026 07:23:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "troops"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-16T08:04:19.541651+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+    "published": "Mon, 16 Nov 2026 03:09:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-16T08:04:19.541741+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
+    "published": "Sun, 15 Nov 2026 22:00:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-16T08:04:19.541787+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+    "published": "Mon, 16 Nov 2026 05:06:59 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-16T08:04:19.541844+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
     "published": "Sun, 15 Nov 2026 22:57:27 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
@@ -8222,76 +8288,5 @@
     "score": 60,
     "priority": "MEDIUM",
     "collected_at": "2026-10-11T13:35:08.526009+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Riyadh airport attack another dangerous moment in already tense conflict",
-    "published": "Sun, 11 Oct 2026 11:32:50 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-11T13:35:08.526433+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-    "published": "Sat, 10 Oct 2026 22:13:08 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "army",
-      "war"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-10-11T00:49:52.861982+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
-    "published": "Sat, 10 Oct 2026 19:25:03 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-10T21:56:53.048518+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-    "published": "Sat, 10 Oct 2026 18:24:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-10T18:25:48.107875+00:00"
   }
 ]
