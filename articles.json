@@ -1,6 +1,199 @@
 [
   {
     "source": "BBC World",
+    "title": "How the attack on Crimean Bridge unfolded",
+    "published": "Tue, 17 Nov 2026 15:38:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T19:25:44.302508+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+    "published": "Tue, 17 Nov 2026 12:54:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "China"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T19:25:44.302549+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+    "published": "Tue, 17 Nov 2026 15:36:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "military",
+      "attack"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T19:25:44.302589+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+    "published": "Tue, 17 Nov 2026 17:19:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-17T19:25:44.302619+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+    "published": "Tue, 17 Nov 2026 11:17:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T19:25:44.302657+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+    "published": "Tue, 17 Nov 2026 17:37:04 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T19:25:44.302701+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "UK sanctions firms over Israeli West Bank settlements",
+    "published": "Tue, 17 Nov 2026 18:27:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T19:25:44.302727+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "BBC reports from Kyiv bridge hit by Russian attack",
+    "published": "Tue, 17 Nov 2026 15:54:15 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "attack",
+      "strike"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T19:25:44.302772+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Who to watch in Spain's election race",
+    "published": "Tue, 17 Nov 2026 18:13:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T19:25:44.655371+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Why always him? The rise and fall of Balotelli",
+    "published": "Tue, 17 Nov 2026 06:15:43 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "strike"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T19:25:44.655537+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
+    "published": "Tue, 17 Nov 2026 10:32:07 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T19:25:44.655561+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Crimean Bridge badly damaged as Zelensky hails 'unprecedented' attack by Ukraine",
     "published": "Tue, 17 Nov 2026 10:34:29 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
@@ -8116,181 +8309,5 @@
     "score": 45,
     "priority": "MEDIUM",
     "collected_at": "2026-10-13T07:02:49.851689+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
-    "published": "Tue, 13 Oct 2026 05:02:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iraq"
-    ],
-    "keywords": [
-      "fighting"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T07:02:49.852225+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Where the US midterm elections will be won and lost",
-    "published": "Tue, 13 Oct 2026 05:02:44 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T07:02:49.852266+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
-    "published": "Tue, 13 Oct 2026 04:27:22 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T07:02:49.852387+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Why the prime minister wants to talk about Brexit again",
-    "published": "Tue, 13 Oct 2026 01:27:59 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T07:02:49.980663+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "India 'cockroach' leaders detained after entering barricaded protest site",
-    "published": "Tue, 13 Oct 2026 06:58:20 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "India"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T07:02:50.040993+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
-    "published": "Mon, 12 Oct 2026 21:07:25 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T00:29:17.162299+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Trump says Kimberly Guilfoyle could be fired as Greece envoy after alleged misconduct",
-    "published": "Tue, 13 Oct 2026 00:10:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cjkgedexp6zgo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T00:29:17.211899+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-    "published": "Mon, 12 Oct 2026 17:32:13 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "strike",
-      "strikes"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-12T17:52:03.965404+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-    "published": "Mon, 12 Oct 2026 14:00:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-12T17:52:03.965463+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Fridges in French supermarkets hit by cyber attack",
-    "published": "Mon, 12 Oct 2026 16:17:59 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "cyber"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "cyber attack"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-12T17:52:03.965513+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US detains man accused in multi-billion Venezuelan money laundering scheme",
-    "published": "Mon, 12 Oct 2026 13:49:05 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-12T17:52:03.965552+00:00"
   }
 ]
