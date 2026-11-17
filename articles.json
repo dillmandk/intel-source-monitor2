@@ -1,5 +1,141 @@
 [
   {
+    "source": "BBC World",
+    "title": "Crimean Bridge badly damaged as Zelensky hails 'unprecedented' attack by Ukraine",
+    "published": "Tue, 17 Nov 2026 10:34:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T10:40:22.671078+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+    "published": "Tue, 17 Nov 2026 05:59:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "strike",
+      "strikes"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-17T10:40:22.671128+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Japan sends up jets after alleged Russian incursion of its airspace",
+    "published": "Tue, 17 Nov 2026 07:44:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Russia",
+      "South Korea",
+      "Taiwan"
+    ],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T10:40:22.671216+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+    "published": "Tue, 17 Nov 2026 09:20:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T10:40:22.671245+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "OpenAI sued by California over Hugging Face attack",
+    "published": "Mon, 16 Nov 2026 23:12:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T10:40:22.671267+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Will President Trump meet Kim Jong Un?",
+    "published": "Tue, 17 Nov 2026 10:13:27 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "China",
+      "North Korea"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T10:40:22.671314+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Customers report service outages at major US banks",
+    "published": "Tue, 17 Nov 2026 00:18:01 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T10:40:22.723606+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+    "published": "Tue, 17 Nov 2026 03:07:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-17T10:40:22.723653+00:00"
+  },
+  {
     "source": "BBC Asia",
     "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
     "published": "Tue, 17 Nov 2026 01:26:01 GMT",
@@ -8156,140 +8292,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-10-12T17:52:03.965552+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Why the US is bringing back firing squads",
-    "published": "Mon, 12 Oct 2026 14:56:43 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "army"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-12T17:52:03.965764+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Why is it so hard to fight the Houthis?",
-    "published": "Mon, 12 Oct 2026 12:15:01 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "strike",
-      "strikes"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-12T17:52:03.965891+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-    "published": "Mon, 12 Oct 2026 09:38:03 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "missile",
-      "strike"
-    ],
-    "score": 45,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-12T17:52:03.965914+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump faces growing backlash over plans to import diesel from Russia",
-    "published": "Sun, 11 Oct 2026 23:18:45 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-12T08:03:09.289078+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
-    "published": "Sun, 11 Oct 2026 23:13:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "United States"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-12T08:03:09.289164+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Indian opposition leaders to march to top court to demand election chief resign",
-    "published": "Mon, 12 Oct 2026 06:42:35 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "India"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-12T08:03:09.695679+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-    "published": "Sun, 11 Oct 2026 21:12:44 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "strike",
-      "strikes"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-11T22:23:45.348890+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: What's behind Trump's energy ceasefire claim?",
-    "published": "Sun, 11 Oct 2026 20:55:02 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-11T22:23:45.349232+00:00"
   }
 ]
