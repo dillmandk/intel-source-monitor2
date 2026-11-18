@@ -1,6 +1,58 @@
 [
   {
     "source": "BBC World",
+    "title": "Russian military plane crashes, killing all 19 on board",
+    "published": "Tue, 17 Nov 2026 21:06:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-18T01:50:01.303312+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+    "published": "Tue, 17 Nov 2026 22:46:30 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-18T01:50:01.303374+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+    "published": "Tue, 17 Nov 2026 18:20:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-18T01:50:01.303399+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "How the attack on Crimean Bridge unfolded",
     "published": "Tue, 17 Nov 2026 15:38:10 GMT",
     "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
@@ -8254,60 +8306,5 @@
     "score": 25,
     "priority": "LOW",
     "collected_at": "2026-10-13T15:01:28.391031+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Drones could fly deliveries from France to Alderney",
-    "published": "Tue, 13 Oct 2026 12:16:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cj75pd4n0e94o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "drone",
-      "drones"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-13T15:01:28.391057+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Eight injured in South Korea knife attack",
-    "published": "Tue, 13 Oct 2026 11:49:32 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cme8r2znl66lo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "South Korea"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T15:01:28.592629+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-    "published": "Tue, 13 Oct 2026 05:02:34 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "war",
-      "offensive"
-    ],
-    "score": 45,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-13T07:02:49.851689+00:00"
   }
 ]
