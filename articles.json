@@ -1,6 +1,144 @@
 [
   {
     "source": "BBC World",
+    "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+    "published": "Wed, 18 Nov 2026 17:00:40 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "drones",
+      "war",
+      "fighting"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-11-18T18:23:54.703742+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+    "published": "Wed, 18 Nov 2026 17:00:04 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "troops",
+      "drone",
+      "drones",
+      "fighting"
+    ],
+    "score": 70,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-18T18:23:54.703780+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+    "published": "Wed, 18 Nov 2026 13:04:48 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "attack",
+      "strike",
+      "strikes"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-18T18:23:54.703837+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+    "published": "Wed, 18 Nov 2026 09:28:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "cyber"
+    ],
+    "locations": [
+      "United Kingdom"
+    ],
+    "keywords": [
+      "hacker"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-18T18:23:54.703980+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Irishman charged with destroying US military aircraft with axe",
+    "published": "Wed, 18 Nov 2026 02:00:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-11-18T18:23:54.704110+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+    "published": "Wed, 18 Nov 2026 10:53:21 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine",
+      "China"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-18T18:23:54.704348+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Why Carney is looking to China as Canada's car industry comes under US pressure",
+    "published": "Wed, 18 Nov 2026 14:35:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-18T18:23:54.756298+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Rubio says US not 'under systemic attack' after series of tech outages",
     "published": "Wed, 18 Nov 2026 04:57:06 GMT",
     "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
@@ -8164,134 +8302,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-10-13T23:57:02.774636+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Zimbabwean author denies using AI to write award-winning story",
-    "published": "Tue, 13 Oct 2026 23:31:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T23:57:02.774763+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-    "published": "Tue, 13 Oct 2026 22:14:33 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "missile",
-      "war",
-      "strike",
-      "strikes"
-    ],
-    "score": 85,
-    "priority": "HIGH",
-    "collected_at": "2026-10-13T23:57:02.774800+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
-    "published": "Tue, 13 Oct 2026 22:02:09 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "China"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T23:57:02.774873+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-    "published": "Tue, 13 Oct 2026 22:07:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Pakistan"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T23:57:02.774912+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident",
-    "published": "Tue, 13 Oct 2026 22:59:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T23:57:02.990015+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-    "published": "Tue, 13 Oct 2026 20:02:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "missile",
-      "missiles",
-      "fighting"
-    ],
-    "score": 65,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-13T20:39:41.864089+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-    "published": "Tue, 13 Oct 2026 14:51:59 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "drone",
-      "attack"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T15:01:27.970041+00:00"
   }
 ]
