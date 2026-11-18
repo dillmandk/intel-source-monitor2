@@ -1,6 +1,85 @@
 [
   {
     "source": "BBC World",
+    "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+    "published": "Wed, 18 Nov 2026 04:57:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-18T09:31:31.908557+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+    "published": "Wed, 18 Nov 2026 07:00:25 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-18T09:31:31.908600+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ghana's new $60m presidential jet sparks public outrage",
+    "published": "Wed, 18 Nov 2026 09:27:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-18T09:31:31.908732+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+    "published": "Wed, 18 Nov 2026 02:29:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Iran",
+      "Pakistan"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-18T09:31:31.958629+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
+    "published": "Wed, 18 Nov 2026 00:39:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "United Kingdom"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-18T09:31:32.021644+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russian military plane crashes, killing all 19 on board",
     "published": "Tue, 17 Nov 2026 21:06:11 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
@@ -8214,97 +8293,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-10-13T15:01:27.970041+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
-    "published": "Tue, 13 Oct 2026 13:23:45 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T15:01:27.970075+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ex-president named leader of new DR Congo rebel coalition",
-    "published": "Tue, 13 Oct 2026 13:40:45 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T15:01:27.970119+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-    "published": "Tue, 13 Oct 2026 13:27:31 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "attack",
-      "attacks",
-      "strike",
-      "strikes"
-    ],
-    "score": 75,
-    "priority": "HIGH",
-    "collected_at": "2026-10-13T15:01:27.970275+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-    "published": "Tue, 13 Oct 2026 12:52:12 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Iran"
-    ],
-    "keywords": [
-      "drone",
-      "drones",
-      "weapon",
-      "weapons",
-      "war"
-    ],
-    "score": 90,
-    "priority": "HIGH",
-    "collected_at": "2026-10-13T15:01:28.390959+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Ronaldo scores after match delayed by missile alert",
-    "published": "Tue, 13 Oct 2026 09:23:28 GMT",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "missile"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T15:01:28.391031+00:00"
   }
 ]
