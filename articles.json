@@ -1,6 +1,59 @@
 [
   {
     "source": "BBC World",
+    "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+    "published": "Thu, 19 Nov 2026 04:42:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [
+      "diplomatic"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-19T08:00:28.405892+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Crimean Bridge attacked again, Russia says",
+    "published": "Thu, 19 Nov 2026 07:32:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-19T08:00:28.405992+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Trump says he and Putin have a 'great relationship' at meeting",
+    "published": "Thu, 19 Nov 2026 06:52:54 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cm4gn31yn0x9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "China"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-19T08:00:28.985793+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
     "published": "Wed, 18 Nov 2026 22:34:56 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
@@ -8246,61 +8299,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-14T14:43:47.216182+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
-    "published": "Wed, 14 Oct 2026 09:42:08 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "strike",
-      "strikes"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-14T09:47:42.694568+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "What we know about Russia's overnight strikes on Ukraine",
-    "published": "Wed, 14 Oct 2026 09:25:03 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "strike",
-      "strikes"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-14T09:47:42.694977+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
-    "published": "Wed, 14 Oct 2026 06:11:08 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "diplomatic"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-14T09:47:43.401532+00:00"
   }
 ]
