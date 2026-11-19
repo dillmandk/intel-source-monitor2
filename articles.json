@@ -1,6 +1,42 @@
 [
   {
     "source": "BBC World",
+    "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+    "published": "Wed, 18 Nov 2026 22:34:56 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-19T00:40:46.364128+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
+    "published": "Wed, 18 Nov 2026 23:28:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-19T00:40:46.364160+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
     "published": "Wed, 18 Nov 2026 17:00:40 GMT",
     "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
@@ -8266,41 +8302,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-10-14T09:47:43.401532+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russia arrests Japanese journalist on alleged espionage",
-    "published": "Wed, 14 Oct 2026 04:10:49 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-14T04:41:50.263928+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-    "published": "Tue, 13 Oct 2026 23:42:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-13T23:57:02.774636+00:00"
   }
 ]
