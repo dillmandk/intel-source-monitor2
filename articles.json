@@ -1,6 +1,82 @@
 [
   {
     "source": "BBC World",
+    "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+    "published": "Thu, 19 Nov 2026 16:55:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-19T17:20:51.021538+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+    "published": "Thu, 19 Nov 2026 15:23:34 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-19T17:20:51.021584+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+    "published": "Thu, 19 Nov 2026 13:31:23 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-19T17:20:51.021627+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Florida pastor found guilty over role in assassination of Haitian president",
+    "published": "Thu, 19 Nov 2026 11:44:57 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-19T17:20:51.021741+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
+    "published": "Thu, 19 Nov 2026 11:43:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-19T17:20:51.022225+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
     "published": "Thu, 19 Nov 2026 04:42:52 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
@@ -8220,84 +8296,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-14T14:43:46.240866+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
-    "published": "Wed, 14 Oct 2026 14:18:18 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "strike"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-14T14:43:46.240947+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Mauritius reels from worst riots in decades after woman shot by police",
-    "published": "Wed, 14 Oct 2026 11:24:25 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-14T14:43:46.240978+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-    "published": "Wed, 14 Oct 2026 13:09:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-14T14:43:46.241007+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: Moment Duane Davis is sentenced to 40 years for Tupac Shakur's murder",
-    "published": "Tue, 13 Oct 2026 19:27:53 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cmp3g12en1exo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "weapon"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-14T14:43:46.531048+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-    "published": "Wed, 14 Oct 2026 13:35:29 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-14T14:43:47.216182+00:00"
   }
 ]
