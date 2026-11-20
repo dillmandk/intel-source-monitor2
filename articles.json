@@ -1,6 +1,58 @@
 [
   {
     "source": "BBC World",
+    "title": "Why Canada is embracing AI data centres while the US pushes back",
+    "published": "Fri, 20 Nov 2026 00:13:24 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "tank"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-20T04:24:08.854778+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "US army warns detonation of unstable explosives will create toxic plume",
+    "published": "Fri, 20 Nov 2026 01:27:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "army",
+      "war"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-11-20T04:24:09.119656+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+    "published": "Fri, 20 Nov 2026 04:13:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "China"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-20T04:24:09.409369+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
     "published": "Thu, 19 Nov 2026 21:21:43 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
@@ -8249,55 +8301,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-10-14T22:14:24.962301+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Why Zelensky's meeting with Burnham matters",
-    "published": "Wed, 14 Oct 2026 20:41:03 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-14T22:14:24.962431+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Burnham treads carefully with Zelensky visit, balancing Trump and Ukraine",
-    "published": "Wed, 14 Oct 2026 17:25:18 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-14T18:59:15.963321+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US inflation rises more than expected ahead of midterm elections",
-    "published": "Wed, 14 Oct 2026 13:40:36 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-14T14:43:46.240776+00:00"
   }
 ]
