@@ -1,6 +1,48 @@
 [
   {
     "source": "BBC World",
+    "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+    "published": "Fri, 20 Nov 2026 13:01:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-20T13:29:44.093936+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+    "published": "Fri, 20 Nov 2026 12:56:48 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "military",
+      "missile",
+      "war"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-20T13:29:44.093971+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Why Canada is embracing AI data centres while the US pushes back",
     "published": "Fri, 20 Nov 2026 00:13:24 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
@@ -8264,42 +8306,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-15T00:36:32.891882+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Student protesters attack government buildings in Tirana",
-    "published": "Wed, 14 Oct 2026 20:29:05 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-14T22:14:24.962001+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-    "published": "Wed, 14 Oct 2026 19:52:04 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-14T22:14:24.962301+00:00"
   }
 ]
