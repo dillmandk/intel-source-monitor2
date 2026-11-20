@@ -1,6 +1,92 @@
 [
   {
     "source": "BBC World",
+    "title": "Trump threatens ban on US firms building AI data centres overseas",
+    "published": "Fri, 20 Nov 2026 20:54:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-20T21:29:50.137865+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+    "published": "Fri, 20 Nov 2026 15:55:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-20T21:29:50.137919+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "What we know about the latest Russian missile strikes on Ukraine",
+    "published": "Fri, 20 Nov 2026 15:14:01 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "missile",
+      "strike",
+      "strikes"
+    ],
+    "score": 65,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-20T21:29:50.138009+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "'What happens in GTA 6 stays in GTA 6': Police across US warn fans about taking the game to their real lives",
+    "published": "Fri, 20 Nov 2026 16:29:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2e0e9138o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-20T21:29:50.217519+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Fake forests hiding locations in Russia",
+    "published": "Fri, 20 Nov 2026 17:20:55 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cm3wg1lzwx84o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-20T21:29:50.485977+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
     "published": "Fri, 20 Nov 2026 13:01:16 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
@@ -8219,92 +8305,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-10-15T14:59:23.015276+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Eight crew missing in tanker fire off Romania's coast",
-    "published": "Thu, 15 Oct 2026 09:44:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "drone",
-      "tank",
-      "attack"
-    ],
-    "score": 50,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-15T10:05:20.236946+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
-    "published": "Thu, 15 Oct 2026 02:26:07 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-15T05:13:16.839862+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "North Korea and China open new bridge after 12-year delay",
-    "published": "Thu, 15 Oct 2026 02:59:30 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "China",
-      "North Korea"
-    ],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-15T05:13:17.259858+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-    "published": "Wed, 14 Oct 2026 20:55:24 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "political"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [
-      "drone"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-15T00:36:32.624861+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "How backlash against data centres could shape the US midterm elections",
-    "published": "Wed, 14 Oct 2026 23:02:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-15T00:36:32.891882+00:00"
   }
 ]
