@@ -1,6 +1,24 @@
 [
   {
     "source": "BBC World",
+    "title": "Trafalgar Square Christmas tree felled in Norway",
+    "published": "Sat, 21 Nov 2026 08:10:03 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "United Kingdom"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-21T10:18:17.087352+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
     "published": "Fri, 20 Nov 2026 21:57:07 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
@@ -8287,22 +8305,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-10-15T14:59:23.014982+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Obama says drift towards extremism 'not inevitable'",
-    "published": "Thu, 15 Oct 2026 10:51:53 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-15T14:59:23.015059+00:00"
   }
 ]
