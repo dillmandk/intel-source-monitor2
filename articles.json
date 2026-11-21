@@ -1,6 +1,46 @@
 [
   {
     "source": "BBC World",
+    "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+    "published": "Sat, 21 Nov 2026 13:17:38 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike",
+      "strikes"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-11-21T17:40:30.605751+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Wes Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+    "published": "Sat, 21 Nov 2026 16:16:29 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-21T17:40:31.084007+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trafalgar Square Christmas tree felled in Norway",
     "published": "Sat, 21 Nov 2026 08:10:03 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
@@ -8271,39 +8311,5 @@
     "score": 75,
     "priority": "HIGH",
     "collected_at": "2026-10-15T14:59:23.014903+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
-    "published": "Thu, 15 Oct 2026 14:52:18 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-15T14:59:23.014950+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-    "published": "Thu, 15 Oct 2026 12:28:26 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Pakistan"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-15T14:59:23.014982+00:00"
   }
 ]
