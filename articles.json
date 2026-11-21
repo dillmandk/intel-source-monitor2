@@ -1,6 +1,37 @@
 [
   {
     "source": "BBC World",
+    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "published": "Fri, 20 Nov 2026 21:57:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-21T02:46:49.767833+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "ANC fights to keep control of South Africa's key cities after election setback",
+    "published": "Sat, 21 Nov 2026 00:34:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-21T02:46:49.768025+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "published": "Fri, 20 Nov 2026 20:54:12 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
@@ -8273,37 +8304,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-10-15T14:59:23.015059+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Brazil's Congress approves shorter working week in win for Lula",
-    "published": "Thu, 15 Oct 2026 10:05:17 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-15T14:59:23.015087+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
-    "published": "Thu, 15 Oct 2026 05:00:23 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Israel"
-    ],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-15T14:59:23.015276+00:00"
   }
 ]
