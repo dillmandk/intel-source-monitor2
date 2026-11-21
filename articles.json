@@ -1,6 +1,41 @@
 [
   {
     "source": "BBC World",
+    "title": "Russia-bound ship attacked in Gulf of Finland",
+    "published": "Sat, 21 Nov 2026 19:20:22 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "drone",
+      "attack"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-21T22:27:57.498597+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Lock of former US President George Washington's hair sells for $4,000",
+    "published": "Sat, 21 Nov 2026 22:01:19 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-21T22:27:57.498694+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
     "published": "Sat, 21 Nov 2026 13:17:38 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
@@ -8270,46 +8305,5 @@
     "score": 20,
     "priority": "LOW",
     "collected_at": "2026-10-15T19:03:37.738145+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
-    "published": "Thu, 15 Oct 2026 15:05:29 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Pakistan"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-15T19:03:37.738173+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-    "published": "Thu, 15 Oct 2026 12:03:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "attack",
-      "attacks",
-      "strike",
-      "strikes"
-    ],
-    "score": 75,
-    "priority": "HIGH",
-    "collected_at": "2026-10-15T14:59:23.014903+00:00"
   }
 ]
