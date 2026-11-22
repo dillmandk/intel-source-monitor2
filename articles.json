@@ -1,6 +1,43 @@
 [
   {
     "source": "BBC World",
+    "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+    "published": "Sun, 22 Nov 2026 17:16:47 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia"
+    ],
+    "keywords": [
+      "drone",
+      "attack"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-22T17:56:25.328003+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+    "published": "Sun, 22 Nov 2026 17:54:29 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "army"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-22T17:56:25.376807+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
     "published": "Sun, 22 Nov 2026 00:10:37 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
@@ -8263,41 +8300,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-15T22:14:21.831085+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-    "published": "Thu, 15 Oct 2026 17:18:49 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "missile",
-      "missiles",
-      "attack"
-    ],
-    "score": 65,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-15T19:03:37.737749+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
-    "published": "Thu, 15 Oct 2026 15:00:05 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "fighting"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-15T19:03:37.737844+00:00"
   }
 ]
