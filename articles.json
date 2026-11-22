@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC World",
+    "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+    "published": "Sun, 22 Nov 2026 00:10:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-22T02:36:13.045914+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russia-bound ship attacked in Gulf of Finland",
     "published": "Sat, 21 Nov 2026 19:20:22 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
@@ -8285,25 +8299,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-15T19:03:37.737844+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-    "published": "Thu, 15 Oct 2026 17:31:37 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-15T19:03:37.738145+00:00"
   }
 ]
