@@ -1,6 +1,26 @@
 [
   {
     "source": "BBC World",
+    "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+    "published": "Sun, 22 Nov 2026 22:37:43 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-22T23:31:24.229807+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
     "published": "Sun, 22 Nov 2026 17:16:47 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
@@ -8284,21 +8304,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-16T00:29:39.396071+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Letters with 'suspicious substances' sent to US senators and election offices",
-    "published": "Thu, 15 Oct 2026 21:42:26 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "NATO"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-15T22:14:21.831085+00:00"
   }
 ]
