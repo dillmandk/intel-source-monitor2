@@ -1,6 +1,40 @@
 [
   {
     "source": "BBC World",
+    "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+    "published": "Mon, 23 Nov 2026 02:37:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "attack",
+      "strike"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-23T03:59:52.605692+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+    "published": "Sun, 22 Nov 2026 22:49:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-23T03:59:52.605744+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
     "published": "Sun, 22 Nov 2026 22:37:43 GMT",
     "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
@@ -8270,39 +8304,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-16T00:29:39.395885+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: Moment drone hits supermarket in Odesa",
-    "published": "Thu, 15 Oct 2026 17:06:12 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cmwyq62z0n19o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [
-      "drone",
-      "strike"
-    ],
-    "score": 40,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-16T00:29:39.396032+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Watch: What the data centre boom means for Arizona ahead of midterm elections",
-    "published": "Thu, 15 Oct 2026 19:46:07 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cw62yvzv9mm3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T00:29:39.396071+00:00"
   }
 ]
