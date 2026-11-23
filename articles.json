@@ -1,6 +1,145 @@
 [
   {
     "source": "BBC World",
+    "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+    "published": "Mon, 23 Nov 2026 05:15:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Australia"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-23T14:27:30.461214+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+    "published": "Mon, 23 Nov 2026 11:57:33 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-23T14:27:30.461249+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Flights and train services cancelled in Belgium due to strike",
+    "published": "Mon, 23 Nov 2026 13:34:02 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-23T14:27:30.461316+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+    "published": "Mon, 23 Nov 2026 13:26:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "soldiers",
+      "attack"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-11-23T14:27:30.461345+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+    "published": "Mon, 23 Nov 2026 14:26:33 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-23T14:27:30.461398+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ukraine shares video of strikes on Russian ships off Libya",
+    "published": "Mon, 23 Nov 2026 11:34:10 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war",
+      "strike",
+      "strikes"
+    ],
+    "score": 60,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-23T14:27:30.461729+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+    "published": "Mon, 23 Nov 2026 13:09:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-23T14:27:30.750293+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Who is taking part in France's recent street protests?",
+    "published": "Mon, 23 Nov 2026 09:25:52 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cw5y188vzxn8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "fighting"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-23T14:27:30.750869+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
     "published": "Mon, 23 Nov 2026 02:37:02 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
@@ -8172,137 +8311,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-16T09:38:08.164389+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-    "published": "Fri, 16 Oct 2026 05:00:17 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T09:38:08.164452+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-    "published": "Fri, 16 Oct 2026 09:34:30 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T09:38:08.164488+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-    "published": "Fri, 16 Oct 2026 08:45:54 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "China",
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T09:38:08.164521+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "They fled Russia, but the West sent them back",
-    "published": "Fri, 16 Oct 2026 04:57:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T09:38:08.165007+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Canada PM warns 'stakes are high' as Alberta separation vote nears",
-    "published": "Fri, 16 Oct 2026 02:27:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9rky2vrr5vzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T04:56:04.228918+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "US police identify remains of man found in barrel in shrinking reservoir",
-    "published": "Fri, 16 Oct 2026 01:35:40 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c670pnlgzq7po?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T04:56:04.228987+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-    "published": "Thu, 15 Oct 2026 23:27:21 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T00:29:39.395550+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Are student protests being manipulated ahead of France's presidential election?",
-    "published": "Thu, 15 Oct 2026 23:25:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "weapon"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T00:29:39.395885+00:00"
   }
 ]
