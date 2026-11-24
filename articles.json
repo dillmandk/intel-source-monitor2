@@ -1,6 +1,94 @@
 [
   {
     "source": "BBC World",
+    "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+    "published": "Tue, 24 Nov 2026 10:58:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "NATO"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-24T12:18:58.185766+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Car bomb tears through Colombian city wounding more than 20",
+    "published": "Tue, 24 Nov 2026 11:45:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-24T12:18:58.185848+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+    "published": "Tue, 24 Nov 2026 10:48:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-24T12:18:58.185873+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+    "published": "Mon, 23 Nov 2026 21:03:34 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "sanctions"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-11-24T12:18:58.185975+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Watch: Moment troops raid home and capture Mexican drug lord",
+    "published": "Tue, 24 Nov 2026 09:09:41 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "troops"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-24T12:18:58.185998+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
     "published": "Mon, 23 Nov 2026 20:48:35 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
@@ -8210,92 +8298,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-17T21:44:29.543666+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-    "published": "Fri, 16 Oct 2026 18:11:29 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-17T11:05:43.487374+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-    "published": "Sat, 17 Oct 2026 02:33:09 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-17T06:25:08.664013+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump waives several Russia sanctions as new US law takes effect",
-    "published": "Sat, 17 Oct 2026 05:02:50 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "war",
-      "sanctions"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-17T06:25:08.664060+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-    "published": "Fri, 16 Oct 2026 23:54:35 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "invasion"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-10-17T01:49:52.733860+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-    "published": "Fri, 16 Oct 2026 23:07:38 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T23:48:21.156801+00:00"
   }
 ]
