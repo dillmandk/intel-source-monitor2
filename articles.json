@@ -1,6 +1,109 @@
 [
   {
     "source": "BBC World",
+    "title": "US attorney general dodges questions about Nvidia investigation",
+    "published": "Tue, 24 Nov 2026 21:19:42 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-24T22:38:57.578223+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+    "published": "Tue, 24 Nov 2026 16:49:07 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-24T22:38:57.578265+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+    "published": "Tue, 24 Nov 2026 18:07:46 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-24T22:38:57.578292+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Land mine casualties soar in Syria, two years after war",
+    "published": "Tue, 24 Nov 2026 15:17:28 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Syria"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-24T22:38:57.578322+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+    "published": "Tue, 24 Nov 2026 15:35:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "strike",
+      "strikes"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-24T22:38:57.578356+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
+    "published": "Tue, 24 Nov 2026 17:39:32 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war",
+      "attack",
+      "attacks"
+    ],
+    "score": 55,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-24T22:38:57.829166+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
     "published": "Tue, 24 Nov 2026 10:58:51 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
@@ -8191,112 +8294,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-18T22:35:58.407853+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Macron calls for calm in France and warns rioting must not escalate",
-    "published": "Sun, 18 Oct 2026 20:06:20 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-18T20:32:01.968895+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "What we know so far about deadly fire at Canadian military base",
-    "published": "Sun, 18 Oct 2026 19:42:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-18T20:32:01.968934+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-    "published": "Sun, 18 Oct 2026 11:57:49 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "attack",
-      "strike",
-      "strikes"
-    ],
-    "score": 55,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-18T14:54:08.623210+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Deaths confirmed in major fire at Canada military base",
-    "published": "Sun, 18 Oct 2026 04:00:50 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-18T06:35:34.793641+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "European diplomats attacked by Israeli settlers in West Bank",
-    "published": "Sat, 17 Oct 2026 18:38:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "military",
-      "attack"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-10-17T21:44:29.543630+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Anti-government protesters battle with police in Albania",
-    "published": "Sat, 17 Oct 2026 20:53:00 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-17T21:44:29.543666+00:00"
   }
 ]
