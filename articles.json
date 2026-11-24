@@ -1,6 +1,117 @@
 [
   {
     "source": "BBC World",
+    "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+    "published": "Mon, 23 Nov 2026 20:48:35 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war",
+      "strike"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-24T01:51:19.376748+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "India pledges $1.6bn to Nepal in reset of ties",
+    "published": "Mon, 23 Nov 2026 13:39:30 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-24T01:51:19.376811+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
+    "published": "Mon, 23 Nov 2026 12:43:40 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-24T01:51:19.376834+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+    "published": "Mon, 23 Nov 2026 17:14:50 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "NATO"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-24T01:51:19.376869+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+    "published": "Tue, 24 Nov 2026 01:11:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-24T01:51:19.415854+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
+    "published": "Mon, 23 Nov 2026 22:58:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-24T01:51:19.415895+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump orders US military not to detonate toxic explosives in Iowa without court approval",
+    "published": "Mon, 23 Nov 2026 19:52:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "army"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-24T01:51:19.415971+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
     "published": "Mon, 23 Nov 2026 05:15:06 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
@@ -8186,130 +8297,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-16T23:48:21.156801+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump denies limiting Ukraine access to Starlink network",
-    "published": "Fri, 16 Oct 2026 19:33:48 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T21:23:20.363966+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "What we learned from heated US midterm Senate debates",
-    "published": "Fri, 16 Oct 2026 19:09:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T21:23:20.364439+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-    "published": "Fri, 16 Oct 2026 16:00:30 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "offensive"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T18:12:03.831772+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-    "published": "Fri, 16 Oct 2026 14:31:04 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T18:12:03.831824+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-    "published": "Fri, 16 Oct 2026 11:40:41 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T14:17:07.042981+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Albanian protests turn violent: What we know",
-    "published": "Fri, 16 Oct 2026 12:26:15 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Iran"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T14:17:07.553452+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-    "published": "Fri, 16 Oct 2026 03:45:09 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-16T09:38:08.164389+00:00"
   }
 ]
