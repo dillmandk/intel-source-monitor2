@@ -1,6 +1,78 @@
 [
   {
     "source": "BBC World",
+    "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+    "published": "Wed, 25 Nov 2026 14:46:41 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "military",
+      "missile",
+      "missiles",
+      "strike"
+    ],
+    "score": 80,
+    "priority": "HIGH",
+    "collected_at": "2026-11-25T15:33:22.900066+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+    "published": "Wed, 25 Nov 2026 11:45:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "terrorism"
+    ],
+    "locations": [],
+    "keywords": [
+      "hostage"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T15:33:22.900149+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+    "published": "Wed, 25 Nov 2026 07:26:54 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T15:33:22.900256+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "'This could be apocalyptic' - a community hunkers down for US Army's controlled explosion",
+    "published": "Wed, 25 Nov 2026 12:15:36 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqg7l5zx4edeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "army"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T15:33:22.946788+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
     "published": "Wed, 25 Nov 2026 00:56:51 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
@@ -8227,76 +8299,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-10-19T17:27:16.474974+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "CNN anchor Christiane Amanpour to leave network after 43 years",
-    "published": "Mon, 19 Oct 2026 16:48:36 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c83vqzkrr9zeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Ukraine",
-      "Iran",
-      "Afghanistan"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T17:27:16.677587+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-    "published": "Mon, 19 Oct 2026 14:20:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T17:27:17.260740+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Are the French riots a warning of an intense election to come?",
-    "published": "Mon, 19 Oct 2026 13:43:27 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T17:27:17.261098+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-    "published": "Mon, 19 Oct 2026 09:40:44 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T11:00:37.249066+00:00"
   }
 ]
