@@ -1,6 +1,135 @@
 [
   {
     "source": "BBC World",
+    "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+    "published": "Wed, 25 Nov 2026 17:30:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T23:47:30.881611+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+    "published": "Wed, 25 Nov 2026 22:18:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "tank"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T23:47:30.881655+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "published": "Wed, 25 Nov 2026 19:54:52 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "army"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T23:47:30.881708+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "North Korea expels Swiss diplomat in sanctions row",
+    "published": "Wed, 25 Nov 2026 21:51:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "North Korea"
+    ],
+    "keywords": [
+      "sanctions"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T23:47:30.881737+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+    "published": "Wed, 25 Nov 2026 14:06:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "strike"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T23:47:30.881822+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+    "published": "Wed, 25 Nov 2026 16:42:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T23:47:31.070101+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "What's driving up the cost of your Thanksgiving turkey?",
+    "published": "Wed, 25 Nov 2026 13:59:57 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cw99e4x4x84no?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Turkey"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T23:47:31.070215+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Smoke appears after explosion heard in Iowa near Army detonation site",
+    "published": "Wed, 25 Nov 2026 15:49:43 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cmvg29jkylp1o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "army"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T23:47:31.070301+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Five Russian military jets hit in airfield strike, says Ukraine",
     "published": "Wed, 25 Nov 2026 14:46:41 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
@@ -8160,144 +8289,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-19T21:42:58.709417+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-    "published": "Mon, 19 Oct 2026 18:21:54 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "China"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T21:42:58.801429+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Australian MP critically injured after being hit by car in apparent attack",
-    "published": "Mon, 19 Oct 2026 14:09:54 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T17:27:16.474692+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-    "published": "Mon, 19 Oct 2026 16:22:12 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T17:27:16.474734+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Exiled critic of Rwandan president found beheaded",
-    "published": "Mon, 19 Oct 2026 13:42:41 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "army"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T17:27:16.474765+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-    "published": "Mon, 19 Oct 2026 16:20:51 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "missile",
-      "missiles",
-      "strike"
-    ],
-    "score": 70,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-19T17:27:16.474790+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Personal attacks fire up debate before Brazil's run-off vote",
-    "published": "Mon, 19 Oct 2026 11:41:24 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack",
-      "attacks"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T17:27:16.474829+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Catalonia's former rebel president can return to Spain, court rules",
-    "published": "Mon, 19 Oct 2026 14:06:53 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T17:27:16.474882+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-    "published": "Mon, 19 Oct 2026 16:32:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [
-      "war",
-      "attack"
-    ],
-    "score": 35,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T17:27:16.474974+00:00"
   }
 ]
