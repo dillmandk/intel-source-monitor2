@@ -1,6 +1,127 @@
 [
   {
     "source": "BBC World",
+    "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+    "published": "Wed, 25 Nov 2026 00:56:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war",
+      "invasion"
+    ],
+    "score": 50,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-25T05:02:55.980272+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+    "published": "Wed, 25 Nov 2026 04:49:55 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T05:02:55.980307+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+    "published": "Tue, 24 Nov 2026 23:05:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [
+      "China",
+      "Taiwan"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T05:02:55.980429+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+    "published": "Wed, 25 Nov 2026 00:54:13 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "troops",
+      "war"
+    ],
+    "score": 35,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T05:02:55.980746+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Clashing political visions reflect a divided Spain ahead of election",
+    "published": "Wed, 25 Nov 2026 00:58:34 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T05:02:55.980774+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+    "published": "Wed, 25 Nov 2026 01:03:05 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T05:02:56.245875+00:00"
+  },
+  {
+    "source": "BBC Asia",
+    "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
+    "published": "Wed, 25 Nov 2026 03:15:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "China",
+      "Australia"
+    ],
+    "keywords": [
+      "treaty"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-25T05:02:56.748657+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US attorney general dodges questions about Nvidia investigation",
     "published": "Tue, 24 Nov 2026 21:19:42 GMT",
     "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
@@ -8177,122 +8298,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-10-19T11:00:37.249066+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Watch: 'A dollar on gas won't change our vote' - Iowans sticking with Trump",
-    "published": "Fri, 16 Oct 2026 04:16:31 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c32l4kqg2q4ro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T11:00:37.311942+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "France's government under pressure after weekend of widespread violence",
-    "published": "Mon, 19 Oct 2026 04:16:46 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T05:19:38.574831+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Australian Greens senator denies claims of misconduct towards women",
-    "published": "Mon, 19 Oct 2026 04:54:25 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Australia",
-      "NATO"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T05:19:38.575038+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Major fire at Canada military base leaves four dead, dozens injured",
-    "published": "Sun, 18 Oct 2026 23:06:09 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T00:30:34.868890+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-    "published": "Mon, 19 Oct 2026 00:06:25 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T00:30:34.868951+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-    "published": "Sun, 18 Oct 2026 22:10:45 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "sanctions"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-18T22:35:57.954575+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
-    "published": "Sun, 18 Oct 2026 22:22:51 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-18T22:35:58.407853+00:00"
   }
 ]
