@@ -1,6 +1,69 @@
 [
   {
     "source": "BBC World",
+    "title": "California warns of flooding as King Tides peak over Thanksgiving",
+    "published": "Thu, 26 Nov 2026 01:22:55 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "United Kingdom"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-26T05:32:06.933656+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+    "published": "Thu, 26 Nov 2026 02:06:10 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "troops"
+    ],
+    "score": 25,
+    "priority": "LOW",
+    "collected_at": "2026-11-26T05:32:06.934015+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Spanish elections: What you need to know and what's at stake",
+    "published": "Thu, 26 Nov 2026 00:23:49 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-26T05:32:06.934063+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+    "published": "Thu, 26 Nov 2026 00:23:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-26T05:32:06.934092+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
     "published": "Wed, 25 Nov 2026 17:30:16 GMT",
     "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
@@ -8219,75 +8282,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-20T05:26:26.166970+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
-    "published": "Mon, 19 Oct 2026 23:30:03 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-20T00:45:02.239919+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
-    "published": "Mon, 19 Oct 2026 20:00:43 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [
-      "military",
-      "drone",
-      "drones"
-    ],
-    "score": 50,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-20T00:45:02.240011+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-    "published": "Mon, 19 Oct 2026 20:49:00 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [
-      "missile",
-      "war",
-      "attack",
-      "attacks"
-    ],
-    "score": 80,
-    "priority": "HIGH",
-    "collected_at": "2026-10-19T21:42:58.709164+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Italy plans tougher security measures after violent protests",
-    "published": "Mon, 19 Oct 2026 11:23:36 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-19T21:42:58.709417+00:00"
   }
 ]
