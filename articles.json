@@ -1,6 +1,111 @@
 [
   {
     "source": "BBC World",
+    "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+    "published": "Thu, 26 Nov 2026 15:17:18 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "tank"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-26T15:46:52.315889+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+    "published": "Thu, 26 Nov 2026 10:14:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike",
+      "strikes"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-11-26T15:46:52.315978+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "New UK-EU treaty has 10-year termination clause",
+    "published": "Thu, 26 Nov 2026 15:23:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "treaty"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-26T15:46:52.316057+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Deadly fire erupts near Cairo killing dozens of people",
+    "published": "Thu, 26 Nov 2026 09:09:49 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "tank"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-26T15:46:52.316252+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+    "published": "Thu, 26 Nov 2026 00:01:37 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-26T15:46:52.511452+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Watch: How the Russia-Ukraine war tore my family apart",
+    "published": "Wed, 25 Nov 2026 13:27:36 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cwg7l58v9jdjo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-26T15:46:52.743792+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "California warns of flooding as King Tides peak over Thanksgiving",
     "published": "Thu, 26 Nov 2026 01:22:55 GMT",
     "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
@@ -8188,99 +8293,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-20T15:19:35.589879+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say",
-    "published": "Tue, 20 Oct 2026 14:24:19 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "army",
-      "drone",
-      "drones"
-    ],
-    "score": 50,
-    "priority": "MEDIUM",
-    "collected_at": "2026-10-20T15:19:35.589921+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Alberta votes overwhelmingly to remain part of Canada, projections suggest",
-    "published": "Tue, 20 Oct 2026 09:33:14 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-20T10:22:06.845650+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "My son has disappeared off the face of the earth fighting for Russia",
-    "published": "Tue, 20 Oct 2026 05:10:37 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c60e325g7p87o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military",
-      "conflict"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [
-      "army",
-      "fighting"
-    ],
-    "score": 25,
-    "priority": "LOW",
-    "collected_at": "2026-10-20T10:22:07.062396+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Seventh day of violent clashes between Albanian protesters and police",
-    "published": "Tue, 20 Oct 2026 02:45:05 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-20T05:26:25.708597+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "How is the US economy really doing under President Trump?",
-    "published": "Tue, 20 Oct 2026 05:00:45 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-20T05:26:25.708939+00:00"
-  },
-  {
-    "source": "BBC Asia",
-    "title": "King Charles sends Aung Sang Suu Kyi books, says Myanmar government",
-    "published": "Tue, 20 Oct 2026 03:45:47 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6rryj7z0jzro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-20T05:26:26.166970+00:00"
   }
 ]
