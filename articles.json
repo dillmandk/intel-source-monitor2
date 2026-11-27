@@ -1,6 +1,72 @@
 [
   {
     "source": "BBC World",
+    "title": "Brazil pushes back on Macron calling its meat 'doped'",
+    "published": "Fri, 27 Nov 2026 15:54:15 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-27T18:24:08.959846+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Clashes mar European games as Macron condemns violence",
+    "published": "Fri, 27 Nov 2026 10:24:24 GMT",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-27T18:24:08.959896+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+    "published": "Fri, 27 Nov 2026 10:39:31 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military",
+      "political",
+      "terrorism"
+    ],
+    "locations": [],
+    "keywords": [
+      "military",
+      "troops",
+      "army",
+      "diplomatic",
+      "militant"
+    ],
+    "score": 65,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-27T18:24:08.959977+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
+    "published": "Fri, 27 Nov 2026 08:58:08 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-27T18:24:08.960001+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Could housing decide Spain's general election?",
     "published": "Fri, 27 Nov 2026 06:09:31 GMT",
     "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
@@ -8223,75 +8289,5 @@
     "score": 10,
     "priority": "LOW",
     "collected_at": "2026-10-21T23:22:17.787915+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-    "published": "Wed, 21 Oct 2026 17:42:34 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-21T20:09:21.488935+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-    "published": "Wed, 21 Oct 2026 18:10:42 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-21T20:09:21.489011+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-    "published": "Wed, 21 Oct 2026 18:22:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "India"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-21T20:09:21.489113+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Ohio governor's race turns ugly as attack ad features candidate's estranged mother",
-    "published": "Wed, 21 Oct 2026 17:48:36 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-21T20:09:21.706318+00:00"
   }
 ]
