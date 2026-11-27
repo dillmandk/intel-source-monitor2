@@ -1,6 +1,104 @@
 [
   {
     "source": "BBC World",
+    "title": "Could housing decide Spain's general election?",
+    "published": "Fri, 27 Nov 2026 06:09:31 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-27T08:25:39.665536+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Houthi attacks test Saudi Arabia's image of security",
+    "published": "Fri, 27 Nov 2026 06:04:51 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict",
+      "political"
+    ],
+    "locations": [],
+    "keywords": [
+      "attack",
+      "attacks",
+      "strike",
+      "strikes"
+    ],
+    "score": 75,
+    "priority": "HIGH",
+    "collected_at": "2026-11-27T08:25:39.665579+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+    "published": "Fri, 27 Nov 2026 00:47:43 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-27T08:25:39.665604+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
+    "published": "Fri, 27 Nov 2026 00:48:11 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "United Kingdom"
+    ],
+    "keywords": [
+      "attack"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-27T08:25:39.665628+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+    "published": "Fri, 27 Nov 2026 06:03:39 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-27T08:25:40.138483+00:00"
+  },
+  {
+    "source": "BBC Europe",
+    "title": "UK to pay 'participation' fee to deliver EU deals",
+    "published": "Thu, 26 Nov 2026 23:17:12 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-27T08:25:40.138585+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
     "published": "Thu, 26 Nov 2026 22:49:27 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
@@ -8195,104 +8293,5 @@
     "score": 15,
     "priority": "LOW",
     "collected_at": "2026-10-21T20:09:21.706318+00:00"
-  },
-  {
-    "source": "BBC Europe",
-    "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-    "published": "Wed, 21 Oct 2026 19:58:06 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict",
-      "political"
-    ],
-    "locations": [
-      "Russia",
-      "Ukraine"
-    ],
-    "keywords": [
-      "war",
-      "diplomatic"
-    ],
-    "score": 30,
-    "priority": "LOW",
-    "collected_at": "2026-10-21T20:09:21.955899+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Macron accuses foreign leaders of exploiting French riots",
-    "published": "Wed, 21 Oct 2026 14:04:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-21T16:06:35.929220+00:00"
-  },
-  {
-    "source": "BBC US & Canada",
-    "title": "Google experiences resignation backlash over AI military contracts",
-    "published": "Wed, 21 Oct 2026 15:41:25 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "military"
-    ],
-    "locations": [],
-    "keywords": [
-      "military"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-21T16:06:36.209256+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
-    "published": "Wed, 21 Oct 2026 10:52:00 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Russia"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-21T11:35:33.789484+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Australian MP loses both legs after alleged car attack, husband says",
-    "published": "Wed, 21 Oct 2026 07:56:30 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-21T11:35:33.789552+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
-    "published": "Wed, 21 Oct 2026 02:37:13 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-21T05:55:04.298442+00:00"
   }
 ]
