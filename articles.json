@@ -1,6 +1,109 @@
 [
   {
     "source": "BBC World",
+    "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+    "published": "Thu, 26 Nov 2026 22:49:27 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-27T00:06:12.301953+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+    "published": "Thu, 26 Nov 2026 21:17:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Iran"
+    ],
+    "keywords": [
+      "strike"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-27T00:06:12.302066+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+    "published": "Thu, 26 Nov 2026 12:16:06 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "tank"
+    ],
+    "score": 15,
+    "priority": "LOW",
+    "collected_at": "2026-11-27T00:06:12.302092+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+    "published": "Thu, 26 Nov 2026 22:06:20 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Russia",
+      "Ukraine"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-27T00:06:12.302249+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "'Think twice': Banff officials issue warning over thin ice after skater's death",
+    "published": "Thu, 26 Nov 2026 20:09:00 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3wy01q8pjr8o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-27T00:06:12.435307+00:00"
+  },
+  {
+    "source": "BBC US & Canada",
+    "title": "Fireball steals the show during Thanksgiving drone display in Indiana",
+    "published": "Thu, 26 Nov 2026 16:18:30 GMT",
+    "link": "https://www.bbc.co.uk/news/videos/c6n4e3yypylxo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [
+      "India"
+    ],
+    "keywords": [
+      "drone",
+      "drones"
+    ],
+    "score": 40,
+    "priority": "MEDIUM",
+    "collected_at": "2026-11-27T00:06:12.435460+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
     "published": "Thu, 26 Nov 2026 15:17:18 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
@@ -8191,107 +8294,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-21T05:55:04.298442+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
-    "published": "Wed, 21 Oct 2026 03:58:16 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-21T05:55:04.298529+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Is Ebola under control in Kenya after nine cases confirmed?",
-    "published": "Tue, 20 Oct 2026 23:41:30 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-21T00:57:08.820107+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Is Donald Trump ready to do business with Myanmar?",
-    "published": "Tue, 20 Oct 2026 23:21:39 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "United States"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-21T00:57:08.820145+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
-    "published": "Tue, 20 Oct 2026 20:00:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Ukraine"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-20T22:34:12.629866+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
-    "published": "Tue, 20 Oct 2026 15:58:57 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-20T19:26:09.560344+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
-    "published": "Tue, 20 Oct 2026 11:25:35 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "Australia"
-    ],
-    "keywords": [
-      "attack"
-    ],
-    "score": 15,
-    "priority": "LOW",
-    "collected_at": "2026-10-20T15:19:35.589879+00:00"
   }
 ]
