@@ -1,6 +1,38 @@
 [
   {
     "source": "BBC World",
+    "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+    "published": "Sat, 28 Nov 2026 04:13:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [
+      "Turkey"
+    ],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-28T09:27:30.166520+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Eight killed in Peruvian military helicopter crash",
+    "published": "Sat, 28 Nov 2026 04:19:16 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "military"
+    ],
+    "score": 10,
+    "priority": "LOW",
+    "collected_at": "2026-11-28T09:27:30.166549+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Spanish PM and rivals rally supporters in final pitch for votes",
     "published": "Fri, 27 Nov 2026 21:55:53 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
@@ -8252,37 +8284,5 @@
     "score": 35,
     "priority": "LOW",
     "collected_at": "2026-10-22T12:29:53.067623+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "How do Israel's elections work and who are the main contenders?",
-    "published": "Thu, 22 Oct 2026 09:27:10 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Israel"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-22T12:29:53.067696+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "How Arab parties could hold critical balance of power in Israeli election",
-    "published": "Thu, 22 Oct 2026 05:30:22 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [
-      "Israel"
-    ],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-22T06:39:48.448838+00:00"
   }
 ]
