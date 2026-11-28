@@ -1,6 +1,69 @@
 [
   {
     "source": "BBC World",
+    "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+    "published": "Fri, 27 Nov 2026 21:55:53 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-28T01:36:07.980508+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+    "published": "Fri, 27 Nov 2026 18:42:50 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "conflict"
+    ],
+    "locations": [
+      "Ukraine"
+    ],
+    "keywords": [
+      "war"
+    ],
+    "score": 20,
+    "priority": "LOW",
+    "collected_at": "2026-11-28T01:36:07.980582+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+    "published": "Fri, 27 Nov 2026 20:34:45 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "military"
+    ],
+    "locations": [],
+    "keywords": [
+      "tank",
+      "tanks"
+    ],
+    "score": 30,
+    "priority": "LOW",
+    "collected_at": "2026-11-28T01:36:07.980664+00:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+    "published": "Sat, 28 Nov 2026 00:05:17 GMT",
+    "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+    "categories": [
+      "political"
+    ],
+    "locations": [],
+    "keywords": [],
+    "score": 0,
+    "priority": "LOW",
+    "collected_at": "2026-11-28T01:36:07.980853+00:00"
+  },
+  {
+    "source": "BBC World",
     "title": "Brazil pushes back on Macron calling its meat 'doped'",
     "published": "Fri, 27 Nov 2026 15:54:15 GMT",
     "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
@@ -8221,73 +8284,5 @@
     "score": 0,
     "priority": "LOW",
     "collected_at": "2026-10-22T06:39:48.448838+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-    "published": "Thu, 22 Oct 2026 01:07:34 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [],
-    "keywords": [
-      "war",
-      "attack",
-      "attacks",
-      "strike",
-      "strikes"
-    ],
-    "score": 95,
-    "priority": "HIGH",
-    "collected_at": "2026-10-22T06:39:48.448944+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "US embassy accuses Canada of election meddling ahead of midterms",
-    "published": "Thu, 22 Oct 2026 03:05:28 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [],
-    "score": 0,
-    "priority": "LOW",
-    "collected_at": "2026-10-22T06:39:48.449020+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-    "published": "Wed, 21 Oct 2026 20:31:47 GMT",
-    "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "conflict"
-    ],
-    "locations": [
-      "South Korea"
-    ],
-    "keywords": [
-      "war"
-    ],
-    "score": 20,
-    "priority": "LOW",
-    "collected_at": "2026-10-22T06:39:48.449441+00:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Japan is known for world-class events - but the Asian Games were chaotic",
-    "published": "Wed, 21 Oct 2026 22:00:58 GMT",
-    "link": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss",
-    "categories": [
-      "political"
-    ],
-    "locations": [],
-    "keywords": [
-      "diplomatic"
-    ],
-    "score": 10,
-    "priority": "LOW",
-    "collected_at": "2026-10-21T23:22:17.787915+00:00"
   }
 ]
